@@ -1,4 +1,4 @@
 # MIA403-TraductorQuechuaEspaniol
 
-##Protipo Web:
+## Protipo Web:
 https://afe5965a7016.ngrok-free.app/
