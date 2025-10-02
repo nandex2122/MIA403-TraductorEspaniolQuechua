@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Traductor de Idiomas</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background: #f8d7da; /* Granate claro */
+            font-family: 'Roboto', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            min-height: 100vh;
+            padding-top: 50px;
+            margin: 0;
+        }
+
+        .container {
+            background: white;
+            padding: 30px 40px;
+            border-radius: 15px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 600px;
+            text-align: center;
+        }
+
+        .logo {
+            width: 100px;
+            margin: 0 auto 20px auto;
+            display: block;
+        }
+
+        h1 {
+            color: #8B0000; /* Rojo oscuro / granate */
+            margin-bottom: 10px;
+            font-weight: 700;
+            font-size: 1.8rem;
+        }
+
+        h2 {
+            color: #5a2a2a;
+            margin-top: 0;
+            margin-bottom: 30px;
+            font-weight: 400;
+            font-size: 1.2rem;
+        }
+
+        textarea {
+            width: 100%;
+            padding: 15px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            resize: vertical;
+        }
+
+        input[type="submit"] {
+            margin-top: 20px;
+            background-color: #8B0000;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            font-size: 16px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #6b0000;
+        }
+
+        .translation {
+            margin-top: 30px;
+            background: #fcebea;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: left;
+        }
+
+        .translation h2 {
+            margin-top: 0;
+            color: #8B0000;
+        }
+
+        .translation p {
+            margin: 0;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Logo de la UNI -->
+        <img src="{{ url_for('static', filename='Logo_UNI.png') }}" alt="Logo UNI" class="logo">
+
+        <!-- Título principal -->
+        <h1>Universidad Nacional de Ingeniería</h1>
+        <h1>FIIS</h1>
+        <h2>Maestría de Inteligencia Artificial</h2>
+
+        <!-- Subtítulo -->
+        <h1>Traductor Español - Quechua</h1>
+
+        <form method="post">
+            <textarea name="input_text" rows="6" placeholder="Escribe aquí tu texto en español..."></textarea><br>
+            <input type="submit" value="Traducir">
+        </form>
+
+        {% if translation %}
+            <div class="translation">
+                <h2>Traducción:</h2>
+                <p>{{ translation }}</p>
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>
