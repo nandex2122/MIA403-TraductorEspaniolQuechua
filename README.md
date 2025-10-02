@@ -28,9 +28,14 @@ data/
  ├── raw/          # dataset original
  ├── interim/      # dataset procesado y unido
  ├── processed/    # dataset formato de Corpus paralelo
-notebooks/Entrenamiento         
- ├── 01_Generacion_Corpus.ipynb            # Notebook para la generación de corpus
- └── 02_Entrenamiento_modelo_BART.ipynb    # Notebook para ejecutar BART en un servidor (para Quechua)
+notebooks/
+	 ├── EDA         
+	 │   ├── Evaluacion_KFold_BART.ipynb            # Notebook para la ejecucion del EDA realizado
+	 ├── Entrenamiento         
+	 │   ├── 01_Generacion_Corpus.ipynb            # Notebook para la generación de corpus
+	 │   ├── 02_Entrenamiento_modelo_BART.ipynb    # Notebook para ejecutar BART en un servidor (para Quechua)
+	 ├── Metrica         
+	 │   ├── Evaluacion_KFold_BART.ipynb            # Notebook para la ejecucion dde metricas BLEU y OUGE-L
 src/               
  ├── Entrenamiento_modelo/               
  ├   ├── 01_procesamiento_data.py       		# script para la generación de corpus
