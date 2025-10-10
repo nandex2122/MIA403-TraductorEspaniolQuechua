@@ -54,8 +54,7 @@ Este repositorio forma parte del curso **Proyecto de Investigación II (MIA 403)
 - **Registros**: 20,000 oraciones segmentadas
 - **Tamaño**: 1,977 KB
 - **Año**: 2025
-- **Tipo**: Corpus médico sintético para sistemas Retrieval-Augmented Generation
-- **Especialidad**: Terminología médica, síntomas, diagnósticos y tratamientos en quechua
+- **Especialidad**: Terminología médica, síntomas, diagnósticos usados en centros de salud
 
 ---
 
