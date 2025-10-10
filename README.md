@@ -20,6 +20,36 @@ Este repositorio forma parte del curso **Proyecto de Investigación II (MIA 403)
 - **Versión usada**: descargada el 28/10/2022  
 - **Hash** (SHA256): `3b7e7fed69aeeabb5eb3802c4dd74e6166ddb0c5341f9ee7161068fbc821bc77`  
 
+### Fuentes Adicionales
+
+#### 1. Literatura - Paco Yunque
+- **Fuente**: [Centro de Recursos - Paco Yunque Edición Multilingüe](https://centroderecursos.cultura.pe/es/registrobibliografico/paco-yunque-edici%C3%B3n-multiling%C3%BCe)
+- **Registros**: 142 pares de oraciones
+- **Tamaño**: 16 KB
+- **Año**: 2023
+- **Tipo**: Literatura peruana (César Vallejo)
+
+#### 2. Material Educativo - MINEDU
+- **Fuente**: [Repositorio MINEDU](https://repositorio.minedu.gob.pe/handle/20.500.12799/10380)
+- **Registros**: 471 pares de oraciones
+- **Tamaño**: 35 KB
+- **Año**: 2014
+- **Tipo**: Material educativo oficial
+
+#### 3. Manual Médico
+- **Fuente**: [Manual de Semiología en Quechua](https://www.cmp.org.pe/wp-content/uploads/2020/07/ManualSemiologiaQuechua-2020.pdf)
+- **Registros**: 310 pares de oraciones
+- **Tamaño**: 24 KB
+- **Tipo**: Terminología médica y de salud
+
+#### 4. Literatura - El Vencedor
+- **Fuente**: [Centro de Recursos - El Vencedor Edición Multilingüe](https://centroderecursos.cultura.pe/es/registrobibliografico/el-vencedor-edici%C3%B3n-multiling%C3%BCe)
+- **Registros**: 150 pares de oraciones
+- **Tamaño**: 25 KB
+- **Año**: 2024
+- **Tipo**: Literatura contemporánea
+
+
 ---
 
 ## 🗂️ Estructura del repositorio (Pendiente)
