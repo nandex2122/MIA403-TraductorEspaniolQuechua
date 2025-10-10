@@ -133,7 +133,7 @@ pip install -r requirements.txt
 
 3. **Prototipo**
    
-   Probar Prototipo[PoeProbar Prototipo](https://0704e13dcc33.ngrok-free.app)
+   Probar Prototipo[Click Aquí](https://0704e13dcc33.ngrok-free.app)
 
    ```bash
    ngrok config add-authtoken
