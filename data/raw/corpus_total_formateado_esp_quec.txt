@@ -1,0 +1,2023 @@
+000000	¡No me pellizques!	000000	¡Ama chiptiwaychu!
+000001	¡No pises el maíz!	000001	¡Ama sarata saruychu!
+000002	¡No reprendas al niño!	000002	¡Ama wawata qaqchaychu!
+000003	¡Arco iris hijo de la luna exprime tus lágrimas para mí!	000003	¡Killapa wawan hatun chirapa wiqillaykita qapiykamuway!
+000004	¿No has visto a mi vaca que tiene las orejas flecadas?	000004	¿Chillpi rinri wakayta manachu rikurqanki?
+000005	¿Has comido queso frito?	000005	¿Kisu tiqtita mikurqankichu?
+000006	¿Por qué suspiras?	000006	¿lmamantam anchinki?
+000007	Adornemos con hojitas de begonia.	000007	Achanqaray rapichawan achalasun
+000008	Ya llegó el amanecer.	000008	Achikyay chayarqamunña
+000009	Cuando se come harta tuna no se debe consumir cancha pues puede estreñirnos.	000009	Achka tunasta mikuspaqa manam hamkata mikunachu aka kichkim hapikun
+000010	Los abuelos conocen hartas adivinanzas.	000010	Achka watuchitam awilukuna yachanku
+000011	Niño tienes que ir a comprar achiote.	000011	Achuwiti rantiqmi warma rinki
+000012	Estás cavando en la roca como el pito.	000012	Akaklluhinam qaqata tuquchkanki
+000013	El excremento huele horrible.	000013	Akaqa millaytam asnan
+000014	Soba la masa para hacer el pan.	000014	Akuta tanta ruranapaq qaquy
+000015	Lleva el ángulo para que guarde.	000015	Allichananpaq kuchusta apan
+000016	Comamos quihuicha para tener buena memoria.	000016	Allin yuyaysapa kanapaq kiwichata mikusun
+000017	Traes al mejor varón.	000017	Allinnin kaq qarita pusamunki
+000018	Los que están vestidos de blanco y negro están jugando.	000018	Allqa pachayuqkuna pukllachkanku
+000019	Separan a los perros que se pelean.	000019	Allqu maqanakuqta amachanku
+000020	Al perro se le cría para que cuide la casa.	000020	Allqutaqa wasi qawananpaqmi uywanku
+000021	Preparen un picante de arvejas.	000021	Alwirhas pikantita yanukurquychik
+000022	No hagas rodar el excremento como el escarabajo.	000022	Ama akatanqahina akata kurpachiychu
+000023	No permitas que alguien te golpee impídelo.	000023	Ama piwanpas maqachikuychu amatakuy
+000024	La serpiente es venenosa no nos debemos acercar.	000024	Amaruqa wañuchiq hampiyuqmi amam asuykunachu
+000025	No se debe avergonzar al niño mudo.	000025	Amu warmataqa manam pinqachinachu
+000026	Anita apaga la candela.	000026	Anacha ninata amachan
+000027	La luciérnaga es un insecto luminoso.	000027	Anchaq kurum pinchi killa
+000028	Habían roto un pantalón azul.	000028	Anqas waratam Ilikisqaku
+000029	Cuando aparece el celaje significa que habrá hambruna.	000029	Anta rikukuptinqa muchuymi kanqa
+000030	En las abras hay muchos hitos.	000030	Apachitakunapi achkam saywakuna
+000031	Mi abuela me ha invitado panecillos.	000031	Awilaymi kispiñuta Ilukiykamuwan
+000032	Amistémonos con nuestro enemigo.	000032	Awqanchikwan allimpasun
+000033	En el velorio la gente dice adivinanzas.	000033	Aya ratachikuypi runakuna watuchinku
+000034	Casi muere atragantado con la carne.	000034	Aychawan chakatakurquspa yaqalla wañun
+000035	De la chachacoma hacen el carbón.	000035	Chachas sachamanta killimsata ruranku
+000036	Tracemos una cruz.	000036	Chakanata qillqasun
+000037	Las semillas no germinan en tierra seca.	000037	Chaki allpapiqa manam kawsay wiñanchu
+000038	Cuando camina le duele el callo de los pies.	000038	Chakipa taqrin puriptin nanan
+000039	Me está doliendo el pie.	000039	Chakiy nanawachkan
+000040	La tierra de nuestra chakra es suave no es dura.	000040	Chakranchikqa qallpam manam kapkachu
+000041	En esa ladera no podría sembrar.	000041	Chay qatapiqa manam tarpuymanchu
+000042	Ese hombre es tan hablador como el ruiseñor.	000042	Chay runaqa chiqulluhina rimaysapam
+000043	Busca una cuña para sostener la mesa.	000043	Chillpata maskamuy misa takyachinapaq
+000044	Los monos viven en la selva.	000044	Chipikunaqa yunkapim kawsan
+000045	La verdad vence a la mentira.	000045	Chiqam atipan llullataqa
+000046	Te venderé el toro moteado.	000046	Chiqchi turuta rantikurqusqayki
+000047	Los animales están muriendo por la sequía.	000047	Chiraw chayarqamuptinmi uywakuna wañuykuchkan
+000048	La comida fría puede causar dolor de estómago.	000048	Chiri mikunaqa wiksatam nanachinman
+000049	Irá por la tarde.	000049	Chisinkuyta rinqa
+000050	La sopa está desabrida.	000050	Chupiqa qamyam kachkan
+000051	En los días festivos hacen pachamanca en mi pueblo.	000051	Hatun punchawkunapi Ilaqtaypi watyata ruranku
+000052	Ya está grande nuestra siembra.	000052	Hatunñam tarpuyniyku kachkan
+000053	Hemos amanecido tranquilos.	000053	Hawkallam achikyaniku
+000054	Dicen que un difunto ha resucitado.	000054	Huk ayas kawsarirqun
+000055	Qué bonito canta el jilguero.	000055	Ima sumaqtam chinqu takichkan
+000056	Existe una gran variedad de maíces.	000056	Imaymana rikchaq sarakunam kan
+000057	Los muslos terminan en la posadera.	000057	Iskaynin chankaqa sikipim tukun
+000058	Limpia la papa sucia.	000058	Karka papata kituy
+000059	Atraviesa la acequia con la madera.	000059	Kaspiwan yarqata chakatay
+000060	El catre está para arreglarlo.	000060	Kawituqa allichanam
+000061	Esta urdidera se había roto.	000061	Kay allwinaqa pakikurqusqam
+000062	La gente vive entristecida.	000062	Kay pachapi llakisqahinam runa kawsan
+000063	El nombre de este animal es chancho.	000063	Kay uywapa sutinqa kuchim
+000064	Para el dolor de muelas es bueno retener en la boca agua con sal.	000064	Kiru nanaypaqqa kachi yakutam amuna
+000065	Hagamos leña de quishuar.	000065	Kiswartaña yantarqusun
+000066	Degollemos al chancho.	000066	Kuchita nakakusun
+000067	Se había desollado el codo.	000067	Kuchusninta llaqllarqukusqa
+000068	Las torcazas se cuidan muy bien.	000068	Kukulikunaqa sumaqtam kuyanakunku
+000069	El cucharón de madera lo fabrican del aliso.	000069	Lamrasmantam wisllata ruranku
+000070	Exprime el limón en el ají.	000070	Limunchata uchuman qapiykuy
+000071	Describe a tu pueblo.	000071	Llaqtaykita sutinchay
+000072	Si se enfrían demasiado los pulmones las personas se enferman.	000072	Llumpay chiri surqamanman yaykurquptinqa runaqa unqunmi
+000073	Cuando hay mucha lluvia debemos cruzar el río por el puente.	000073	Llumpayta paraptinqa chakantam mayuta chimpana
+000074	La polilla terminó con el hilado de mi madre.	000074	Mamaypa puchkantam puyu tukurqusqa
+000075	Mi mamá está torciendo lana negra gruesa.	000075	Mamayqa yana qaytutam kawpuchkan
+000076	Si no se lavan la cara o las manos puede ocasionar sarna aparece la sarna.	000076	Mana mayllakusqaqa uyapipas makipipas qaracha rikurimun
+000077	Las golondrinas vuelan sin aletear.	000077	Mana rapranta kuyuchispallam wayanay pawan
+000078	Servir a una persona desconocida había sido difícil.	000078	Mana riqsisqa runata qarayqa sasam kasqa
+000079	No puede caminar porque se ha golpeado la cadera.	000079	Manam puriyta atinchu siki patantam takakurqun
+000080	No se debe defecar en la puerta de la casa.	000080	Manam wasi punkupiqa akanachu
+000081	Cruzo los ríos solo por los puentes.	000081	Mayuta chimpani chaka chakallanta
+000082	Sirve la comida para que coman.	000082	Mikunankupaq qarakamuy
+000083	Las uñas de las aves son como las garras del gato.	000083	Misipahinam pisqukunapa sillunqa
+000084	Ya estamos próximos a tiempos de hambruna.	000084	Muchuy pachaman yaykuchkanchikñam
+000085	La cáscara de la papa es buena para el dolor de riñones.	000085	Papapa qaranqa allinmi ruru nanaypaq
+000086	Marcos escoge la papa.	000086	Papata akllay Markuscha
+000087	Él o ella prepara ají de caigua.	000087	Payqa achuqcha uchuchata ruran
+000088	Algunas mujeres caminan con sus labios muy colorados.	000088	Pukay pukay wirpayuq purinku wakin warmikunaqa
+000089	En mi cama no hay almohada.	000089	Puñunaypiqa manam sawnaqa kanchu
+000090	Las enfermedades venéreas aparecen en forma de úlceras en los genitales de las personas.	000090	Pusullu pusulluhinam wanti runapa ispakunanpi rikurimun
+000091	Trae el pututo para llamar a la gente.	000091	Putututa apamuy runakuna qayananchikpaq
+000092	Saca agua del porongo.	000092	Puyñumanta yakuta wisin
+000093	La nube tapó al sol.	000093	Puyu intita harkarqun
+000094	Cabalgo mi caballo en pelo (sin montura).	000094	Qalallapim kawalluyman sillani
+000095	Vamos a lavar las ropas sucias.	000095	Qanra pachakunata taqsamusun
+000096	Lleva una flor de cantuta en el sombrero.	000096	Qantupa waytanta sumirunpi apan
+000097	Comiendo cañihua los bebés crecen muy saludables.	000097	Qañiwata mikuspaqa allin kallpayuqmi wawakuna qispin
+000098	En la oquedad de la roca está empollando el gavilán.	000098	Qaqapa uchkunpi anka uqllachkan
+000099	La zarigüeya camina tanto en los árboles como en la tierra.	000099	Qara chupaqa sachantapas pampantapas purinmi
+000100	La lagartija vive en los cascajales.	000100	Qaraywaqa ranra ranrakunapim kawsan
+000101	Cuando lleguemos al abra comenzaremos a bajar.	000101	Qasaman chayarquspaqa uraytañam qallaykusun
+000102	La helada había “sancochado” las matas de papa.	000102	Qasaqa papatam yanurqusqa
+000103	En mi pecho hay un lunar.	000103	Qasquypim anacha kan
+000104	Perdióse la plata.	000104	Qullqi chinkarqun
+000105	Anoche perdí mi dinero.	000105	Qullqiytam chisi wischurqusqani
+000106	Con el abono del cuy se logra buena producción de maíz.	000106	Quwi wanuwanqa allintam sara qispin
+000107	La piedra está rodando.	000107	Rumi kuchpakamuchkan
+000108	El hombre le grita a su hijo.	000108	Runa churinta qaparin
+000109	No debemos odiar a nuestros semejantes.	000109	Runa masinchiktaqa manam chiqninachu
+000110	La comadreja ya está exterminando a los pollitos de la gente.	000110	Runapa chiwchintam achuqalla tukurquchkanña
+000111	De la piel del hombre sale sangre.	000111	Runapa qaranmanta yawar Iluqsimun
+000112	Corta la carne para asarla en la brasa.	000112	Sansapi kankanapaq aychata kuchuykuy
+000113	Saywita espero encontrarte igual a mi retorno.	000113	Saywachalláy rumi chayllapim kanki kutimunaykama
+000114	En boca cerrada no entran moscas.	000114	Simi wichqasqapiqa manam chuspi yaykunchu
+000115	El ñandú tiene plumas muy hermosas.	000115	Suriqa sumaq sumaq puruyuqmi
+000116	El gavilán ladrón se llevó a mi pollito.	000116	Suwa ankam chiwchichayta aparqun
+000117	Reúnen el estiércol de los camélidos.	000117	Taqyata huñunku yanukunankupaq
+000118	Quiten las raíces de la papa para sembrarlas.	000118	Tarpunapaq papapa sapichankunata kituy
+000119	La carne de venado es muy agradable.	000119	Tarukapa aychanqa miskikullanmi
+000120	Cocinan picante de chocho para los trabajadores.	000120	Tarwi pikantita Ilamkaqkunapaq yanukunku
+000121	Sus padres convidan panecillos.	000121	Taytankuman puylluta mallichinku
+000122	Mi padre trabaja en la mina de cobre.	000122	Taytayqa anta minapim Ilamkan
+000123	En la noche se debe comer con luz.	000123	Tutanqa akchiwanmi mikuna
+000124	El niño enfermo ya se encuentra bien.	000124	Unquq wawa allinñam kachkan
+000125	Iremos a escarbar la oca.	000125	Uqa allaqmi risaqku
+000126	La lengua cocida de los animales es rica.	000126	Uywapa yanusqa qallunqa miski miskim
+000127	Tumba al animal.	000127	Uywata kuchpaykuy
+000128	Qué bonita está esa mujer escogida.	000128	Wak akllaqa sumaqcham kachkan
+000129	Del cuero de la vaca hacen ojotas.	000129	Wakapa qaranmanta siquyta ruranku
+000130	Vamos a sembrar flores para las abejas.	000130	Wanquyrupaqmi waytakunata tarpusun
+000131	La mujer puja mucho al dar a luz.	000131	Warmi wachananpaqqa Ilumpaytam qaman
+000132	Entre hermanos van a la escuela.	000132	Wawqipura yachay wasiman rinku
+000133	Se había puesto pantalones sueltos.	000133	Waya warawan churakarqamusqa
+000134	Túpac Amaru defendió a los pobres.	000134	Wira qucha Tupaq Amaru wakchakunatam amacharqa
+000135	Mastican rompiendo la caña de maíz.	000135	Wiruta pakispa kachunku
+000136	La carne de la vizcacha es muy agradable.	000136	Wiskachapa aychanqa miskikullanmi
+000137	Las vizcachas están saltando en las rocas.	000137	Wiskakakuna raqchipi chintachkanku
+000138	Adornemos nuestra escuela.	000138	Yachay wasinchikta achalasun
+000139	Está goteando el agua.	000139	Yakuqa sutuchkan
+000140	Durante la limpieza de la acequia tocan la flauta de madera.	000140	Yarqa aspiypi tarqata waqachinku
+000141	Siembra maíz blanco.	000141	Yuraq sarata tarpun
+000142	Cuando Paco Yunque y su madre llegaron a la puerta del colegio	000142	Paco Yunque mamanpiwan yachaywasiman chayaruptinku
+000143	los niños estaban jugando en el patio.	000143	warmakunaqa pampapi pukllachkasqaku.
+000144	La madre le dejó y se fue.	000144	Maman saqiruspa pasakun.
+000145	Paco estaba con miedo	000145	Pacoqa manchakuywan karqan
+000146	porque era la primera vez que venía a un colegio y porque nunca había visto a tantos niños juntos.	000146	wamaqllaraq yachaywasita qawaspa; hinaspa achka warmakunataqa manam haykaqllapas rikurqanchu.
+000147	¡Qué listos eran todos esos chicos!	000147	¡Warmakunaqa rikchapayllañam kasqaku!
+000148	¡Qué desenvueltos!	000148	¡Rimaysapallaña!
+000149	Como si estuviesen en su casa.	000149	Wasinkupipas kachkanmankuhina.
+000150	Gritaban.	000150	Qaparinku.
+000151	Corrían.	000151	Kallpakachanku.
+000152	Reían hasta reventar.	000152	Anchata asiykunku.
+000153	Saltaban.	000153	Pawaykachanku.
+000154	Se daban de puñetazos.	000154	Takaykanakunku.
+000155	Eso era un enredo.	000155	Chayqa chaqwayllañam karqan.
+000156	Paco estaba también atolondrado porque en el campo no oyó nunca sonar tantas voces de personas a la vez.	000156	Pacoqa sunsuyarparin campopiqa manam haykaqpas chayna achka runapa rimaynintaqa uyarirqanchu.
+000157	En el campo hablaba primero uno después otro después otro y después otro.	000157	Campopiqa chulla chullallamantam rimanku.
+000158	A veces oyó hablar hasta cuatro o cinco personas juntas.	000158	Wakin punchawkunaqa uyarirqam tawa utaq pichqa runakuna rimaqta.
+000159	Con las gallinas eran más.	000159	Wallpakunawanqa aswanmi achka karqan.
+000160	Y más todavía con la acequia cuando crecía…	000160	Aswanraq acequia yaku achkayaptin…
+000161	Pero no.	000161	Chayqa manam.
+000162	Eso no era ya voz de personas sino otro ruido muy diferente.	000162	Runakunapa rimayninñachu karqan ichaqa hukman chaqwaymi karqan.
+000163	Y ahora sí que esto del colegio era una bulla fuerte de muchos.	000163	Kay yachaywasipiqa llumpay chaqwañam karqan achka runakunapa.
+000164	Paco estaba asordado.	000164	Pacoqa upa rinriñam karurqan.
+000165	De diversos grupos se separaban los alumnos y venían a ver a Paco haciéndole muchas preguntas.	000165	Yachakuq warmakunam huntamunku Pacota qawaq tapupayaspanku.
+000166	Pero Paco no podía oír nada por la gritería de los demás.	000166	Pacoñataq mana imatapas uyarinchu wakiqninku chaqwaykuptinku.
+000167	Pero Paco no se dejó.	000167	Pacoñataq mana munanchu.
+000168	El trigueño volvió a agarrarlo con más fuerza y lo jaló.	000168	Yananiraq uyayuq warmaqa hukmantapunitaq kallpawan hapirqun hinaspa chutarqun.
+000169	Paco se pegó más a la pared y se puso más colorado.	000169	Pacoqa aswanraq pirqaman qimirqukuspa aswan pukayarparin.
+000170	En ese momento sonó la campana y todos entraron a los salones de clase.	000170	Chaynachkaptinkum campana waqarparin hinaptinmi lliw warmakuna yachananku ukuman yaykurparinku.
+000171	Dos niños los hermanos Zumiga tomaron de una y otra mano a Paco y le condujeron a la sala de primer año.	000171	Iskay warmakuna Zumiga wayqikuna Pacota iskaynin makinmanta hapirquspanku aparqunku primer año nisqa ukuman.
+000172	Paco no quiso seguirlos al principio pero luego obedeció porque vio que todos hacían lo mismo.	000172	Pacoqa manam munarqachu chaymantaqa qatirqun llapanku yaykuqta rikuspa.
+000173	Al entrar al salón se puso pálido.	000173	Ukuman yaykurquspaqa uyan qilluyarparin.
+000174	Todo quedó repentinamente en silencio y este silencio le dio miedo a Paco.	000174	Qunqaymanta llapallanku upallarparinku chaywan Paco mancharikun.
+000175	Los Zumiga le estaban jalando el uno para un lado y el otro para el otro lado cuando de pronto le soltaron y lo dejaron solo.	000175	Zumigakunañataq chutachkanku sapa waqtanmanta qunqaymanta kacharirqunku hinaspa sapallanta saqirqunku.
+000176	El profesor entró.	000176	Yachachiq yaykurqamun.
+000177	Todos los niños estaban de pie con la mano derecha levantada a la altura de la sien saludando en silencio y muy erguidos.	000177	Llapan warmakuna sayasqa kachkanku piqankukama ichuq makinkuta uqarispanku upallalla kaspanku hinaspa allinta sayaspanku.
+000178	Un remolino se le hacía en la cabeza.	000178	Umanraq muyurparin.
+000179	Niños.	000179	Warmakuna.
+000180	Paredes amarillas.	000180	Qillu pirqakuna.
+000181	Grupos de niños.	000181	Huñusqa warmakuna.
+000182	Vocerío.	000182	Chaqwaykuna.
+000183	Silencio.	000183	Chun nirqun.
+000184	Una tracalada de sillas.	000184	Achka tiyanakuna.
+000185	El profesor.	000185	Yachachiq.
+000186	Quería llorar.	000186	Waqanayaywan.
+000187	El profesor le tomó de la mano y lo llevó a instalar en una de las carpetas delanteras junto a un niño de su mismo tamaño.	000187	Yachachiq makinmanta hapirquspa aparqun ñawpaqpi kaq tiyanaman sayaymasin warmapa kuskanman.
+000188	El profesor le preguntó:	000188	Yachachiq tapun:
+000189	¿Cómo se llama usted?	000189	¿Imam qampa sutiyki?
+000190	Con voz temblorosa Paco respondió muy bajito:	000190	Katkataqhina rimaspa Paco tumpachallata rimaspa kutichin:
+000191	Paco.	000191	Paco.
+000192	¿Y su apellido? Diga usted todo su nombre.	000192	¿Taytamamaykimanta sutiykiri? Lliw sutiykita niy.
+000193	Paco Yunque.	000193	Paco Yunque.
+000194	Muy bien.	000194	Kusam.
+000195	El profesor volvió a su pupitre y después de echar una mirada muy seria sobre todos los alumnos dijo con voz de militar:	000195	Yachachiq kutirqun pupitrenman hinaspa yachakuqkunata qaqa uyanwan qawaykuspa hatun siminwan nin:
+000196	¡Siéntense!	000196	¡Tiyaychik!
+000197	Un traqueteo de carpetas y todos los alumnos ya estaban sentados.	000197	Llapallan yachakuqkunaqa tiyanankuta taqtaqyachisparaq tiyarparinku.
+000198	El profesor también se sentó y durante unos momentos escribió en unos libros.	000198	Yachachiqpas tiyarqun hinaspa qillqaykun maytukunapi.
+000199	Paco Yunque tenía aún en la mano su libro su cuaderno y su lápiz.	000199	Paco Yunqueqa maytunta qillqanan maytunta lápiznintapas hapirayan.
+000200	Su compañero de carpeta le dijo:	000200	Carpetanpi tiyaqmasinñataq nin:
+000201	Pon tus cosas como yo en la carpeta.	000201	Ñuqahina imaykitapas carpetapi churay.
+000202	Paco Yunque seguía muy aturdido y no le hizo caso.	000202	Paco Yunqueqa hinaraq uman muyusqa kaspa mana casokunchu.
+000203	Su compañero le quitó entonces sus libros y los puso en la carpeta.	000203	Yachaqmasinñataq maytunkunata qichurquspa carpetaman churarparin.
+000204	Después le dijo alegremente:	000204	Chaymanta kusisqa kaynata nin:
+000205	Yo también me llamo Paco	000205	Ñuqapa sutiypas Pacom
+000206	Paco Fariña no tengas pena.	000206	Paco Fariña ama manchakuychu.
+000207	Me lo ha comprado mi tía Susana.	000207	Tiyay Susanam rantirqapuwan.
+000208	¿Dónde está tu familia la tuya?	000208	¿Qampa aylluykiri maypim kachkan?
+000209	Paco Yunque no respondía nada.	000209	Paco Yunqueqa manam imatapas rimarinchu.
+000210	Este otro Paco le molestaba.	000210	Kay huknin Pacoñataq rimapayan.
+000211	Como éste eran seguramente todos los demás niños: habladores contentos y no les daba miedo el colegio.	000211	Payhinachiki wakin warmakunapas: rimaysapakuna kusisqallaña hinaspa yachaywasitaqa mana manchakunkuchu.
+000212	¿Por qué eran así?	000212	¿Imaynanpitaq kaynari kanku?
+000213	Y él Paco Yunque ¿por qué tenía tanto miedo?	000213	Paco Yunqueñataq ¿imaynanpitaq anchata manchakun?
+000214	Miraba a hurtadillas al profesor al pupitre al muro que había detrás del profesor y al techo.	000214	Mana musyachikuqhinalla yachachiqta qawan pupitretapas yachachiqpa qipanpi kaq pirqatapas chaynallataq yachaywasipa qatantapas.
+000215	El sol brillaba afuera.	000215	Hawapiqa inti kanchiykun.
+000216	De cuando en cuando llegaban voces de otros salones de clase y ruidos de carretas que pasaban por la calle.	000216	Wakin yachana ukukunamanta warmakunapa rimasqanku uyarikun chaynallataq callentakama carretakuna riqtapas uyarin.
+000217	¡Qué cosa extraña era estar en el colegio!	000217	¡Imaynataq yachaywasipi kaynari!
+000218	Paco Yunque empezaba a volver un poco de su aturdimiento.	000218	Paco Yunqueqa uma muyunmanta allinyarin.
+000219	Pensó en su casa y en su mamá.	000219	Wasinta yuyarin chaynallataq mamantapas.
+000220	Le preguntó a Paco Fariña:	000220	Paco Fariñata tapukun:
+000221	¿A qué hora nos iremos a nuestras casas?	000221	¿Imay horatataq wasinchikmanri ripusun?
+000222	¿Dónde está tu casa?	000222	¿Maypitaq wasiykiri?
+000223	A las once.	000223	Chunka hukniyuq horatam.
+000224	Por allá.	000224	Wakpim.
+000225	¿Está lejos?	000225	¿Karupiraqchu kachkan?
+000226	Sí… No…	000226	Arí… Manam…
+000227	Precisamente a Paco le habían hecho venir del campo para que acompañe al colegio a Humberto y para que juegue con él pues ambos tenían la misma edad.	000227	Pacotaqa aparqachimusqa Humbertota yachaywasiman rinaysinanpaq chaynallataq payta pukllaysinanpaq watapuralla kasqankurayku.
+000228	Sólo que Humberto acostumbraba venir tarde al colegio y esta vez por ser la primera la señora Grieve le había dicho a la madre de Paco:	000228	Humbertoqa yachaywasiman qipa qipata chayarqan kunanñataq qallariy punchaw kaptin mama Grieve mañarurqan Pacopa mamanta:
+000229	El profesor al ver a Humberto Grieve le dijo:	000229	Yachachiq Humberto Grieveta qawaspa nin:
+000230	¿Hoy otra vez tarde?	000230	¿Kunanpas kutitapunitaq qiparqamunki?
+000231	Humberto con gran desenfado respondió:	000231	Humberto mana manchakuspa kutichin:
+000232	Me he quedado dormido.	000232	Puñurparisqanim.
+000233	Humberto Grieve buscó con la mirada donde estaba Paco Yunque. Al dar con él se le acercó y le dijo imperiosamente:	000233	Humberto Grieve ñawillanwan maskan Paco Yunqueta. Rikurquspan asuykurqun hinaspa kamachiqhina nin:
+000234	Ven a mi carpeta conmigo.	000234	Carpetayman hamuy ñuqawan.
+000235	Paco Fariña le dijo a Humberto Grieve:	000235	Paco Fariña Humberto Grieveta nin:
+000236	¿Y a ti qué te importa? le increpó Grieve violentamente arrastrando a Yunque por un brazo a su carpeta.	000236	¿Qanmanri imataq qukusunki? nispan Grieveñataq piñarikun Yunqueta rikranmanta carpetan lawman chutaspa.
+000237	¡Señor! gritó entonces Fariña Grieve se está llevando a Paco Yunque a su carpeta.	000237	¡Tayta! nispa Fariña qaparin Grieven apachkan Paco Yunqueta carpetanman.
+000238	El profesor cesó de escribir y preguntó con voz enérgica:	000238	Yachachiq qillqayta saqirquspa hatun siminwan tapun:
+000239	¡Vamos a ver! ¡Silencio! ¿Qué pasa ahí?	000239	¡Imataq kachkan! ¡Upallaychik! ¿Imam kachkan chaypi?
+000240	Fariña volvió a decir:	000240	Fariña huktawan nin:
+000241	Grieve se ha llevado a su carpeta a Paco Yunque.	000241	Grievem Paco Yunqueta carpetanman aparqun.
+000242	Humberto Grieve instalado ya en su carpeta con Paco Yunque le dijo al profesor:	000242	Humberto Grieve Paco Yunquewan carpetanpiña tiyaspan yachachiqta nin:
+000243	El profesor sabía esto perfectamente y le dijo a Humberto Grieve:	000243	Yachachiqqa allintam yacharqan chaymi Humberto Grieveta nin:
+000244	Todos los alumnos miraban en silencio al profesor a Humberto Grieve y a Paco Yunque.	000244	Lliw yachakuqkuna upallalla yachachiqta qawanku Humberto Grievetapas chaynallataq Paco Yunquetapas.
+000245	Fariña fue y tomó a Paco Yunque por la mano y quiso volverlo a traer a su carpeta pero Grieve tomó a Paco Yunque por el otro brazo y no lo dejó moverse.	000245	Fariña Paco Yunqueta makinmanta hapispa carpetanman kutichiyta munan Grieveñataq huknin rikranmanta hapirqun hinaspa mana kuyurinanta munanchu.
+000246	El profesor le dijo otra vez a Grieve:	000246	Yachachiq kutimanta Grieveta nin:
+000247	¡Grieve! ¿Qué es esto?	000247	¡Grieve! ¿Imataq kayri?
+000248	Humberto Grieve colorado de cólera dijo:	000248	Humberto Grieve piñakuywan pukayarquspa nin:
+000249	Déjelo le he dicho.	000249	Ñuqawan kachun nichkanim.
+000250	No señor.	000250	Manam tayta.
+000251	¿Cómo?	000251	¿Imayná?
+000252	No.	000252	Mana.
+000253	El profesor estaba indignado y repetía amenazador:	000253	Yachachiq piñarqukuspa kuti kutimanta hatun siminwan:
+000254	Humberto Grieve tenía bajos los ojos y sujetaba fuertemente por el brazo a Paco Yunque el cual estaba aturdido y se dejaba jalar como un trapo por Fariña y por Grieve.	000254	Humberto Grieve Paco Yunqueta hatun ñawinwan qawaspa qaqay qaqata rikranmanta hapirqun payñataq uman muyusqahina kaspa trapotahina chutaykachachikun Fariñawan chaynallataq Grievewan.
+000255	Paco Yunque tenía ahora más miedo a Humberto Grieve que al profesor que a todos los demás niños y que al colegio entero.	000255	Paco Yunque kunanqa aswan manchaparqukun Humberto Grieveta yachachiqmantaqa aswanraq lliw yachaywasipi kaq warmakunamantapas.
+000256	¿Por qué Paco Yunque le tenía tanto miedo a Humberto Grieve?	000256	¿Imaynanpitaq Paco Yunque anchata manchakurqan Humberto Grieveta?
+000257	Porque este Humberto Grieve solía pegarle a Paco Yunque.	000257	Humberto Grieve Paco Yunqueta maqapayasqanraykum.
+000258	El profesor se acercó a Paco Yunque le tomó por el brazo y le condujo a la carpeta de Fariña.	000258	Yachachiq asuykurqun Paco Yunqueman rikranmanta hapirquspan Fariñapa carpetanman aparqun.
+000259	Grieve se puso a llorar pataleando furiosamente en su banco.	000259	Grieve waqarqun tiyananpi haytaqyaspa piñasqallaña.
+000260	El profesor le dijo:	000260	Yachachiq nin:
+000261	¿Por qué llega usted tarde?	000261	¿Imaynanpitaq qamri qipata chayamuchkanki?
+000262	Porque fui a comprar pan para el desayuno.	000262	Achikyay mikuypaqmi tanta rantiq rirqani.
+000263	¿Y por qué no fue usted más temprano?	000263	¿Imaynanpitaq rantiqri mana ñawparqankichu?
+000264	Porque estuve alzando a mi hermanito y mamá está enferma y papá se fue a su trabajo.	000264	Sullkachaytam rikcharichirqani mamaymi unquchkan tatayñataq llamkaq rirqun.
+000265	Y además tiene usted una hora de reclusión.	000265	Hinaspa huk horam qipanki lluqsinaykipaq.
+000266	Párese ahí	000266	Chaypi sayay
+000267	Bueno dijo el profesor muy serio.	000267	Allinmi nin yachachiq qaqa uyanwan.
+000268	Le señaló un rincón cerca de la pizarra de ejercicios.	000268	Kuchuta qawachin pizarrapa lawninman.
+000269	Paco Fariña se levantó entonces y dijo:	000269	Paco Fariña sayarirquspa nin:
+000270	Grieve también ha llegado tarde señor.	000270	Grievepas qipatañam chayarqamun tayta.
+000271	Todos los alumnos dijeron en coro:	000271	Lliw yachakuqkunañataq ninku:
+000272	¡Sí señor! ¡Sí señor! ¡Grieve ha llegado tarde!	000272	¡Arí tayta! ¡Arí tayta! ¡Grieveqa qipatañam chayarqamun!
+000273	¡Psch! ¡Silencio! dijo malhumorado el profesor y todos los niños se callaron.	000273	¡Psch! ¡Upallaychik! yachachiq piñasqa nin chaymi lliw warmakuna upallarqunku.
+000274	El profesor se paseaba pensativo.	000274	Yachachiq puriykachan umaymanaqhina.
+000275	Fariña le decía a Yunque en secreto:	000275	Fariña upallaykuqhinalla Yunqueta rimapayan:
+000276	Yunque respondió:	000276	Yunque kutichin:
+000277	Yo vivo con mi mamá…	000277	Ñuqaqa mamaywanmi tiyani…
+000278	¿En la casa de Humberto Grieve?	000278	¿Humberto Grievepa wasinpi?
+000279	Cuando saldrían del colegio el niño Humberto le daría un empujón en el pecho y una patada en la pierna.	000279	Warma Humbertom yachaywasimanta lluqsiptin tanqarqunman hinaspa haytarqunman chankanpi.
+000280	Ahora le va a pegar porque le estaba enseñando los puñetes y le miraba con ojos blancos.	000280	Kunanqa maqarqunqam takatam qawachichkan hinaspa ñawintapas yuraqyachisparaq qawan.
+000281	Yunque le dijo a Fariña: Me voy a la carpeta del niño Humberto.	000281	Yunquem Fariñata nin: Warma Humbertopa carpetanman risaq.
+000282	Los alumnos respondieron en coro: Sí señor.	000282	Lliw yachakuqkunam kutichinku: Arí tayta.
+000283	Humberto Grieve dijo:	000283	Humberto Grieve nin:
+000284	Señor: yo he cogido muchos peces y los he llevado a mi casa y los he soltado en mi salón y no se mueren nunca.	000284	Tayta: ñuqa achka challwata hapiruspay aparurqani wasiyman hinaspa wasiy ukupi kachaykuni manataq haykaqllapas wañunkuchu.
+000285	El profesor preguntó:	000285	Yachachiq tapun:
+000286	Pero… ¿los deja usted en alguna vasija con agua?	000286	Icha… ¿imapas yakuyuqman churarqanki?
+000287	Todos los niños se echaron a reír.	000287	Lliw warmakuna asiykunku.
+000288	Todos los chicos exclamaban a la vez reventando de risa:	000288	Lliw warmakuna asiykunku wañuykuqhinaraq:
+000289	Ja! Ja! Ja! Ja! Ja! ¡Miente señor! Ja! Ja! Ja! Ja! Ja! ¡Mentira! ¡Mentira!	000289	Ja! Ja! Ja! Ja! Ja! ¡Llullakunmi tayta! Ja! Ja! Ja! Ja Ja! ¡Llullakunmi! ¡Llullakunmi!
+000290	El profesor dijo en alta voz:	000290	Yachachiq qapariqhina nin:
+000291	¡Bueno! ¡Bueno! ¡Silencio! Grieve no se acuerda bien seguramente. Porque los peces mueren cuando…	000291	¡Allinmi! ¡Allinmi! ¡Upallaychik! Grieveqa manachá allintachu yuyan. Challwakunaqa wañunmi…
+000292	Los niños añadieron en coro:	000292	Warmakunañataq llapankumanta qaparinku:
+000293	… se les saca del agua.	000293	… yakumanta hurquptin.
+000294	Eso es dijo el profesor.	000294	Chaynam nin yachachiq.
+000295	El niño flacucho y pálido dijo:	000295	Tullu qari warma qillu uyayuq kaynata nin:
+000296	Porque los peces tienen sus mamás en el agua y sacándolos se quedan sin mamás.	000296	Challwakunapa mamankunaqa yakupim kachkan chaymanta urquruptinkuqa mana mamayuq qiparqunku.
+000297	Porque ya están como muertos dijo un niño.	000297	Wañusqahinañam kachkanku nin huk warma.
+000298	Humberto Grieve dijo:	000298	Humberto Grieve nin:
+000299	Mi papá puede darles aire en mi casa porque tiene bastante plata para comprar todo.	000299	Taytaymi wayrataqa wasiypi qunman achkam qullqin imatapas rantinanpaq.
+000300	El chico vestido de verde dijo:	000300	Verde pachayuq warma nin:
+000301	Mi papá también tiene plata.	000301	Taytaypas qullqiyuqmi.
+000302	Mi papá también dijo otro chico.	000302	Taytaypas nin huk warmapas.
+000303	Fariña le dijo a Paco Yunque:	000303	Fariñam Paco Yunqueta nin:
+000304	Y tú ¿tu papá no tiene plata?	000304	Qamrí ¿taytaykiri mana qullqiyuqchu?
+000305	Paco Yunque reflexionó y se acordó haberle visto una vez a su mamá con unas pesetas en la mano. Yunque dijo a Fariña:	000305	Paco Yunque yuyarirqun huk punchaw maman pesetakunata makinpi hapisqanta. Yunquem Fariñaman nin:
+000306	Mi mamá tiene también mucha plata.	000306	Mamaypas achka qullqiyuqmi.
+000307	¿Cuánto? le preguntó Fariña.	000307	¿Hayka? nispa Fariña tapun.
+000308	Como cuatro pesetas.	000308	Tawa pesetahinam.
+000309	Paco Fariña dijo al profesor en voz alta:	000309	Paco Fariña yachachiqman hatun siminwan nin:
+000310	Paco Yunque dice que su mamá tiene también mucha plata.	000310	Paco Yunquem nin mamanpas achka qullqiyuqsi.
+000311	El profesor tomó la tiza y escribió en la pizarra dando la espalda a los niños.	000311	Yachachiq tizata hapirquspam pizarrapi qillqan warmakunamanta kutirispan.
+000312	¿Qué es eso? dijo el profesor volviéndose a ver lo que pasaba.	000312	¿Imam kachkan? nin yachachiq kutirispa qawan ima kasqanta.
+000313	Paco Fariña dijo:	000313	Paco Fariña nin:
+000314	Grieve le ha tirado de los pelos señor.	000314	Tayta Grievem chukchanmanta chutarparin.
+000315	¡Bueno bueno! dijo el profesor. ¡Silencio! ¡Cállese Paco Yunque! ¡Silencio!	000315	¡Allinmi allinmi! nin yachachiq. ¡Upallaychik! ¡Paco Yunque upallay! ¡Upallay!
+000316	Siguió escribiendo en la pizarra; y después preguntó a Grieve:	000316	Pizarrapi qillqanpunitaq; chaymanta Grieveta tapun:
+000317	Si se le saca del agua ¿qué sucede con el pez?	000317	Yakumanta hurquruptinchik ¿imananmi challwata?
+000318	Va a vivir en mi salón contestó Grieve.	000318	Wasiy ukupim kawsanqa nispa kutichin Grieve.
+000319	¿Qué pasa con el pez si se le saca del agua?	000319	¿Imananmi challwata yakumanta hurquptinchik?
+000320	Paco Yunque dijo el profesor.	000320	Paco Yunque nin yachachiq.
+000321	Vamos a ver usted	000321	Kunan qawasun qam
+000322	Paco Yunque medio llorando todavía por el jalón de pelos que le dio Grieve repitió de una tirada lo que dijo el profesor:	000322	Paco Yunquem Grievepa chukchan chutasqanwan waqapakustinraq chaylla kutirqachin yachachiqpa tapukusqanta:
+000323	Los peces mueren fuera del agua porque les falta aire.	000323	Challwakunaqa yakumanta lluqsispankuqa wañunkum mana samayta atispa.
+000324	Volvió a escribir en la pizarra.	000324	Kutirispan pizarrapi qillqanpunitaq.
+000325	Humberto Grieve aprovechó otra vez de que no podía verle el profesor y fue a darle un puñetazo a Paco Fariña en la boca y regresó de un salto a su carpeta.	000325	Humberto Grievem yachachiq kutirinankama Paco Fariñata siminpi takarparin hinaspa carpetanman utqayllaman kutirqun.
+000326	Fariña en vez de llorar como Paco Yunque dijo a grandes voces al profesor:	000326	Fariñaqa manam Paco Yunquehinachu waqan aswanmi yachachiqman qapariqhina nin:
+000327	¡Señor! ¡Acaba de pegarme Humberto Grieve!	000327	¡Tayta! ¡Humberto Grievem kunachallan maqarpariwan!
+000328	¡Sí señor!	000328	¡Arí tayta!
+000329	decían todos los niños a la vez.	000329	ninku llapallan warmakuna.
+000330	Una bulla tremenda había en el salón.	000330	Yachana ukupi chaqway karparin.
+000331	El profesor dio un puñetazo en su pupitre y dijo:	000331	Yachachiq pupitrenta takarparin hinaspa nin:
+000332	¡Silencio!	000332	¡Upallaychik!
+000333	¡Las cosas de este Humberto Grieve! ¡Ya ven lo que estaba pasando por su cuenta! ¡Ahora habrá que ver lo que iba a hacer el profesor que estaba colorado de cólera! ¡Y todo por culpa de Humberto Grieve!	000333	¡Kay Humberto Grievepa rurasqankuna! ¡Qawachkankichikmi kikinmanta imapas rurasqanta! ¡Kunanmi qawasun yachachiqpa ima rurasqanta piñakuywan uyanpas pukayasqaraq! ¡Humberto Grievepa huchanpi!
+000334	¿Qué desorden era ese? preguntó el profesor a Paco Fariña.	000334	¿Imataq kay chaqwari? nispa yachachiq Paco Fariñata tapun.
+000335	Paco Fariña con los ojos brillantes de rabia decía:	000335	Paco Fariña piñallaña qawaspan nin:
+000336	Humberto Grieve me ha pegado un puñetazo en la cara sin que yo le haga nada.	000336	Humberto Grievem takarpariwan uyaypi mana imanachkaptiy.
+000337	¿Verdad Grieve?	000337	¿Grieve chaynachu?
+000338	El profesor miró a todos los alumnos sin saber a qué atenerse. ¿Quién de los dos decía la verdad? ¿Fariña o Grieve?	000338	Yachachiq qawarparin llapan yachaqkunata mana imatapas rurayta atispa. ¿Iskayninmanta mayqintaq kaqllata riman? ¿Fariñachu utaq Grievechu?
+000339	¿Quién lo ha visto? preguntó el profesor a Fariña.	000339	¿Pitaq rikurqa? nispa tapurqun Fariñata.
+000340	¡Todos señor! Paco Yunque también lo ha visto.	000340	¡Llapallaykum tayta! Paco Yunquepas rikunmi.
+000341	¿Es verdad lo que dice Paco Fariña? le preguntó el profesor a Yunque.	000341	¿Paco Fariña kaqllatachu nichkan? nispan yachachiq Yunqueta tapurqun.
+000342	Fariña dijo:	000342	Fariña nin:
+000343	El profesor preguntó a los otros alumnos:	000343	Yachachiq wakin yachakuqkunata tapun:
+000344	¿Quién otro ha visto lo que dice Fariña?	000344	¿Pikunam rikurqan Fariñapa nisqanta?
+000345	Yo señor	000345	Ñuqa tayta
+000346	El profesor volvió a preguntar a Grieve:	000346	Yachachiq Grieveta kutimanta tapun:
+000347	¡No señor! Yo no le he pegado.	000347	¡Manam tayta! Ñuqaqa manam maqarqanichu.
+000348	Cuidado con mentir	000348	yanqataq llullakuchkawaq
+000349	¡Un niño decente como usted no debe mentir!	000349	¡Qamhina decente warmaqa manam llullakunanchu!
+000350	Paco Fariña gruñía a media voz y como queriendo llorar:	000350	Paco Fariña piñasqa upallaqhinalla rimapakun hinaspa waqaqhina nin:
+000351	El profesor le oyó y se plantó enojado delante de Fariña y le dijo en alta voz:	000351	Yachachiq uyarirquspan piñakuywan sayarparin Fariñapa ñawpaqninpi hinaspa hatun siminwan nin:
+000352	El profesor fue a la pizarra y siguió escribiendo.	000352	Yachachiq pizarraman rispa qillqayta qallarinpunitaq.
+000353	Paco Fariña le preguntaba a Paco Yunque:	000353	Paco Fariña tapun Paco Yunqueta:
+000354	¿Y por qué no se lo dices a tu mamá?	000354	¿Imaynanpitaq mamaykimanri mana willankichu?
+000355	Porque si le digo a mi mamá también me pega y la patrona se enoja.	000355	Mamayman willaykuptiyqa maqarquwanqam hinaspa patrona piñarqukunman.
+000356	Mientras el profesor escribía en la pizarra Humberto Grieve se puso a llenar de dibujos su cuaderno.	000356	Yachachiq pizarrapi qillqanankama Humberto Grieve qillqana maytun huntata qillqaparqun.
+000357	Yunque miraba a los otros niños y éstos no le pegaban a Yunque ni a Fariña ni a nadie.	000357	Yunque qawan wakin warmakunata paykunaqa manam maqankuchu Yunqueta nitaq Fariñata manataqmi pitapas.
+000358	Tampoco le querían agarrar a Yunque en las otras carpetas como quiso hacerlo el niño Humberto.	000358	Yunquetapas manam hapiytaqa munankuchu huk carpetakunapi Humberto warmahinaqa.
+000359	¿Por qué el niño Humberto era así con él?	000359	¿Humberto warma imaynanpitaq chayna paywanri?
+000360	Yunque se lo diría ahora a su mamá y si el niño Humberto le pegaba se lo diría al profesor.	000360	Yunque kunanqa mamanman willarqunqa warma Humberto maqaptinñataq yachachiqman willaykunqa.
+000361	Pero el profesor no le hacía nada al niño Humberto.	000361	Ichaqa yachachiq Humberto warmata mana imananchu.
+000362	Entonces se lo diría a Paco Fariña. Le preguntó a Paco Fariña:	000362	Chaynaqa willarqunman Paco Fariñaman. Paco Fariñata tapurqun:
+000363	¿A ti también te pega el niño Humberto?	000363	¿Humberto warma qamtapas maqasunkichu?
+000364	¿A mí?	000364	¿Ñuqata?
+000365	¡Qué me va a pegar a mí!	000365	¡Ñuqataqa imam maqawanqa!
+000366	Le pego un puñetazo en el hocico y le echo sangre.	000366	Siminpi takarquspay yawarcharquyman.
+000367	¡Vas a ver!	000367	¡Mapas qawanki!
+000368	¡Como me haga alguna cosa!	000368	¡Imatapas ruwaykuwachun!
+000369	¡Déjalo y verás!	000369	¡Saqiykullay qawankim!
+000370	¡Y se lo diré a mi mamá!	000370	¡Hinaspam mamayman willaykusaq!
+000371	¡Y vendrá mi papá y le pegará a Grieve y a su papá también y a todos!	000371	¡Hinaspa taytay hamuspa Grievetaqa maqarqunqa taytantapas chaynallataq llapantapas!
+000372	Paco Yunque le oía asustado a Paco Fariña lo que decía.	000372	Paco Yunquem mancharisqa uyarin Paco Fariñapa nisqanta.
+000373	¿Cierto sería que le pegaría al niño Humberto?	000373	¿Ichachu Humberto warmata maqarqunman?
+000374	¿Y que su papá vendría a pegarle al señor Grieve?	000374	¿Taytanñataq hamurqunman tayta Grieveta maqaqnin?
+000375	Paco Yunque no quería creerlo porque al niño Humberto no le pegaba nadie.	000375	Paco Yunqueqa manam chaynaqa kanmanchu nin Humberto warmataqa manam pipas maqarqanchu.
+000376	Si Fariña le pegaba vendría el patrón y le pegaría a Fariña y también al papá de Fariña.	000376	Fariña maqaptinqa patronmi hamurquspan Fariñata maqarqunman chaynallataq Fariñapa taytantapas.
+000377	Le pegaría el patrón a todos.	000377	Patronqa llapanta maqarqunman.
+000378	Porque todos le tenían miedo.	000378	Lliwmi manchakunku.
+000379	Porque el señor Grieve hablaba muy serio y estaba mandando siempre.	000379	Tayta Grieveqa manchakuypaqmi riman hinaspa lliwta kamachiq.
+000380	Y venían a su casa señores y señoras que le tenían miedo y obedecían siempre al patrón y a la patrona.	000380	Wasinman hamuq runakuna manchakunku hinaspa patronta patronatapas kasunkupuni.
+000381	En buena cuenta el señor Grieve podía más que el profesor y más que todos.	000381	Yachasqam tayta Grieve yachachiqmantaqa lliw runakunapaq atiqniyuq kasqan.
+000382	Paco Yunque miró al profesor que escribía en la pizarra.	000382	Paco Yunquem yachachiq pizarrapi qillqaqta qawan.
+000383	¿Quién era el profesor?	000383	¿Pitaq kay yachachiqri?
+000384	¿Por qué era tan serio y daba miedo?	000384	¿Imaynanpitaq piña uyayuqri hinaspa manchakuypaq?
+000385	Yunque seguía mirándolo.	000385	Yunqueqa qawarayan.
+000386	No era el profesor igual a su papá ni al señor Grieve.	000386	Yachachiqqa manam taytanhinachu nitaq tayta Grievehinachu.
+000387	Más bien se parecía a otros señores que venían a la casa y hablaban con el patrón.	000387	Aswanqa patronpa wasinman rimaq hamuq taytakunahinam.
+000388	Tenía un pescuezo colorado y su nariz parecía moco de pavo.	000388	Puka kunkayuq sinqanpas pavopa ñutiyuqhina.
+000389	Sus zapatos hacían risss - risss - rissss - risssss cuando caminaba mucho.	000389	Zapatonkunañataq anchata puriptin risss – risss – rissss – risssss ninraq.
+000390	Yunque empezó a fastidiarse. ¿A qué hora se iría a su casa?	000390	Yunqueqa amichkanñam. ¿Imay horataq wasinmanri ripunqa?
+000391	Pero el niño Humberto le iba a pegar a la salida del colegio.	000391	Yachaywasimanta lluqsiptin Humberto warma maqarqunman.
+000392	Y porque el patrón y la patrona le querían mucho al niño Humberto y Paco Yunque tenía pena porque el niño Humberto le pegaba mucho.	000392	Patronqa patronapas anchatam kuyanku Humberto warmataqa Paco Yunqueñataq manchakurqan Humberto warmata ancha maqasqanrayku.
+000393	Quebró ayer una bacinica en tres pedazos grandes.	000393	Haynapunchawmi huk bacinicata kimsaman pakirqun.
+000394	¿Le pegaría también el patrón al papá de Paco Yunque?	000394	¿Patronpas maqarqunmanchu Paco Yunquepa taytanta?
+000395	¡Qué cosa fea era esto del patrón y del niño Humberto!	000395	¡Kaykunaqa millaymi patronpa Humberto warmapapas!
+000396	Paco Yunque quería llorar. ¿A qué hora acabaría de escribir el profesor en la pizarra?	000396	Paco Yunque waqayta munan. ¿Yachachiq imay horataq pizarrapi qillqayta tukunqa?
+000397	cesando de escribir.	000397	qillqayta saqiykuspan.
+000398	¡Bueno! dijo el profesor	000398	¡Allinmi! nin yachachiq
+000399	¿En nuestros cuadernos?	000399	¿Qillqana maytuykupi?
+000400	preguntó tímidamente Paco Yunque.	000400	nispa Paco Yunque tapun manchakuqhinalla.
+000401	Sí en sus cuadernos le respondió el profesor. ¿Usted sabe escribir un poco?	000401	Arí qillqana maytuykichikpi nispa kutichin yachachiq. ¿Qam tunpanta yachankiña qillqayta?
+000402	Los niños sacaron sus cuadernos y se pusieron a copiar el ejercicio que el profesor había escrito en la pizarra.	000402	Warmakuna qillqana maytunkuta hurquspanku qillqayta qallarin ku yachachiq pizarrapi ruranankupaq qillqasqanta.
+000403	Humberto Grieve preguntó:	000403	Humberto Grieve tapurqun:
+000404	¿Es señor el ejercicio escrito de los peces?	000404	¿Chayqa tayta challwakunamanta qillqanaykupaqchu?
+000405	Sí a copiar todo el mundo.	000405	Arí llapaykichik qillqankichik.
+000406	Al cabo de un rato el profesor se paró y preguntó:	000406	Unayniraqchamanta yachachiq sayarirquspa tapun:
+000407	¿Ya terminaron?	000407	¿Tukurqunkichikñachu?
+000408	Ya señor respondieron todos a la vez.	000408	Arí tayta nispa llapankumanta rimarirqunku.
+000409	En ese momento sonó la campana del recreo.	000409	Chayta nichkaptin campana waqarparin warmakuna pukllanankupaq.
+000410	Una gran algazara volvieron a hacer los niños y salieron corriendo al patio.	000410	Warmakuna kusikuykuspanku pukllananku hawaman pawayllaña lluqsirparinku.
+000411	Paco Yunque había copiado su ejercicio muy bien y salió al recreo con su libro su cuaderno y su lápiz.	000411	Paco Yunqueqa rurananpaq qusqanta allintam qillqarqusqa hinaspa maytunta qillqana maytunta chaynallataq lápiznintapas aparikuspa lluqsirqun pukllayman.
+000412	Ya en el patio vino Humberto Grieve y agarró a Paco Yunque por un brazo diciéndole con cólera:	000412	Pukllana pampapi kachkaptin Humberto Grieve hamurqun hinaspa Paco Yunqueta huknin rikranmanta hapirqun piñallaña kaynata nispa:
+000413	Ven a jugar al melo.	000413	Melo nisqapi pukllaq hamuy.
+000414	Lo echó de un empellón al medio y le hizo derribar su libro su cuaderno y su lápiz.	000414	Huk tanqayllawan chawpiman chanqaykun chaynaspa wikapachin maytunta qillqana maytunta lápiznintapas.
+000415	¡Déjalos! ¡No te metas! Porque Paco Yunque es mi muchacho.	000415	¡Ama uqariychu! ¡Ama yanapaychu! Paco Yunqueqa muchachuymi.
+000416	Entonces salió Paco Fariña del ruedo formado por los otros niños y se plantó ante Grieve diciéndole:	000416	Paco Fariña warmakunapa chawpinmanta lluqsirqamun hinaspa Grievepa ñawpaqninpi sayarparin kaynata nispa:
+000417	¡No! ¡No te dejo que saltes sobre Paco Yunque!	000417	¡Manam! ¡Manam Paco Yunqueman pawaykunaykita munanichu!
+000418	Humberto Grieve le respondió amenazándole:	000418	Humberto Grieve kutichin manchachiqhina:
+000419	¡Oye! ¡Oye! ¡Paco Fariña! ¡Paco Fariña! ¡Te voy a dar un puñetazo!	000419	¡Yaw! ¡Yaw! ¡Paco Fariña! ¡Paco Fariña! ¡Huktam takarparisqayki!
+000420	Pero Fariña no se movía y estaba tieso delante de Grieve y le decía:	000420	Ichaqa Fariña mana kuyurinchu hinaspa Grievepa ñawpaqninpi kallpachakuspa sayarqun kaynata nispa:
+000421	¡Porque es tu muchacho le pegas y lo saltas y lo haces llorar! ¡Sáltalo y verás!	000421	¡Muchachoyki kaptin maqanki pawaykunki hinaspa waqachinki! ¡Pawaylla pawaykuy qawanaykipaq!
+000422	Los dos hermanos Zumiga abrazaban a Paco Yunque y le decían que ya no llorase y le consolaban diciéndole:	000422	Paco Yunquetam iskaynin Zumigakuna marqarukuspanku amaña waqaychu ninku hinaspa upallananpaq kaynata ninku:
+000423	¿Por qué te dejas saltar así y dar de patadas? ¡Pégale! ¡Sáltalo tú también! ¿Por qué te dejas? ¡No seas zonzo! ¡Cállate! ¡Ya no llores! ¡Ya nos vamos a ir a nuestras casas!	000423	¿Imaynanpitaq pawaykachikunkiri hinaspa haytachikunkipas? ¡Maqarquy! ¡Qampas pawaykurquy! ¿Imaynanpim chaynachikunki? ¡Ama upaqa kaychu! ¡Upallay! ¡Amaña waqaychu! ¡Wasinchikmanmi ripusunña!
+000424	Paco Yunque estaba siempre llorando y sus lágrimas parecían ahogarle.	000424	Paco Yunqueqa hinam waqaykun wiqinwanpas hiqipaqhinaraq.
+000425	Se formó un tumulto de niños en torno a Paco Yunque y otro tumulto en torno a Humberto Grieve y a Paco Fariña.	000425	Warmakunam asuykurqun Paco Yunqueman chaynallataq huk warmakunapas Humberto Grieveman Paco Fariñamanpas.
+000426	Grieve le dio un empellón brutal a Fariña y lo derribó al suelo.	000426	Grievem kallpawan tanqarparin Fariñata pampaman wischukunankama.
+000427	Sonó la campana y todos los niños volvieron a sus salones de clase.	000427	Campana waqarpariptinmi lliw warmakuna yachanan ukuman yaykurqunku.
+000428	A Paco Yunque lo llevaron por los brazos los dos hermanos Zumiga.	000428	Paco Yunquetaqa iskaynin Zumiga wayqikunam rikranmanta aysarparinku.
+000429	El profesor miró a todos muy serio y dijo como un militar:	000429	Yachachiq qawarqun llapan warmakunata qaqa uyanwan hinaspa soldadohina nin:
+000430	¡Siéntense!	000430	¡Tiyaychik!
+000431	Un traqueteo de carpetas y todos los alumnos estaban ya sentados.	000431	Carpetakunam taqtaqyarqun chaymantaqa lliw yachakuqkuna tiyarqusqakuña.
+000432	Entonces el profesor se sentó en su pupitre y llamó por lista a los niños para que le entregasen en sus cuartillas con los ejercicios escritos sobre el tema de los peces.	000432	Yachachiqñataq pupitrenpi tiyarqun hinaspa warmakunata sutinkumanta qayan challwakunamanta qillqay rurasqankuta qawachinankupaq.
+000433	A medida que el profesor recibía las hojas de los cuadernos las iba leyendo y escribía las notas en unos libros.	000433	Yachachiq qillqana maytupa rapinta chaskisqanmanhina qawaspa yachakuqkunapa notankuta maytukunapi qillqan.
+000434	Humberto Grieve se acercó a la carpeta de Paco Yunque y le entregó su libro su cuaderno y su lápiz.	000434	Humberto Grievem asuykurqun Paco Yunquepa carpetanman hinaspa maytunta qillqana maytunta chaynallataq lápiznintapas quykapun.
+000435	Pero antes había arrancado la hoja del cuaderno en que estaba el ejercicio de Paco Yunque y puso en ella su firma.	000435	Manaraq qupuchkaspam qillqanan maytunmanta chutarqusqa huk rapinta chay rapipim karqa Paco Yunquepa challwakunamanta qillqasqan Humberto Grievem chay rapipi sutinpa qillqantapas churarqun.
+000436	Cuando el profesor dijo: “Humberto Grieve” Grieve fue y presentó el ejercicio de Paco Yunque como si fuese suyo.	000436	Yachachiq: “Humberto Grieve” nispa qayaptinmi Grieve rispan Paco Yunquepa qillqaspa rurasqanta quykun kikinpa rurasqanpas kanmanhina.
+000437	Y cuando el profesor dijo: “Paco Yunque” Yunque se puso a buscar en su cuaderno la hoja en que escribió su ejercicio y no la encontró.	000437	Chaymanta yachachiq: “Paco Yunque” nispa qayaptin Yunque rurasqanta maskaykun maytunpi manam tarinchu.
+000438	¿La ha perdido usted le preguntó el profesor o no la ha hecho usted?	000438	¿Chinkarachinkichu nispa yachachiq tapun utaq mana rurarqankichu?
+000439	Bueno dijo el profesor y anotó en unos libros la falta de Paco Yunque.	000439	Allinmi nin yachachiq hinaspa maytukunapi qillqarqun Paco Yunquepa mana rurasqanta.
+000440	Después siguieron los demás entregando sus ejercicios.	000440	Chaymanta wakin yachakuqkuna yachachiqman aypanku qillay rurasqankuta.
+000441	Cuando el profesor acabó de verlos todos entró de repente al salón el Director del Colegio.	000441	Yachachiq qawayta tukuruptinña yachaywasipa Directornin qunqayllamanta yaykurqamun.
+000442	El profesor y los niños se pusieron de pie respetuosamente.	000442	Yachachiq chaynallataq warmakunapas allin riqsikuywan sayarirqunku.
+000443	El Director miró como enojado a los alumnos y dijo en voz alta:	000443	Directorqa piñakuqhina qawarqun yachakuqkunata hinaspa hatun siminwan nin:
+000444	¡Siéntense!	000444	¡Tiyaychik!
+000445	El Director le preguntó al profesor:	000445	Directormi yachachiqta tapun:
+000446	¿Ya sabe usted quién es el mejor alumno de su año? ¿Han hecho el ejercicio semanal para calificarlos?	000446	¿Qam yachankiñachu kaypi mayqin yachakuq allin yachayniyuq kasqanta? ¿Kay semanapaq ruray kayta qillqarunkuñachu chaninchanapaq?
+000447	¿Dónde está su ejercicio?	000447	¿Maytaq chay rurasqanri?
+000448	Aquí está señor Director.	000448	Kayqaya wiraqucha Director.
+000449	El profesor buscó entre todas las hojas de los alumnos y encontró el ejercicio firmado por Humberto Grieve.	000449	Yachachiq achka rapikunapa chawpinpi maskaspa tarirqun Humberto Grievepa qillqay rurasqanta.
+000450	Se lo dio al Director que se quedó viendo largo rato la cuartilla.	000450	Directorman quykun hinaptin unay qawarqun chay qillqayta.
+000451	Muy bien dijo el Director contento.	000451	Kusa kusam nin Director kusisqa.
+000452	Subió al pupitre y miró severamente a los alumnos.	000452	Pupitreman rispan yachakuqkunata allinta qawarqun.
+000453	Después les dijo con su voz un poco ronca pero enérgica:	000453	Chaymanta saka kunkaniraq hatun siminwan nin:
+000454	Todos los niños miraron ansiosamente a Humberto Grieve que salió pavoneándose a pararse muy derecho y orgulloso delante del pupitre del profesor. El Director le dio la mano diciéndole:	000454	Lliw warmakunam Humberto Grieveta qawanku payñataq lluqsirqun ñuqam allinqa kani niqhina hinaspa yachachiqpa pupitrenpa ñawpaqninpi kusisqa sayarqun. Director makinta hapiykun kaynata nispa:
+000455	Se volvió el Director a los demás alumnos y les dijo:	000455	Directorqa wakin yachakuqkuna lawman kutirispan nin:
+000456	Y si así lo hacen recibirá cada uno un premio al fin del año y sus nombres serán también inscritos en el Cuadro de Honor del Colegio como el de Humberto Grieve.	000456	Chayna kaptiykichikqa wata tukuytam sapakama premiota chaskinkichik chaynallataq Cuadro de Honor nisqapi sutiykichik qillqasqa kanqa Humberto Grievepahina.
+000457	¡Qué rico Grieve!	000457	¡Añañaw Grieve!
+000458	¡Llegando tarde y todo! ¡Y pegándole a todos! ¡Pero ya lo estaban viendo! ¡Le había dado la mano al Director! ¡Humberto Grieve el mejor de todos los del primer año!	000458	¡Qipa chayamuq kachkaspa! ¡Lliwta maqachkaspa! ¡Ñam qawachkarqakuña! ¡Directorwanpas makinkuta hapiykanakurqañam! ¡Humberto Grievem kaypi yachakuqkunamanta allinnin!
+000459	¡Qué buen ejercicio había escrito!	000459	¡Allin ruraytam qillqarqusqa!
+000460	¡Ese sí que era bueno!	000460	¡Chayqa allinmi karqa!
+000461	¡Era el mejor alumno de todos!	000461	¡Payqa lliw yachakuqkunamanta allinmi!
+000462	Vamos a jugar con mi tablero.	000462	Tableroywan pukllakusun.
+000463	Tiene torres negras.	000463	Yana torreyuqkunam.
+000464	No.	000464	Ama.
+000465	Porque el señor lo ha puesto aquí.	000465	Taytam chaymanqa churan.
+000466	No señor.	000466	Manam tayta.
+000467	Yo quiero que Yunque se quede conmigo.	000467	Yunque ñuqawan kuska kanantam munani.
+000468	Miente señor respondió rápidamente Humberto Grieve.	000468	Llullakunmi tayta nispam Humberto Grieve utqaylla kutirqachin.
+000469	No he llegado tarde.	000469	Manam qipatachu chayamuniqa.
+000470	Paco Yunque no sabía qué hacer.	000470	Paco Yunque mana imatapas rurayta atinchu.
+000471	Le pegaría otra vez el niño Humberto porque no se quedó con él en su carpeta.	000471	Warma Humberto huktawan maqarqunman paypa carpetanpi mana tiyasqanmanta.
+000472	¡Señor! gritó Fariña.	000472	¡Tayta! qaparin Fariña.
+000473	Ahí ese Grieve me está enseñando los puñetes.	000473	Chay Grievem takakunata qawachimuwachkan.
+000474	Varios niños quisieron hablar.	000474	Achka warmakunam rimayta munanku.
+000475	El profesor le dijo a uno de los Zumiga que hablase.	000475	Yachachiqmi huknin Zumigata qam rimay nin.
+000476	Señor dijo Zumiga: Había en la playa mucha arena.	000476	Tayta nin Zumiga: playapim achka aqu kasqa.
+000477	Un día nos metimos entre la arena y encontramos un pez medio vivo y lo llevamos a mi casa.	000477	Huk punchawmi aqu ukuman yaykuspayku tariniku challwata kawsaqtaraq hinaspa apaniku wasiyman.
+000478	Pero se murió en el camino…	000478	Ichaqa wañurqun manaraq chayachkaptiyku…
+000479	No señor.	000479	Manam tayta.
+000480	Están sueltos entre los muebles.	000480	Kacharisqam purichkanku.
+000481	Mentira señor.	000481	Llullakunmi tayta.
+000482	Porque el pez se muere pronto cuando lo sacan del agua.	000482	Challwaqa yakumanta hurqusqaqa wañunmi.
+000483	Humberto Grieve se enojó porque no le creían lo que contaba.	000483	Humberto Grieve piñarqukun willakuyninta taripasqankumanta.
+000484	Todos se burlaban de lo que había dicho.	000484	Llapankum willakusqanmanta asipayaykunku.
+000485	Todos los niños dijeron que sus padres tenían mucho dinero.	000485	Lliw warmakunam ninku taytanku qullqisapa kasqankuta.
+000486	Paco Yunque no decía nada y estaba pensando en los peces que morían fuera del agua.	000486	Paco Yunqueñataq mana imatapas nispa yuyachkarqan challwakuna yakumanta lluqsispaqa wañusqanta.
+000487	¡Eso es!	000487	¡Chaynam!
+000488	decía el profesor.	000488	nin yachachiq.
+000489	Muy bien.	000489	Kusam.
+000490	No señor dijo Humberto Grieve.	000490	Manam tayta nin Humberto Grieve.
+000491	Yo no le he pegado.	000491	Ñuqaqa manam maqanichu.
+000492	No señor.	000492	Manam tayta.
+000493	Yo no le he pegado.	000493	Manam maqarqanichu.
+000494	No le castigan porque su papá es rico.	000494	Manam wananqayta qunchu taytan qullqisapa kasqanrayku.
+000495	Le voy a decir a mi mamá.	000495	Mamaymanmi willaykusaq.
+000496	Paco Yunque estaba pensando en su mamá.	000496	Paco Yunque mamanta yuyachkarqan.
+000497	Después se acordó de la patrona y del niño Humberto.	000497	Chaymanta yuyarirqun patronanta chaynallataq Humberto warmatapas.
+000498	¿Le pegaría al volver a la casa?	000498	¿Wasiman kutiptin maqarqunmankuchu?
+000499	Y nada más le diría.	000499	Chaynallatam ninman.
+000500	Pero Paco tendría colorada la pierna de la patada del niño Humberto.	000500	Ichaqa Pacopa chankan pukallaña kanman Humberto warmapa haytasqanwan.
+000501	Y Paco se pondría a llorar.	000501	Pacoñataq waqarqunman.
+000502	Porque al niño Humberto nadie le hacía nada.	000502	Humberto warmataqa pipas manam imananchu.
+000503	Sí señor.	000503	Arí tayta.
+000504	Porque mi papá me enseñó en el campo.	000504	Taytaymi llaqtaypi yachachiwarqan.
+000505	Muy bien.	000505	Kusam.
+000506	Entonces todos a copiar.	000506	Chaynaqa llapaykichik qillqaychik.
+000507	No hay que apurarse decía el profesor.	000507	Ama utqaspa nin yachachiq.
+000508	Hay que escribir poco a poco para no equivocarse.	000508	As asllamanta qillqana mana pantanapaq.
+000509	Bueno dijo el profesor.	000509	Allinmi nin yachachiq.
+000510	Pongan al pie sus nombres bien claros.	000510	Urayninpi sutiykichikta allinta qillqaychik.
+000511	Yunque hacía lo que le ordenaba Grieve pero estaba colorado y avergonzado de que los otros niños viesen cómo lo zarandeaba el niño Humberto.	000511	Yunqueqa Grievepa nisqanta ruran ichaqa pukayarqun hinaspa pinqasqallaña Humberto warma chaspisqanta wakin warmakuna qawaptin.
+000512	Yunque quería llorar.	000512	Yunque waqanayaq kachkan.
+000513	Estáte quieto así le ordenó imperiosamente.	000513	Chaynalla chaypi kanki nispa kamachin hatun siminwan.
+000514	No te muevas hasta que yo te diga.	000514	Amam kuyunkichu ñuqa kamachinaykama.
+000515	Mucho rato estuvo así jugando Humberto Grieve con Paco Yunque.	000515	Humberto Grievem chaynaspan unaysu pukllakun Paco Yunquewan.
+000516	Le dio como veinte saltos y veinte patadas.	000516	Yaqa iskay chunka kutita pawaykuspam iskay chunka kutitahina haytaparqun.
+000517	De repente se oyó un llanto.	000517	Qunqayllamanta uyarirqukun waqay.
+000518	Era Yunque que estaba llorando de las fuertes patadas del niño Humberto.	000518	Yunquem waqachkasqa Humberto warma kallpawan haytaparusqanwan.
+000519	Un buen rato llovieron bofetadas y patadas entre varios niños.	000519	Achka warmakunam unay takapaykanakunku uyankupi chaynallataq haytapaykunakunku.
+000520	Eso era un enredo.	000520	Chayqa chaqwallañam kaykun.
+000521	Una gran gritería había en el salón del primer año cuando entró el profesor.	000521	Huk wata warmakunapa yachananku ukupi qapariykuchkaptinkum yachachiq yaykurqun.
+000522	Todos se callaron.	000522	Lliwmi upallarqunku.
+000523	A ver si la semana que viene hay otro alumno que dé una buena clase y haga un buen ejercicio como el que ha hecho hoy Humberto Grieve.	000523	Ichaya hamuq semanapi huk yachakuq ima ruraytapas allinta qillqanman Humberto Grievepa rurasqantahina.
+000524	Así lo espero.	000524	Chayna kanantam munani.
+000525	Se quedó el Director callado un rato.	000525	Directormi upallarqun.
+000526	Todos los alumnos estaban pensativos y miraban a Humberto Grieve con admiración.	000526	Yachakuqkunañataq yuyaymanaspanku Humberto Grieveta allin riqsiyninkuwan qawanku.
+000527	Lleve usted ya a Paco al colegio.	000527	Qamyá kunanqa Pacota yachaywasiman aparquy.
+000528	No sirve que llegue tarde el primer día.	000528	Amayá qallariy punchawqa yachaywasiman qipataqa chayachunchu.
+000529	Desde mañana esperará a que Humberto se levante y los llevará usted juntos a los dos.	000529	Paqarinmantaqa suyanki Humberto rikcharinanta hinaspa apanki iskayninkuta.
+000530	Bueno dijo el profesor.	000530	Allinmi nin yachachiq.
+000531	Que ésta sea la última vez.	000531	Kunankamallam chayna kanqa.
+000532	Pase a sentarse.	000532	Yaykumuspa tiyay.
+000533	Sí señor.	000533	Arí tayta.
+000534	Porque Paco Yunque es mi muchacho.	000534	Paco Yunque muchachoy kasqanraykum.
+000535	Por eso.	000535	Chaymi.
+000536	Muy bien.	000536	Allinmi.
+000537	Pero yo lo he colocado con Paco Fariña para que atienda mejor las explicaciones.	000537	Paco Fariñawanmi ñuqa tiyachirqani yachachisqayta allinta uyarinanpaq.
+000538	Déjelo que vuelva a su sitio.	000538	Kutichun tiyananman.
+000539	Grieve ha llegado tarde y no lo castigan.	000539	Grieve qipataña chayamuchkaptin mana imananchu.
+000540	Porque su papá tiene plata.	000540	Taytan qullqiyuq kaptin.
+000541	Todos los días llega tarde.	000541	Sapa punchawmi qipata chayamun.
+000542	¿Tú vives en su casa?	000542	¿Qam wasiykipichu tiyanki?
+000543	¿Cierto que eres su muchacho?	000543	¿Nisqanhinachu muchachun kanki?
+000544	Y Paco Fariña le decía No vayas.	000544	Paco Fariña nin Ama riychu.
+000545	No seas zonzo.	000545	Ama upachu kay.
+000546	El señor te va a castigar.	000546	Taytam piñarqukunman.
+000547	Muy bien dijo el profesor.	000547	Allinmi nin yachachiq.
+000548	Vamos a ver.	000548	Kunan qawasun.
+000549	Vamos a hablar ahora de los peces.	000549	Kunan rimasun challwakunamanta.
+000550	Pero Grieve recordaba que trajo dos peces pequeños a su casa y los soltó en su salón y ahí estuvieron muchos días.	000550	Ichaqa yuyanmi Grieve iskay challwachakunata apaspan wasin ukupi kachaykusqanta chaypi achka punchaw kasqantapas.
+000551	Los movió y se movían.	000551	Taspiptin mana kuyurisqanta.
+000552	No estaba seguro si vivieron muchos días o murieron pronto.	000552	Manam allintaqa yuyanchu achka punchaw kawsasqanta utaq utqaylla wañusqanta.
+000553	No señor dijo Grieve.	000553	Manam tayta nin Grieve.
+000554	Yo no he sido.	000554	Manam ñuqachu.
+000555	Yo no me he movido de mi sitio.	000555	Manam tiyasqaymantaqa kuyurinichu.
+000556	Paco Fariña estaba agachado.	000556	Paco Fariñaqa kumurayan.
+000557	Paco Yunque también.	000557	Paco Yunquepas chaynallataq.
+000558	Los dos sabían que era Humberto Grieve quien les había pegado y que era un gran mentiroso.	000558	Iskayninkum yachanku Humberto Grieve maqarqusqanta hinaspa ancha llulla kasqantapas.
+000559	Y la mamá de Paco Yunque le diría al niño Humberto “No niño.	000559	Paco Yunquepa mamanñataq Humberto warmata ninman “Ama warma.
+000560	No le pegue usted a Paquito.	000560	Pacochataqa amayá maqallaychu.
+000561	No sea tan malo”.	000561	Amayá chaynaqa kaychu”.
+000562	Ahí está el ejercicio escrito.	000562	Kaypim kachkan qillqaspa ruranaykichikpaq.
+000563	Ahora todos sacan sus cuadernos y copian lo que hay en la pizarra.	000563	Kunan qillqana maytuykichikta hurquspaykichik pizarrapi kaqta qillqaychik.
+000564	Hay que copiarlo completamente igual.	000564	Ima kaqllatam qillqankichik.
+000565	El salón se sumió en el silencio.	000565	Chay ukupi llapanku upallarparinku.
+000566	No se oía sino el ruido de los lápices.	000566	Lápizwan qillqasqankum uyarikun.
+000567	El profesor se sentó a su pupitre y también se puso a escribir en unos libros.	000567	Yachachiq tiyarqun pupitrenpi hinaspa maytukunapi qillqaykun.
+000568	Humberto Grieve llevó al salón de clases las cosas de Paco Yunque y se las guardó en su carpeta.	000568	Humberto Grievem Paco Yunquepa kaqninkunata yachananku ukuman aparqun hinaspa carpetanpi waqaycharqapun.
+000569	Después volvió al patio a jugar con Paco Yunque.	000569	Chaymanta pukllanan pampaman Paco Yunquewan pukllaq kutirqun.
+000570	Le cogió del pescuezo y le hizo doblar la cintura y ponerse en cuatro manos.	000570	Kunkanmanta hapirquspan kumurparichin makinwan pampapi hapipakunankama.
+000571	Sí señor Director dijo el profesor.	000571	Arí wiraqucha Director nin yachachiq.
+000572	Acaban de hacerlo.	000572	Kunallanmi tukurqunku.
+000573	La nota más alta la ha obtenido Humberto Grieve.	000573	Humberto Grieven allin notata hurqurqun.
+000574	Es una casa muy bonita.	000574	Chay wasiqa sumaqcham.
+000575	Ahí está la patrona y el patrón.	000575	Chaypim tiyanku patrona patronpiwan.
+000576	Ahí está mi mamá.	000576	Chaypim mamay kachkan.
+000577	Yo estoy con mi mamá.	000577	Ñuqaqa mamaywanmi kachkani.
+000578	¿Me han oído bien?	000578	¿Allintachu uyariwankichik?
+000579	Vamos a hacer lo mismo que hicimos la semana pasada.	000579	Ñawpaq semanapihinam rurasun.
+000580	Exactamente lo mismo.	000580	Chaynatapuni.
+000581	Hay que atender bien a la clase.	000581	Rimasqayta allinta uyarinkichik.
+000582	Hay que copiar bien el ejercicio que voy a escribir después en la pizarra.	000582	Ruranaykichikpaqmi qillqasaq pizarrapi chaytam allinta qillqaspa apankichik.
+000583	¿Me han entendido bien?	000583	¿Allintachu uyariwankichik?
+000584	No señor decía Humberto Grieve.	000584	Manam tayta nin Humberto Grieve.
+000585	Porque en mi salón no se mueren.	000585	Wasiy ukupiqa manam wañunchu.
+000586	Porque mi salón es muy elegante.	000586	Wasiy ukuqa allin sumaqmi.
+000587	Porque mi papá me dijo que trajera peces y que podía dejarlos sueltos entre las sillas.	000587	Taytaymi niwarqan challwata apaspay wasiy ukupi kacharinaypaq.
+000588	¡Claro!	000588	¡Arí!
+000589	Porque mi papá tiene mucha plata.	000589	Taytayqa achka qullqiyuqmi.
+000590	Y me ha dicho que va hacer llevar a mi casa a todos los peces del mar.	000590	Wasiymansi apachinqa quchapi llapallan kaq challwakunata.
+000591	Para mí.	000591	Ñuqapaq.
+000592	Para que juegue con ellos en mi salón grande.	000592	Wasiypa hatun ukunpi pukllakunaypaq.
+000593	Otra vez se reían de Grieve los niños.	000593	Grievepa nisqanwan warmakuna kutimanta asiykunku.
+000594	Este Grieve no sabía nada.	000594	Grieveqa manam yachanchu imatapas.
+000595	No pensaba más que en su casa y en su salón y en su papá y en su plata.	000595	Wasinpi wasinpa hatun ukunpi taytanpi chaynallataq qullqinpipas yuyarayan.
+000596	Siempre estaba diciendo tonterías.	000596	Upahinam imatapas riman.
+000597	Todos todos todos le tenían miedo al niño Humberto y a sus papás.	000597	Humberto warmata taytamamantapas llapachallankum manchakurqanku.
+000598	Todos.	000598	Llapanku.
+000599	Muy bien Humberto Grieve.	000599	Allinmi Humberto Grieve.
+000600	Lo felicito.	000600	Kusikuy kachun.
+000601	Así deben ser los niños.	000601	Chaynam warmachakunaqa kanan.
+000602	Muy bien.	000602	Allinmi.
+000603	Todos ustedes deben hacer lo mismo que Humberto Grieve.	000603	Llapaykichikmi Humberto Grievehina kanaykichik.
+000604	Deben ser buenos alumnos como él.	000604	Payhina allin yachakuq kanaykichik.
+000605	Deben estudiar y ser aplicados como él.	000605	Allintam yachanaykichik payhina kanaykichikpaq.
+000606	Deben ser serios formales y buenos niños como él.	000606	Payhinam allinta ruranaykichik chaynallataq allin warmakuna kanaykichik.
+000607	El profesor también.	000607	Yachachiqpas.
+000608	La cocinera.	000608	Yanupuqpas.
+000609	Su hija.	000609	Warmi wawanpas.
+000610	La mamá de Paco.	000610	Pacopa mamanpas.
+000611	El Venancio con su mandil.	000611	Mandilniyuq Venaciopas.
+000612	La María que lava las bacinicas.	000612	Bacinicakuna mayllaq Mariapas.
+000613	Buenas noches, señor / señora / joven / señorita	000613	Allin tuta taytay / mama / wayna / sipas
+000614	¿Cómo estás?	000614	¿Imayna kashanky?
+000615	¿Cómo te llamas?	000615	¿Iman sutiyki?
+000616	¿Cuántos años tienes?	000616	¿Hayq'a huatayoc kanki?
+000617	¿De dónde eres?	000617	¿Maymanta kanki?
+000618	¿De dónde vienes?	000618	¿Maymanta jamunki?
+000619	¿Dónde vives?	000619	¿Maypi tiyanqui?
+000620	Hasta luego	000620	Uk rato kama
+000621	¿Tienes esposa?	000621	¿Warmiyki kanchu?
+000622	¿Tienes esposo?	000622	¿Ohariyki kanchu?
+000623	¿Tienes hijos?	000623	¿Wawaykikuma kanchu?
+000624	¿Cuántos hombres, cuántas mujeres?	000624	¿Hayk'an kary, hayk'an warmy?
+000625	¿Cuántos hijos muertos? ¿De qué?	000625	¿Hayk'a huawa huañusk'a? ¿Imamanta?
+000626	¿Por qué ha venido señor / señora / joven / señorita?	000626	¿Imarayku hamushanqui tatay / mamay / wayna / sipas?
+000627	¿Qué es lo que le molesta o por qué viene?	000627	¿Iman nanasunqui imarayku hamunki?
+000628	¿Desde cuándo está enfermo?	000628	¿Hayk'akmanta onq'oska kashanky?
+000629	¿Qué enfermedad tiene tu hijo?	000629	¿Amanantta onq'oshan wawayki?
+000630	¿Cómo le comenzó?	000630	¿Imamanta k'allarin?
+000631	¿Qué es lo que le duele?	000631	¿Imaykin nanan?
+000632	¿Poco, fuerte o leve?	000632	¿Pistachu, sinchitachu o fuertetachu?
+000633	¿Cómo es el dolor?	000633	¿Imaynatatak nanasunky?
+000634	¿Se irradia?	000634	¿Purinchu nanayniyky?
+000635	Señale con el dedo	000635	Dedoykiwan willaway
+000636	¿Qué le aumenta el dolor?	000636	¿Iman masta nanachisunky?
+000637	¿Con qué le calma?	000637	¿Iman wabtaq pisita nanasunky?
+000638	¿Le duele la cabeza?	000638	¿Umayki nanan?
+000639	¿Le punza?	000639	¿Usury jinachu?
+000640	¿Le late?	000640	¿Samay jinachu?
+000641	¿Le revienta?	000641	¿Particucuj jinachu?
+000642	¿Toda la cabeza?	000642	¿Intirun umachu?
+000643	¿La mitad?	000643	¿Kusca umallachu?
+000644	¿Ve luces?	000644	¿Luztachu ricunki?
+000645	¿Le duele la garganta?	000645	¿Tonkori nanan?
+000646	¿Arde, punza?	000646	¿Sansan usuri jina?
+000647	¿Le duele la boca?	000647	¿Simiyku nanan?
+000648	¿Le duele la lengua?	000648	¿Kalloyki nanan?
+000649	¿Arde, quema?	000649	¿Sansan usuri jina?
+000650	¿Le duele el cuello?	000650	¿Kunkaiki nanan?
+000651	¿Le duele la espalda?	000651	¿Wasayki nanan?
+000652	¿En descanso o en actividad?	000652	¿Samanki hina o ruwanki hina?
+000653	¿Le duele el pulmón?	000653	¿Kunkaiki nanan?
+000654	¿Cuando tose le duele más?	000654	¿Sorq'an nanan ¿Uhunky hinachu nanan masta?
+000655	¿Le duele el abdomen?	000655	¿Wiksachu nanan?
+000656	¿Tiene fiebre o escalofríos?	000656	¿Rupaychu jap'isunki o chirichu?
+000657	¿Orina bien de día / de noche?	000657	¿Hisp'anki allinta tuta / punchay?
+000658	¿Le funciona bien el intestino y formado?	000658	¿Akashanki allyntachu?
+000659	¿Duerme bien?	000659	¿Allyntachu puñunky?
+000660	¿Es cierto que a veces se despierta? ¿Cuántas veces?	000660	¿Check'achu ricchanki ayk'a kuti?
+000661	¿Siente dolor al pasar la saliva o los alimentos, ardor o punza o le produce la tos?	000661	¿Nanan mikunki hina o sansanchu o ujuchu kosonki?
+000662	¿Tiene dolor (ardor punzada) en el cuello?	000662	¿K'aran o nanan kunkayki?
+000663	¿Tiene tos por momentos o constante?	000663	¿Uhunki pisitachu o anchatachu uhunki?
+000664	¿Con la tos bota algo y de qué color, blanco, verde, amarillo, con sangre o totalmente con sangre?	000664	¿Uluspa imata thoganki, ima color, yurac, k'omer, kello o yawartachu?
+000665	¿Con la tos se agita, no puede respirar bien y si camina se agita o le falta el aire para respirar?	000665	¿Uhunki hina saykunkichu manachu samayta atinki purinki hina saykunkichu o samaychu mana kan?
+000666	¿La tos se acompaña de dolor hacia alguna parte de la espalda (tórax)?	000666	¿Uhunki hina huasaykichu nanasunki?
+000667	¿Siente que le ronca o le silba el pecho?	000667	¿Uhunki hina ronkankichu o silvankichu?
+000668	¿Tiene agitación por momentos o todo el día?	000668	¿Saik'unki hask'tachu pisillatachu?
+000669	¿Tiene dolor, punzada, cuando tose, camina o respira profundo?	000669	¿Uhunki hina nanasunki o purinky hina?
+000670	Quítese la ropa, le voy a examinar	000670	Ch'utikuy p'achaykita cawasayki imaynas cashanky
+000671	Abre la boca	000671	Simiykita kichay
+000672	¿Se agita cuando camina?	000672	¿Purinki jina ajitakunkichu?
+000673	¿Con cuántas almohadas duerme?	000673	¿Jayk'a saunanawanmi puñunky?
+000674	¿Se despierta ahogándose cuando duerme?	000674	¿Rikch'ankijina tu'kayniykichu mana samachisunki?
+000675	¿Le duele el pecho cuando camina?	000675	¿Purijtiyki pechoykichu nansunki?
+000676	¿Qué hace para que el dolor pase?	000676	¿Imatan ruwanky chay nanay pasanampaq?
+000677	Además de dolor, ¿qué otra cosa siente?	000677	¿Nanaymanta imatavantaq sintinky?
+000678	¿Sudor frío? ¿Marcos?	000678	¿Chiry hump'iychu? ¿Sonkochu muyun?
+000679	¿Ganas de llorar?	000679	¿Wak'aytachu munangui?
+000680	¿Siente que le palpita el pecho?	000680	¿Pechuykicho saltakun?
+000681	Deme su brazo para ver su presión	000681	Apamuy mojileykita presion kjawanaypak
+000682	Deme su mano para saber cuánto tiene	000682	Apamuy makiykita kjawanaypak
+000683	Le voy a examinar su corazón	000683	Sonkoykita kjawasac imayna kaskanta
+000684	Respire / no respire / póngase de costado / siéntese	000684	Samay / ama samychu / teknemanta churakuy / tiyariy
+000685	Ponga suelto el abdomen	000685	Wicsaykita ama kuyuchiycho
+000686	¿Le duele aquí en el lado derecho?	000686	¿Nanasunkicho kay paña ladupi?
+000687	¿Están sus pies hinchados? ¿En la mañana o en la tarde?	000687	Chakiyki punkiscachu cashan? ¿Tumantachu o chisimanchu?
+000688	Respira profundamente un rato y para de respirar un ratito	000688	Samay ukumanta uc rato, hinaspa ama samaychu
+000689	Le voy a dar unos golpecitos suaves en el lado izquierdo de su tórax o pecho	000689	Takariscayki zumacllata lloq'e sonkoikipi
+000690	Descúbrase la camisa para examinar su corazón	000690	Kichariy camisaykita sonooyki k'awanapaj
+000691	Late bien y está normal / Está como loco, late rápido	000691	Allintan purishan t'ulkutan purishan/ Loco jina purishan t'ulkutan purishan
+000692	¿Al tocarle el pecho, siente como un cosquilleo en su mano?	000692	¿Pechuyki hapikitty seccsisunkicho makiyki?
+000693	Voltee la cabeza al lado izquierdo, le voy a apretar el vientre del lado derecho	000693	Umaykita churay llog'e laduma nok'a happykusac paña wicsaykita
+000694	¿Se cansa o se agita cuando camina poca distancia o gran distancia?	000694	¿Purinki hina saykunk'ichu o pisita purinki hinacho?
+000695	Siente que su corazón le palpita rápido o por momentos, a veces o siempre o cuando camina?	000695	¿Sonkoyki purin yankatachu o manachu o purinki hinallachu?
+000696	¿Se le hinchan los pies por las tardes o es que ya los pies los tiene permanentemente hinchados?	000696	Chakiyki punkisunkichu o punkiskapuni karan?
+000697	¿Esa hinchazón ha subido hasta las piernas o la barriga (abdomen)?	000697	¿Chakiykillachu puntiska o wicsacamachu?
+000698	¿Siente el abdomen más hinchado cuando come o después de comer?	000698	¿Wicsayki punkin mincuki hina o mikuspañachu?
+000699	¿Alguna vez se ha despertado bruscamente a media noche porque le faltaba aire para respirar o estaba tosiendo o estaba agitado?	000699	¿Rikcharankichu kuskan tuta mana samayta atispa o samaytachu mana attranqui uhuspa saykuska?
+000700	¿Tuvo alguna vez dolor en el pecho cuando camina y se pasa rápido?	000700	¿Qhasco nanarasunkichu purictiyki hinaspa manañachu?
+000701	¿El dolor en el pecho se ha vuelto permanente?	000701	¿Qhasco nanayniyki unaymanatañachu?
+000702	¿Es algo como que le aprisionaran o apretaran el pecho?	000702	¿Mat'iykusunquinampis sonkoiykita hinatachu Yupanqui?
+000703	¿Le duele la boca cuando la abre?	000703	¿Simiyki nananchu kichactiyki?
+000704	¿Cómo está su dentadura, el diente le molesta o duele?	000704	¿Imayna kashan kiruyqui, nanasunkichu?
+000705	¿Cuánto tiempo mastica coca, ahora lo viene haciendo?	000705	¿Haykamantaña cocata akullinky, kunan acullisankichu?
+000706	¿Tiene apetito?	000706	¿Yarak'asunkichu?
+000707	¿Le repugna la comida o algunas en especial?	000707	¿Millankunkichu mik'unata o ima mikuyta?
+000708	¿No tiene deseos de comer, desde cuándo?	000708	¿Mana mikuita munanguichu, hayk'acmanta?
+000709	¿Ha notado que desde que se le quitó el apetito (deseo de comer) es que ha bajado de peso?	000709	¿Mana mikuskalkimanta, tulluyanquichu?
+000710	¿Tiene dolor en el vientre (abdomen)? ¿Cómo es?	000710	¿Nansunkichi wicsayki chaypi imaynatak?
+000711	¿Le arde, le quema, le punza, le retuerce, aumenta o calma cuando come?	000711	¿Sansan, ruphan, k'ewen, mikujtiykitac mañana?
+000712	¿Es permanente o por ratos?	000712	¿Tukuy punchay o ratullachu?
+000713	Cuando le caen mal los alimentos, ¿le dan ganas de arrojar (vomitar), le viene dolor, siente que se hincha (eleva) el abdomen?¿Cuánto tiempo dura esta molestia?	000713	¿Maman mikuita munankichu hina aktupakuytachu munanki, nanaychu hamun, wicsaykichu punkin haykata nanan?
+000714	¿Cree que algunas comidas le caen mal? ¿Cuáles son: grasas, verduras, chuño blanco o negro?	000714	Manachu allinta ruasunky mikuy'ima: wira, verdura, chuño yurac o yana?
+000715	¿Le funciona bien el intestino?	000715	¿Allinchu cashan wicsayki?
+000716	¿Ha tenido diarreas? ¿Cómo son: ¿puré, son delgadas, casi como cinta, por pedazos, largas, son gruesas con sangre roja o sin color, casi blancas o de color negro como la brea?	000716	K'echawanchu k'ashanki? ¿maynatak: unu hina, ima color, yarwarchu, hatun, racku, yurac, yana brea hinachu?
+000717	Cuando sus deposiciones son sueltas (diarreas), ¿se acompañan de dolor, retortijón y sensación de pujo o de querer hacer nuevamente o son de poca cantidad y continúa la molestia?	000717	Kéchanki hina nanaywanchu, ¿kéwesunkichu, uctawanchu kechayta munanqui o k'echallachu pisimanta pisi?
+000718	Si ha tenido dolor en la boca del estómago (epigastrio), ¿este dolor luego se localiza en el lado derecho y es muy intenso?	000718	Wicsa simipi nanasunkichu, ¿chay nanay paña wicsapichu, unaytachu nanasunki?
+000719	¿A los pocos días ese dolor se acompaña de coloración amarilla en los ojos y la piel y hay cambio de color de la orina?	000719	¿Pisi p'unchay hinaspa chay wicsa nanaymanta ñawiykik'ello kutin, aychayquipis, hisp'aynikipis?
+000720	¿Días después, la deposición es casi blanca?	000720	¿Pakarinintin akanti yuractachu?
+000721	¿Estas molestias persisten y hay sensación de calor (frío), a veces precedida de escalofríos?	000721	¿Mana allin kashanki hina, rupasunkichu cuerpo, hinaspa chiri calor hamun?
+000722	¿La fiebre es constante? ¿por las tardes o en determinada hora del día?	000722	¿Rupa pakuy tukey punchay, chisillamanchu?
+000723	¿Cómo está la orina?, ¿de qué color?, ¿cuánto orina?, ¿mucho / poco?	000723	¿Hisp'aniyki imanyna kashan?, ¿ima color?, ¿hayk'ata hisp'anki?, ¿pisita / ashkata?
+000724	Cada vez que orina, ¿tiene ardor?	000724	¿Hisp'aqtiykik'arasunkichu?
+000725	¿Orina frecuentemente?	000725	¿Hisp'ay atisunki?
+000726	¿Orina en las noches? ¿cuántas veces?	000726	¿Hisp'anki tutallachu ask'ata – hayk'a cutita?
+000727	¿Cómo es el chorro en la orina? ¿delgado, grueso o como siempre?	000727	¿Imaynatag hispayniyki, ñahu, raku, caskanllachu?
+000728	¿Algunas veces con ardor, dolor al terminar de orinar?	000728	Nanasunkichu, k'arasunkichu hasp'aqtiykitukunki hina?
+000729	¿Su orina es de olor fuerte y turbia?	000729	¿Hisp'ayniyki asnachu o k'ellechu?
+000730	¿Alguna vez ha orinado sangre y con olor?	000730	¿Hisparankichu yawarta nanayman?
+000731	¿El dolor alguna vez viene de la cintura y baja hacia el abdomen y a los genitales?	000731	¿Nanay hamun teknemanta hinaspa urak'an wiksaman hinaspa hinaspaykiman?
+000732	¿Puede diferenciar si la sangre viene de la orina o de los genitales?	000732	¿Yawar urak'amun hispanaymanta o vaginaykimanta?
+000733	¿Le viene sangre todos los meses?	000733	¿Yawarniyki jamón sapa killachu?
+000734	¿Le baja poco o mucha cantidad de día o de noche?	000734	¿Hamun pisichu o asckachu, tutatchu o punchaychu?
+000735	¿Cuándo fue la última vez que vino tu regla?	000735	¿Hayk'actac hamuran yawarniyki ghepaman?
+000736	¿Cuántos días le baja sangre?	000736	¿Jayk'actac hamuran yawarniyki ghepaman?
+000737	¿Es abundante los primeros días?	000737	¿Ashkachu kallarin hina yawarniyki?
+000738	¿O solo el primer o segundo día?	000738	¿Iskay punchayllachu jamun ask'a?
+000739	Si tienes más de 40 años la regla puede venir en mes o dos meses	000739	Huaytayqui 40 hinaq'a yawarniyki jamunk'a uk o iskay killamanta
+000740	Si no le viene varios meses la regla puede estar embarazada	000740	Mana yawarniyki jamunchu haska killata hinaka onk'ocmi kawac
+000741	La mujer que pierde sangre antes de la fecha de regla debe avisar al médico porque no es bueno que ocurra ello	000741	Yawarniyki hamun mana tukasunki hinaka willanayqui doctorma, chayca manan allinchu
+000742	¿Cuántos meses no le viene la regla?	000742	¿Jayka killatae manua yawarniyki jamunchu?
+000743	¿Es la primera vez que espera un hijo?	000743	Nampaq wawaykitachu suyasanki
+000744	¿Cómo fue su parto? ¿dónde y quién la ha atendido?	000744	¿Ymayna onkokumki, maypy y pitak cuidarasunki?
+000745	¿Has tenido mucho dolor de cadera?	000745	¿Tekeneyki anchatachu nansunki?
+000746	¿Se ha hinchado en los últimos meses?	000746	¿Teknetyki punktirkanchu iskay ultimo killata?
+000747	¿El niño o niña nació bien, hasta la fecha?	000747	¿Wawayki allinchu cashan cunankama?
+000748	¿Le da de lactar a su hijo?	000748	¿Nufuchinkichu wawaykita?
+000749	¿Cuántas veces al día?	000749	¿Jayka kuttitatae nufuchinki uk punchay?
+000750	¿Cuánto tiempo viene dando pecho?	000750	¿Jaykactamantatatae fufutchishanki?
+000751	¿Ha tenido que acudir a alguna partera o persona entendida o vino a la posta u hospital?	000751	¿Rirkanki wawawachachik warmictachu ó rirdkanki hospital o posta?
+000752	¿Ahora está más renegona o sensible para llorar?	000752	¿Kunan pisillamantachu koleranki ó wakàychu hamusjunki yancalla?
+000753	¿Siente calor y sudor en la cabeza, cuello y pecho, todos los días?	000753	¿Jump'ichu rupaypiwan umaykima jamun tonkòriman sapa punchay?
+000754	¿Le ha visto un ginecólogo? ¿Una vez al año? ¿Cuánto tiempo no lo ha visto o nunca lo hizo?	000754	¿Ricusunkichu warmi doctor uk cutita watapi, jaykàcmantafia mana kcaearsunkichu, o haykàcpis ricusunkichu?
+000755	Cuando tiene ganas de orinar y no lo hace, ¿se le escapa la orina?	000755	¿Hipàyta munangui hina mana kanchu hispa'y o hipàykucunkichu?
+000756	Cuando tose, estornuda o se ríe, ¿también se le sale la orina?	000756	¿Ujunki o asikunky hina hipàychu atipamusunki?
+000757	¿Ha notado que le baja humedad por los genitales?	000757	¿Jum'inchu ganitahiyki?
+000758	¿Es amarillo, con sangre?	000758	Kèllocho, yawarniyukcho
+000759	¿Tiene olor fuerte?	000759	¿Asnacho?
+000760	¿Le pican los genitales?	000760	¿Sansan nanan genitahiyki?
+000761	¿Le sale pus por el pene?	000761	¿Qèarachu hispànky?
+000762	¿Tiene dolor de cabeza y se acompaña de náuseas?	000762	¿Umaykichu nansunkiy imatavantaq sintinky umayqkichu muyun?
+000763	Cuando le duele la cabeza ¿ve luces?	000763	¿Umaykichu nansunkiy jina koillyrtachu rikunki?
+000764	¿Dolor en la cintura que va hacia un lado de la pierna?	000764	¿Nanan tekni hinaspa uk lado chakima urkan?
+000765	¿Desde cuándo arrastra la pierna?	000765	¿Haykakmanta chaquiykita arrastranki?
+000766	¿Ha notado dificultad para mover un brazo y una pierna del mismo lado?	000766	¿Manachu atinki makiyki aysriyta hinasta chay lado chaquiykita?
+000767	Saque la lengua, sople, silbe	000767	¿Kalluykita urkumuy, pukuy, silvay?
+000768	¿Ha notado que media cara no es igual que la otra o que la boca se ha desviado o torcido más para un lado?	000768	¿Cuentataa cokunkichu uk lado uyaiki mana allinchu o simiyki uk laduma kuyurkon?
+000769	¿Tiene mareos?	000769	¿Umayki muyusunkichu?
+000770	¿Le parece que pierde la estabilidad cuando está parado o caminando?	000770	¿Purishanki hina umayquichu muyusunki o sayarictiyki?
+000771	¿Camina a pasos cortos?	000771	¿Puringui pisimanta pisi?
+000772	¿Le tiembla una mano o un pie o medio cuerpo?	000772	¿Karkatinchu uk maqui o uk chaqui o kuska cuerpo?
+000773	¿Ha cambiado su modo de hablar?	000773	¿Parlayniyki wacjinachu?
+000774	¿Siente que los brazos o las manos le tiemblan por momentos?	000774	¿Makiykichu o ricramantachu tiemblan ratumantu ratu?
+000775	¿Siente si le viene pérdida de conciencia y luego le tiemblan los brazos y las piernas?	000775	¿Yuyainiqui chincanchu jinaspa makiyki karjatin chakiynintin?
+000776	¿Se siente cansado?	000776	¿Saykuska kashanki?
+000777	¿Prefiere no hablar con nadie?	000777	¿Manachu piwampis parlayta munanki?
+000778	¿Se encierra en su cuarto?	000778	¿Wasiykipichu sapayki kayra munanqui?
+000779	¿Prefiere no hablar?	000779	¿Manachu parlayta munanki?
+000780	¿Nada le llama la atención?	000780	¿Mana imapis atishawanchu?
+000781	¿Siente de cuando en cuando [que] le falta aire?	000781	¿Samainiyki ratu tatu manan kanchu?
+000782	¿Tiene dificultad para dormir?	000782	¿Manachu puñuyta atinqui?
+000783	Pero si en el día, en su cuarto se duerme?	000783	Punchayka wasiykipi puñuyta atinki
+000784	A veces bebe licor y con eso se siente mejor	000784	Ujiaspa un chikan allin kanki
+000785	¿Desde cuándo ve cosas extrañas que no son realidad?	000785	¿Jaykāmanta kcawanqui ujinata?
+000786	¿Oye voces extrañas que hablan?	000786	¿Uyarinkichu parlajta hina nirriyquipi imatataj runata?
+000787	¿Cree usted que el demonio se ha apoderado de Ud.?	000787	¿Sacrachu cuerpokima huaycurckun?
+000788	¿Usted cree que es Dios o la Virgen?	000788	¿Tatttucho yuyakunki o mamitachu?
+000789	¿Desde cuándo ha cambiado de carácter, es más dócil, más agresivo o simplemente inestable?	000789	¿Jaikācmanta wack hina, Ilaskiska hina o mana allinchu?
+000790	¿Ha notado que habla sólo?	000790	¿Sapallanchu parlan?
+000791	¿Cree que es otra persona o que es Dios?	000791	¿Uk runachu kanki o tatttuchu kayta munanki?
+000792	¿Cree que lo van a matar?	000792	¿Wañuchiṣungutmanpis hinatachi Yupanqui?
+000793	¿Cree que alguien lo persigue?	000793	¿Pipis Kationsumkim a hinatachu Yupanqui?
+000794	Ahora voy a verlo	000794	Kunan kawarusayki
+000795	Abra la boca	000795	Kichay simiykita
+000796	Saque la lengua	000796	Kalloykita urk'cuy
+000797	Quítese la ropa	000797	P'achaykita ch'utikuy
+000798	Diga "aaaaaa"	000798	Niy aaaaaaa nispa
+000799	Respire por la nariz	000799	Sinkaykimanta samay
+000800	Abra y cierre los ojos	000800	Kichay y wisk'ay ñawiykita
+000801	Mire y vea bien	000801	K'awanky hina allintachu ricunki
+000802	¿Por la noche ve bien?	000802	¿Tuta allintachu rikunki?
+000803	Doble y mueva el cuello	000803	Muyuchiy kunkaikita
+000804	Pase la saliva	000804	klausaykita mikuy
+000805	Voy a examinarlo o ver la espalda y el pecho	000805	Kawasayqui imaynas kashanki wasaykita y pechoykita
+000806	Siéntese ahora, le voy a dar algunos golpecitos en la espalda	000806	Tayaikuy kunan huasaykipi takariskayki
+000807	Diga treinta y tres cada vez que le toque la espalda	000807	Niy kinsachunka kinsayniyuc nispa sapa wasapi takajtiy
+000808	Respire hondo y no tan rápido	000808	Samay uk'umanta pisimanta pisi
+000809	¿Le duele lo que toco?	000809	¿Nanasunkichu llankasayki chay?
+000810	Tosa y respire varias veces	000810	Ujuy pisimanta pisi asekjata
+000811	Si respira hondo o profundo, ¿le duele?, ¿qué lado?	000811	Samangui hina jmayken, lado nanan?
+000812	Cuando tose fuerte, ¿le duele?, ¿qué lado?	000812	Ujunki hina jmayken, lado nanan?
+000813	Ahora voy a examinarle el corazón	000813	Kunan kawasayki soncoykita imainas kashan chaita
+000814	Recuéstese	000814	Wikchurikuy
+000815	Le voy a tocar el lado izquierdo del pecho	000815	Llogè pechoykita tocasayki
+000816	Ahora voy a oír cómo camina su corazón	000816	Kuna kawasac imainatas purishan soncoykichayta
+000817	Si camina rápido o despacio	000817	Purishan tullkutachu o pismantachu chayta
+000818	Deme su brazo izquierdo	000818	Llogè makiykita apamuy
+000819	Voy a tomarle la presión	000819	Presinniykita kawasac imainas cashan chayta
+000820	Voy a mirarle el abdomen o vientre	000820	Keawariscayki wicsaykiurayta
+000821	Respire para ver su desplazamiento	000821	Samay kawanaypac imayna purin chayta
+000822	¿Le duele cuando le toco o aprieto?	000822	¿Nansunkichu fiatuyki hina?
+000823	¿Le duele más cuando le quito la mano?	000823	¿Anchata nansunki makiyta ukarini hina?
+000824	¿Ha visto estas venas o cosas azules en el vientre?	000824	¿Ricunkichu venas azules wicsaykipi?
+000825	¿Ha notado que tiene hinchado el vientre a veces o todo el tiempo?	000825	¿Wicsayki ura haunt hinachu cashan kunallancho o unaymantañachu?
+000826	Ahora, dése vuelta sobre el lado derecho con la pierna izquierda doblada	000826	Kunan kitiriy paña cuerpokyman y lloqè chakiykita kunkiykuspa
+000827	Respire profundamente	000827	Samay ukumanta pacha
+000828	Le voy a dar unos golpecitos en su vientre	000828	Wiesa uraypi tacarisayki
+000829	¿Le duele cuando le toco el lazo izquierdo?	000829	¿Nanasunkichu llogè lado?
+000830	Respire hondo y bote el aire	000830	Samay ukumanta y wikchuy samayta
+000831	¿Le duele el lado derecho de su vientre cuando le toco?	000831	¿Paña wicsayki nanasunkichu hap'ini hina?
+000832	¿Cuándo respira hondo y cuándo bota el aire?	000832	¿Ukumanta samanqui jinacho o samainiykita wikchunki jinachu?
+000833	¿Le duelen las costillas del lado derecho cuando doy unos golpecitos en esa zona?	000833	Paña huactayki nansunkichu takagi chay chikapi huna
+000834	Levante las manos	000834	Makiykita ukáriy altuma
+000835	Cierre los ojos	000835	Şawiykita wiskay ó (chîrmiy)
+000836	Saque la lengua	000836	K'alloykita urkûmuy
+000837	Párese con los ojos cerrados	000837	Saya ŷawi chîrmispa
+000838	Camine recto y derecho	000838	Puriy ŷampacma
+000839	Cruce las piernas	000839	Chaquiykita uckaj chaqui patama churay
+000840	Doble su pierna derecha y después la izquierda, le voy a dar unos golpecitos en cada una de las rodillas	000840	Doblay lloqè chakiykita hinaspa pañata noka takasaykia iskaynin konkoriykipi
+000841	Le voy a levantar la pierna izquierda sin doblar la rodilla y luego la derecha	000841	Kuna lloqè pakaykita altuma ukarisac konkoriykita doblankichu hinaspa pañapakaikita
+000842	Ponga su cuello encima de mi mano y ahora voy a tratar de sentarlo. Usted no haga nada	000842	Churay cincaykita makiy pataman nokàtac yanasac tiyachiyta, kan ama imatapis ruankichu
+000843	Ahora, estando sentado voy a tocarle su columna y Ud. me dice dónde le duele	000843	Kunan tayatiykijapisayki huasa ruruykita, kan niwaki nanasunki hina
+000844	Le voy a raspar la planta de los pies	000844	Kunan chaki pampaykita rascariscayka
+000845	Le voy a apretar los talones de los pies	000845	Kunan talonniykita nit'iykuskayki
+000846	Le voy a pinchar suave su pierna, dígame en qué lado siente más el dolor de la pinchada	000846	Chakiykipi agujawan hallaykusayki kina niwanki mayken ladote masta nanasunki
+000847	Dele de mamar a su hijo cada tres horas	000847	Wawaykita fūrītuchiy sapa kinsa horas
+000848	Tenga limpio a su hijo	000848	Wawaykita limphiuta chachiy
+000849	Lávele la cara, los ojos y las manos	000849	Maqchinqui uyanta, ḥawinta y makinta
+000850	Haga hervir el agua	000850	Lecheta timpuchinayki
+000851	Lávese las manos antes de comer	000851	Maqchikunayki makiykita mikunapaq
+000852	Ahora que tiene diarrea, dele líquidos	000852	K'echawan kajtin ashka mateta qònayki
+000853	Dele un cuarto de taza de mate, cada vez que tenga diarrea	000853	K'echagtin gònky kuzca taza mateta
+000854	Traiga a su hijo para vacunarlo	000854	Wawaykita vacunanapaj apamunki
+000855	Al otro mes, dentro de tres meses	000855	Hamua killata, kinsa killamanta
+000856	Cada mes debes traer a tu hijo para pesarlo, examinarlo	000856	Wawaykita sapa killa apamunki pesanapaq, qhawanaypaq ima
+000857	Vaya al laboratorio	000857	Laboratorioman puriy
+000858	Para que le hagan el examen de sangre	000858	Yawar examenta ruwanasunkispaq
+000859	Para que le hagan el examen de orina	000859	Unihisp'ay examenta ruwanasunkispaq
+000860	Para que le hagan el examen de heces	000860	Hatúnhisp'ay examenta ruwanasunkispaq
+000861	Mañana viene en ayunas	000861	Pakarin hamunki ama mikuspa
+000862	Tiene que traer orina	000862	Hispaykita apamunky
+000863	Trae orina en este frasco	000863	Kay frascopi hispaskaikita apamunki
+000864	Tiene que traer esputo	000864	T'okasjaikita apamunki
+000865	Tiene que traer sus heces	000865	Akaykita aparminki
+000866	Le van a sacar sangre	000866	Yawar orgonasuyquipac
+000867	Necesita sangre	000867	Yawartan necesitanki
+000868	No debe tener miedo	000868	Ama manchacunkichu
+000869	Trae dos personas para que te den sangre	000869	Aparumayki yscay runata yawar gonasunquipa
+000870	Tiene que hospitalizarse	000870	Hospitalisakunaiky
+000871	Necesita que le operen	000871	Operasunaukiku
+000872	¿Le da miedo el hospital?	000872	Hospitalta manchakunkichu?
+000873	Tiene que ir a la sala número 4	000873	Tawa cuartoman ronayki
+000874	Compre esto para su operación	000874	Operacionnaykipak kayta rantimunki
+000875	¿Tiene familia aquí?	000875	¿Kanchu familiayki kaypi?
+000876	Esta es su cama	000876	Kaymi puñunayki
+000877	¿Cuál es su cama?	000877	¿Mayquemni puñunayki?
+000878	¿Le sacaron radiografía?	000878	¿Radiografiata orgorasunkichu?
+000879	Esto se llama chata	000879	Kaypak sutinka chata
+000880	Aquí va a orinar	000880	Kaypihispakunki
+000881	Desnúdese	000881	Pachaykita chuticuy
+000882	Póngase la bata	000882	Churacuy batata
+000883	Guarde su ropa	000883	Pachaykita waqqychay
+000884	Le voy a lavar	000884	Hamuy makchisayki
+000885	Le cortaré las uñas	000885	Silluykita kuchusayki
+000886	Le voy a poner enema	000886	Enemata churasayki
+000887	Le voy a sacar sangre	000887	Yakarta orqosayki
+000888	Le voy a inyectar	000888	Inyeoshonta churasayki
+000889	Le voy a poner suero	000889	Suerota churasayki
+000890	Hoy día no coma nada	000890	Kuna p'unchay ama mikunkichu
+000891	Le voy a llevar a operar	000891	Operacionma apasayki
+000892	Está muy delicado	000892	Manan allinchu cashanki
+000893	¿Cómo ha amanecido?	000893	¿Imaynataj pakarinki?
+000894	Ya está mejor	000894	Allinñan cashanki
+000895	¿Está cómodo en la cama?	000895	¿Allinchu cashanki puñunapi?
+000896	¿Le hace frío por las noches?	000896	¿Tuta anchata chirivan?
+000897	No se saque esto	000897	Ama kayta orqocuychu
+000898	No trate de moverse	000898	Ama cuyunkichu
+000899	No se agarre la herida	000899	Ama japicunkichu usurita
+000900	No hable, le va a doler más	000900	Ama parlaychu astawan nanasunki
+000901	Si sangra, avise	000901	Yawar jamusunki hina willawanki
+000902	¿Le ajusta la venda?	000902	Mat'isunkichu chumpi
+000903	Sí me ajusta	000903	Arí mał'iwan
+000904	¿Tiene sed?	000904	¿Chàquisunkichu unu?
+000905	Debe tomar agua	000905	Unata ujianayki
+000906	Debe comer	000906	Mik'unayki
+000907	Tengo sed	000907	Chàquisunkichu unu
+000908	¿Tengo frío?	000908	¿Chirisunkichu?
+000909	Abríguese bien	000909	Allinta pistukunki
+000910	¿Quiere sentarse?	000910	¿Tiyaitachu munanki?
+000911	¿Y ahora, cómo se siente?	000911	¿Kunanny imaynataj kashanki?
+000912	Me siento mejor	000912	Allinñan cashani
+000913	Trate de caminar	000913	Puryta yanay
+000914	Tiene que caminar despacio	000914	Chicamanta puriycachay
+000915	Camine aunque le duela	000915	Puriycachay nanagtinpas
+000916	¿Quiere ir al baño?	000916	¿Hispàkchu riyta munanki?
+000917	¿Qué ha comido?	000917	¿Imantan mikuranqui?
+000918	He comido	000918	Mikurany
+000919	Nada he comido	000919	Manan imatapis mikuranichu
+000920	La herida se puede abrir	000920	Usuriyki kicharukumna
+000921	Se le puede infectar	000921	Qèacharummanni
+000922	Ahora está bien, así que puede irse	000922	Kunanka allin kasharki hinallaka ripuy
+000923	¡Uyuyuy! ¡Ya va a llorar! ¡Ya va a llorar!	000923	¡Ayayay! ¡Waqarunqam! ¡Waqarunqam!
+000924	¡Déjenlo! ¡Déjenlo!	000924	¡Hina kachun! ¡Hina kachun!
+000925	Volaron palmas. Crujió un despecho en alto.	000925	Taqllakuykunkum. Ancha piñakuymi uyarirqukun.
+000926	Cancio se enardecía visiblemente y cobró la ofensiva.	000926	Qawachkaptillayku Cancio piñarparikun hinaspa kutirparichin.
+000927	¡El profesor! ¡El profesor!	000927	¡Yachachiq! ¡Yachachiq!
+000928	Juncos estaba muy castigado y parecía que iba a doblar pico.	000928	Juncosqa llumpay panyasqam karqun hinaspa mancharisqahinaña.
+000929	Un instante miró a la multitud y sus ojos se humedecieron.	000929	Huñunasqa warmakunata qawariykun ñawin- ñataq waqaqhina.
+000930	Acezaban ambos en guardia.	000930	Iskayninkum maqa maqaqllaña sayarqunku.
+000931	Pega	000931	Maqamuy
+000932	Pega nomás	000932	Maqamuyyá
+000933	Juncos hizo un ademán significativo.	000933	Juncos qawayllanwan qallarisun nin.
+000934	El verdor de las venas de su arañado cuello palideció ligeramente.	000934	Kunkanpi silluwan qasmisqa sirkankunam tunpanta qilluyarqun.
+000935	Entonces le di la voz con todas mis fuerzas:	000935	Hinaptinmi llapa kallpaywan kaynata nini:
+000936	Ellos se miraban echándose los convexos pechos con aire de recíproco desprecio.	000936	Iskayninkum qasqunkuta wiñaykachispa millakuywan qawanakunku.
+000937	Alguien lanzó una alerta:	000937	Hukkaqmi willakamun:
+000938	¡El profesor!	000938	¡Yachachiq!
+000939	¡El profesor!	000939	¡Yachachiq!
+000940	La bandada se dispersó.	000940	Huñunakuqkuna chiqirparinku.
+000941	Mentira.	000941	Yanqam.
+000942	No viene nadie.	000942	Manampipashamunchu.
+000943	Mentira	000943	Yanqam
+000944	La pasión infantil abría y cerraba calles en el tumulto.	000944	Warmakunam chaqwayninwan ñankunata kichankuraq wichqankuraq.
+000945	Se formaron partidos por uno y otro de los contrincantes.	000945	Kanmi warmakuna sapa maqa- nakuq	warmakunata	kallpanchaq.
+000946	Estallaban grandes clamores.	000946	Qapariykunkum maqanakunanpaq.
+000947	¡Al cerrillo!	000947	¡Urquchaman!
+000948	¡Al cerrillo!	000948	¡Urquchaman!
+000949	¡Hip!	000949	¡Hip!
+000950	¡Hurra!	000950	¡Hurra!
+000951	Un estruendoso y confuso vocerío se produjo y la muchedumbre se puso en marcha.	000951	Chaqwallaña qapariy karparin hinaspa llapanku kall- panchanakuspa puriyta qallarinku.
+000952	A la cabeza iban los dos rivales.	000952	Iskaynin maqanakuqkunam ñawpanku.
+000953	Una anciana salió a la puerta de su casa y gruñó muy en cólera:	000953	Huk payacha wasi punkunman lluqsimuspan piñallaña kaynata nin:
+000954	¡Juan!	000954	¡Juan!
+000955	Vas a ver	000955	Kunanmi qawanki
+000956	Las carcajadas redoblaron.	000956	Aswanmi kallpawan llapanku asiykunku.
+000957	Leonidas y yo íbamos muy atrás.	000957	Leonidaswan   qipa   qipallataña   richkarqaniku.
+000958	Leonidas estaba demudado y le castañeteaban los dientes.	000958	Leonidasmi upallarparin hinaspa kirunkunapas takanakunraq.
+000959	¿Vamos quedándonos?	000959	¿Qipakuchkasunchu?
+000960	le dije.	000960	nini.
+000961	Bueno me respondió.	000961	Arí niwan.
+000962	¿Pero si le pegan a Juncos?	000962	¿Juncosta panyaruptinkurí?
+000963	Alguien estaba llorando.	000963	Hukkaqnin waqamuchkasqa.
+000964	Los otros reían estentóreamente.	000964	Wakin warmakunañataq qapariykuqhina asiykunku.
+000965	Se vivaba a contrapunteo:	000965	Maqanakunanpaqmi kallpanchaykunku:
+000966	¡Viva Cancio!	000966	¡Kawsachun Cancio!
+000967	¡Hip!	000967	¡Hip!
+000968	¡hurraaaaa!	000968	¡hurraaaaa!
+000969	Se hizo un orden frágil.	000969	Tunpanta hawkayaykunku.
+000970	La gritería y la confusión renacieron.	000970	Kaqmantapunitaq qaparinku chaqwallaña.
+000971	Pero se oyó una voz amenazadora:	000971	Ichaqa piñasqa rimaymi uyarirqukun:
+000972	¡Al primero que hable le rompo las narices!	000972	¡Ñawpaq pipas rimarimuqpa sinqantam pakirqusaq!
+000973	Voy a Juncos.	000973	Juncostapas.
+000974	Voy a Cancio.	000974	Canciotapas.
+000975	Se hacían apuestas como en las carreras de caballos o en las peleas de gallos.	000975	Qullqita churanku caballokuna llallinachiypi utaq utulukuna awqanachiypihina.
+000976	Juncos era el niño descalzo.	000976	Juncosqa qala chaki warmam karqan.
+000977	Más bien escueto y cetrino y de sabroso genio pendenciero.	000977	Payqa mana allin pachasqa qillu uya hinaspa maqanakuy munaqmi.
+000978	Sus pies desnudos mostraban los talones rajados.	000978	Qala chakinpim qawakun chitqasqa talónnin.
+000979	Tocaba su cabeza alborotada un grueso e informe sombrero de lana.	000979	Umanpi millwamanta rakta chukuyuq.
+000980	Reía como si le hiciesen cosquillas.	000980	Chikuchasqahina asiykurqan.
+000981	Las apuestas en su favor crecían.	000981	Aswanmi achka runakunaña qullqita churanku paymi llallinqa maqanakuypiqa nispanku.
+000982	Por Cancio en cambio las apuestas eran menores.	000982	Canciopaqñataqmi mana anchachu qullqita churanku.
+000983	Se mordía el labio superior con altivez y cólera de adulto.	000983	Hanay kaq hitanta kachuparqukuspan qari qarillaña hatun runahina piñarqukun.
+000984	Tenía zapatos nuevos.	000984	Musuq zapatuyuqmi karqan.
+000985	¡Uno!	000985	¡Huk!
+000986	¡Dos!	000986	¡Iskay!
+000987	¡Tres!	000987	¡Kimsa!
+000988	El tropel se sumió en un silencio trágico.	000988	Huñunakuq warmakuna qunqaymanta upallarqunku.
+000989	Leonidas tragó saliva.	000989	Leonidas tuqayninta millpurqun.
+000990	Un puñetazo en el costado derecho esgrimido con todo el brazo contrario le hizo tambalear.	000990	Alliq kaq rikranpim qunqaymanta kallpawan taka katkatarachin.
+000991	Le alentaron.	000991	Warmakunam kaqmanta kallpanchanku.
+000992	Recuperó su puesto y una sombra cruzó por su semblante.	000992	Kutirirqamun kasqanman ñawpaqninta runapa llantun pasarqun.
+000993	Cancio empezó a despertar mi simpatía.	000993	Cancioman sayapakuyta qallarini.
+000994	Era inteligente y noble.	000994	Payqa yachaysapa allin warmam karqan.
+000995	Nunca buscó camorra a nadie.	000995	Manam piwanpas chiqninakuytaqa maskarqanchu.
+000996	Cancio me era simpático y ahora se avivaba esa simpatía.	000996	Cancioqa allin warmam karqan kunanpas allin kasqanta qawanipunitaq.
+000997	Leonidas también estaba ahora de su parte.	000997	Leonidaspas paywanña kunanqa kachkan.
+000998	Yo le dije:	000998	Ñuqa niykuni:
+000999	Déjalo.	000999	Hina kachun.
+001000	No te metas.	001000	Ama satikuychu.
+001001	¡Y por qué le pega a Cancio!	001001	¡Imaynanpim Canciota panyan!
+001002	Bajó luego los ojos como avergonzado.	001002	Chaymanta pampata qawarqun pinqakuqhina.
+001003	La lucha se encendió en forma huracanada.	001003	Panyanakuy kaqmanta kallpawan qallarirparin.
+001004	Corrió sangre.	001004	Yawar pawarqun.
+001005	Le poseyó al muchacho un súbito coraje.	001005	Maqtaqa kallpancharparikun.
+001006	Puso un feroz puñetazo en la cara del inminente vencedor y le derribó al suelo.	001006	Kallpawan uyanpi takarparin llalliqhina kachkaptin pampaman tikrakunankama.
+001007	El sol declinaba.	001007	Intim waqtaykuchkanña.
+001008	Había pasado la hora del almuerzo y teníamos que volver directamente a la escuela.	001008	Mikuy horam tukurqusqaña yachaywasimanmi kutinayku kachkan.
+001009	A Cancio le llevaban de los brazos.	001009	Canciota rikranmanta hapiykuspankum apachkanku.
+001010	Tenía un ojo herido y el párpado muy hinchado.	001010	Huknin ñawinmi kirisqa hinaspa ñawi qaranpas punkiy punki.
+001011	Sonreía tristemente.	001011	Waqaqhina uyayuqmi asirin.
+001012	También yo le seguía de cerca tratando de verle el rostro.	001012	Ñuqapas qipallantam qatirqani uyan qawayta munaspay.
+001013	¡Cómo le habían pegado!	001013	¡Waknata panyarqusqanku!
+001014	Se apartó de todos y fue a sentarse en un poyo del sendero.	001014	Llapanmanta rakirqukuspan purina law rumipi tiyarqun.
+001015	Nadie le hizo caso.	001015	Pimanpas manam qukunchu.
+001016	Bajó la frente y empezó a jugar con piedrecillas y briznas de hierba.	001016	Kumuykuspam rumichakunawan qurachakunawan pukllayta qallarin.
+001017	Le había pegado a Cancio este Juncos	001017	Kay Juncosmi Canciota panyarqusqa
+001018	Vámonos le dijo Leonidas acercándose.	001018	Hakuchik ninmi Leonidas asuykuspan.
+001019	Juncos no respondió.	001019	Juncosñataq mana imatapas ninchu.
+001020	Hundió su sombrero hasta las cejas y así ocultó el rostro.	001020	Qichiprankama sombreronta chutaykun chaynaspam uyanta pakarqun.
+001021	Leonidas se inclinó a verle.	001021	Leonidasmi kumuykuspan qawaykun.
+001022	Juncos estaba llorando.	001022	Juncosqa waqachkasqam.
+001023	Está llorando dijo Leonidas.	001023	Waqachkanmi nirqun Leonidas.
+001024	¡Bravo!	001024	¡Allinmi!
+001025	¡Bravo Juncos!	001025	¡Allinmi Juncos!
+001026	¡Bravo Cancio!	001026	¡Allinmi Cancio!
+001027	Al reanudarse la pelea	001027	Kaqmanta maqanakuy qallariptinmi kutirispay
+001028	di una vuelta	001028	masinkunaman huñurqukuni.
+001029	y me pasé a los suyos.	001029	hukninmi qala chakilla
+001030	dos niños poco más o menos de la misma edad	001030	mana allin pachayuq.
+001031	uno de ellos descalzo	001031	Ñannintakama rinku
+001032	y pobremente vestido.	001032	hinaspa karu uyarinata qaparispanku
+001033	los muchachos hacían una algazara ensordecedora.	001033	asiykunku.
+001034	¡A dónde vas mocito!	001034	¡Maqtacha maytam richkanki!
+001035	Era éste un niño decente	001035	Payqa allin warmam karqan
+001036	hijo de buena familia.	001036	allin ayllupa wawan.
+001037	Cancio no se movía de su guardia	001037	Cancioqa taka qawachisqanmanta manan kuyurinchu
+001038	reduciéndose a parar las acometidas de Juncos.	001038	Juncosmanta harkakuspa.
+001039	me respondió	001039	nispa kutichiwan
+001040	poniéndose aún más colorado.	001040	aswan anchata pukayaspan.
+001041	Juncos vaciló	001041	Juncos mancharikuqhina
+001042	defendiéndose con escaramuzas inútiles.	001042	mana allintañachu kutipakun.
+001043	¡Entra Juncos!	001043	¡Yaykuy Juncos!
+001044	¡Pégale duro!	001044	¡Kallpawan panyarquy!
+001045	Todos le rodeaban lacerados	001045	Llapankum kirisqa muyurinku
+001046	prodigándole palabras fraternales.	001046	sumaqta rimapayaspanku.
+001047	Vámonos Juncos.	001047	Hakuchik Juncos.
+001048	De una gran puñada	001048	Kallpawan takarparin
+001049	asestada con limpieza verdaderamente natural	001049	manam sasachakunpaschu
+001050	hizo dar una vuelta a la cabeza contraria.	001050	panyaqninpa umanta muyurqachinraq.
+001051	El humilde granuja	001051	Mana allin warma
+001052	al principio tan dueño de sí mismo	001052	qallariyninpiqa payllaña
+001053	tenía el pabellón de una oreja ensangrentado y encendido	001053	kunanqa rinrinpas yawarchasqa
+001054	a semejanza de una cresta de gallo.	001054	utulupa titalanhina pukayasqa.
+001055	a una puñada del héroe contrario	001055	takata chaskirquspan pampaman wichiykunan kachkaptin
+001056	alargó la mano canija	001056	utqayllaman hapirqun
+001057	y dio un buen pellizcón a Juncos.	001057	hinaspa Juncosta kallpawan chiptirqun.
+001058	Hubo puntapiés	001058	Haytapanakunku
+001059	llantos	001059	waqachinakunku
+001060	risotadas.	001060	asipayanakunku.
+001061	Llegados a una pequeña explanada	001061	Uchuy pampaman chayaruspanku
+001062	al pie de un cerro de la campiña	001062	urqu sikipi
+001063	se detuvo el tropel.	001063	llapan warmakuna sayarqunku.
+001064	Juncos	001064	Juncos
+001065	finteando	001065	qari qarillaña
+001066	sonreía.	001066	asiriykuspa.
+001067	El grupo de pequeños avanzaba	001067	Taksa warmakunam
+001068	de vuelta a la aldea	001068	kaqmanta kutinku uchuy llaqtaman
+001069	entre las pencas del camino.	001069	paqpakunapa chawpinta.
+001070	Le veían de lejos	001070	Karullamantam qawanku
+001071	con extrañeza	001071	imayná nispanku
+001072	y él parecía avergonzado.	001072	payñataq pinqakuqhina.
+001073	¿Está bien, señora?	001073	¿Allinllanchu, mamáy?
+001074	¡Estoy bien, señor!	001074	¡Allinllanmi, taytáy!
+001075	Señor, ¿cómo está?	001075	Taytáy, ¿allillanchu?
+001076	Señora, estoy bien	001076	Mamáy, allillanmi
+001077	¿Cómo está, señor?	001077	¿Imaynallam kachkanki, taytáy?
+001078	Bien, doctor	001078	Allinllam, doctor
+001079	¿Cómo está, señora?	001079	¿Imaynallam kachkanki, taytáy?
+001080	Bien, doctor	001080	Allinllam, doctor
+001081	¿Cómo están, señoras?	001081	¿Imaynallam kachkankichik, mamaykuna?
+001082	Bien, jefe	001082	Allinllam, jefe
+001083	Buenos días, doctor	001083	Ñuqallaymi, doctor
+001084	Buenos días, doctor	001084	Ñuqallaykum, doctor
+001085	Buenos días, doctora	001085	Hamullachkani, doctora
+001086	Buenos días, doctora	001086	Hamullachkaniku, doctora
+001087	Le recibo, señor	001087	Chaskiyukuyki, wiraqucha
+001088	Les recibo, señoras	001088	Mamaykuna, chaskiyukuychik
+001089	Buenos días, señora	001089	Rimaykullayki, mamáy
+001090	Buenos días, señores	001090	Rimaykullaykichik, taytaykuna
+001091	Buenos días, señor	001091	Napaykullayki, taytáy
+001092	Buenos días, señoras	001092	Mamaykuna, napaykullaykichik
+001093	Adelante, señor	001093	Yaykuykamuy taytáy
+001094	Adelante, señora	001094	Mamáy, yaykuykamuy
+001095	Adelante, señores	001095	Yaykuykamuychik, taytakuna
+001096	Adelante, señoras	001096	Yaykuykamuychik, mamakuna
+001097	Tome asiento	001097	Tiyakuy
+001098	Tome asiento	001098	Tiyarikuy
+001099	Tome asiento	001099	Tiyayukuy
+001100	Tomen asiento	001100	Tiyakuychik
+001101	Tomen asiento	001101	Tiyarikuychik
+001102	Tomen asiento	001102	Tiyayukuychik
+001103	¿Qué desea, señora?	001103	¿Imatataq munanki, mamáy?
+001104	¿Qué desea, señor?	001104	¿Imatataq munanki, taytáy?
+001105	¿Para qué ha venido, señora?	001105	Mamáy, ¿imachamanmi hamuchkanki?
+001106	¿Para qué ha venido, señora?	001106	¿Imamantaq hamurqanki, mamáy?
+001107	¿Para qué ha venido, señora?	001107	¿Mamáy, imamanmi hamurqanki?
+001108	¿Por qué ha venido, señor?	001108	¿Imaraykutaq hamurqanki, taytáy?
+001109	¿Por qué ha venido, señor?	001109	¿Imaraykutaq hamuchkankiri?
+001110	¿En qué le puedo servir?	001110	¿Imapaqtaq allin kayman?
+001111	¿Qué puedo hacer por usted?	001111	¿Imatam ruwallayman?
+001112	¿En qué le puedo ayudar?	001112	¿Imapitaq yanapaykiman?
+001113	¿En qué le puedo ayudar?	001113	¿Imapitaq yanapariykiman?
+001114	¿En qué le podemos ayudar?	001114	¿Imapitaq yanapariykimanku?
+001115	¿Puedo ayudarle?	001115	¿Yanapayta atiymanchu?
+001116	¿Podemos ayudarle?	001116	¿Yanapayta atiymankuchu?
+001117	Le escucho, señora	001117	Uyariykim, mamáy
+001118	Le escucharé, señor	001118	Uyarisqaykim, taytáy
+001119	Les escucharé	001119	Uyarisqaykichik
+001120	He venido para poner una denuncia	001120	Denuncia churaqmi hamuchkani
+001121	He venido para poner una denuncia	001121	Chikuykuqmi hamuchkani
+001122	He venido a denunciar	001122	Denunciaqmi hamuchkani
+001123	He venido a denunciar	001123	Awqayta chikuykuqmi hamuchkani
+001124	He venido a hacer una consulta	001124	Tapukuqmi hamuchkani
+001125	He venido a hacer una consulta	001125	Tapurikuqmi hamuchkani
+001126	Deseo hablar con el juez	001126	Juezwanmi rimayta munani
+001127	Deseo hablar con el fiscal	001127	Fiscalwanmi rimayta munani
+001128	Deseo que me escuche el juez	001128	Juezpa uyariwanantam munani
+001129	Deseo que me escuche el fiscal	001129	Fiscalpa uyariwanantam munani
+001130	Necesito hablar con el fiscal	001130	Fiscalwanmi rimanay kachkan
+001131	¿Qué está esperando, señora?	001131	¿Imatan suyarichkanki, mamáy?
+001132	¿Qué está buscando, señor?	001132	¿Imatam maskarichkanki, taytáy?
+001133	¿Me puede ayudar, señor?	001133	¿Allichu yanapawankikumanchu, taytáy?
+001134	¿Me puede ayudar, señor?	001134	Wiraqucha, ¿yanapawankikumanchu?
+001135	¿Me puede ayudar, señora?	001135	Mamáy, ¿yanapawankikumanchu?
+001136	Estoy buscando la Demuna	001136	Demunatam maskachkani
+001137	Estoy buscando el Primer Juzgado	001137	Primer Juzgadotam maskachkani
+001138	Estoy esperando a mi hija, jefe	001138	Wawata suyarichkani, jefelláy
+001139	Estoy esperando a mi abogado	001139	Abogadoytam suyarichkani
+001140	Yo hablo quechua, señor	001140	Runasimita rimani, taytáy
+001141	¿Habla castellano, señora?	001141	¿Castellanuta rimankichu, mamáy?
+001142	No hablo castellano.	001142	Manam castellanuta rimanichu
+001143	¿Habla quechua, doctor?	001143	¿Runasimita rimankichu, doctor?
+001144	Sí, hablo quechua	001144	Arí, runasimita rimani
+001145	¿Sabe quechua, doctora?	001145	¿Runasimita yachankichu, doctora?
+001146	Sí, sé quechua	001146	Arí, runasimita yachani
+001147	No sé quechua	001147	Manam runasimita yachanichu
+001148	¿Prefiere usted hablar quechua o castellano?	001148	¿Runasimitachu utaq castellanusimitachu rimayta munanki?
+001149	¿Quién habla quechua aquí?	001149	¿Pitaq kaypi runasimita riman?
+001150	¿Quién habla castellano aquí?	001150	¿Pitaq kaypi castellanota riman?
+001151	Por favor, hábleme despacio	001151	Allichu, allinllamanta rimaway
+001152	Por favor, hábleme despacio	001152	Ama hina kaychu, allinllamanta rimaway
+001153	¿Puede hablar más despacio?	001153	¿Allinllamanta rimaykuwankimanchu?
+001154	¿Puede hablar más despacio?	001154	¿Manachu allimanta hinalla rimawaq?
+001155	¿Puede repetir?	001155	¿Manachu kaqmanta rimariwaq?
+001156	¿Puede repetir?	001156	¿Manachu hukmanta rimariwaq?
+001157	¿Podría repetir eso?	001157	¿Yapa chayta rimaykuwankimanchu?
+001158	¿Podría repetir eso?	001158	¿Chay rimasqaykita kaqmanta rimariwaqchu?
+001159	Por favor, repita	001159	Allichu, huktawan niway
+001160	Tranquilícese, señora	001160	Hawkalla kakuy, mamáy
+001161	Cálmese, señor	001161	Hawkayay, taytáy
+001162	Cuénteme lo que le aflige	001162	Llakikuyñiykita willawanki
+001163	Todo va a estar bien	001163	Lliumi allin kanqa
+001164	No se preocupe	001164	Ama llakikuychu
+001165	¡Ayúdeme!	001165	¡Yanapaway!
+001166	¡Ayúdeme!	001166	¡Yanapariway!
+001167	Le ayudaré	001167	Yanapasqayki
+001168	Le vamos a ayudar	001168	Yanapasqaykikum
+001169	Escuche	001169	Uyariy
+001170	Escúcheme, por favor	001170	Uyariykullaway
+001171	Escúcheme, por favor	001171	Ama hina kaychu, uyariykullaway
+001172	Escúcheme, por favor	001172	Ama hina kaspayki, uyariykullaway
+001173	Por favor, señor	001173	Allichu, taytáy
+001174	¡Qué bueno que ha venido!	001174	¡Ima allinmi hamuranki!
+001175	¿A qué hora llega el comisario?	001175	¿Ima horasta comisario chayamunqa?
+001176	¿A qué hora llega el fiscal?	001176	¿Ima horasta fiscal chayamunqa?
+001177	Inmediatamente	001177	Kasqanpacha
+001178	En este momento	001178	Kunanpacha
+001179	En este momento	001179	Kunallanmi
+001180	No puedo ayudarle, señora	001180	Manam yanapayta atinichu, mamáy
+001181	Lo lamento mucho, señor	001181	Anchata llakikuni, taytáy
+001182	Disculpe	001182	Pampachaway
+001183		001183	Dispinsaykuway
+001184	Perdóneme	001184	Pampachaykuway
+001185	Perdón por llegar tarde	001185	Pampachayuway qhiparikusqaymanta
+001186	Perdóneme, pero no puedo ir ahora	001186	Pampachaway, kunanqa manam riyta atinichu
+001187	No puede hablar con él ahora	001187	Kunanqa manam paywan rimayta atinkichu
+001188	No puede hablar con él ahora	001188	Kunanqa manam qanwan rimayta atinchu
+001189	¡Gracias!	001189	Yusulpayki
+001190	¡Me ha ayudado!	001190	Yanaparwanki
+001191	Gracias por su ayuda	001191	Yusulpayki yanapawasqaykimanta
+001192	No hay de qué	001192	Imamanta
+001193	No tiene por qué	001193	Imanaqtin
+001194	Nos vemos mañana, señor	001194	Paqarinkama, taytáy
+001195	Hasta otro día, señora	001195	Huk punchawkama, señora
+001196	¡Muchas gracias, señor!	001196	Anchata agradisiyki, papay
+001197	¡Muchas gracias, señor!	001197	Agradisikuyayki, papay
+001198	Espere un momento, por favor	001198	Allicha, huk ratucha suyay
+001199	Espere un momento, por favor	001199	Huk ratucha, suyariy
+001200	Esperen un momento, por favor	001200	Allicha, huk ratucha suyaychik
+001201	Esperen un momento, por favor	001201	Huk ratuchata suyaykuychik
+001202	¿Entiende usted?	001202	¿Intindikichu?
+001203	¿Entendió usted?	001203	¿Intindirankichu?
+001204	No entiendo	001204	Manam intindinichu
+001205	No entendí	001205	Manam intindiranichu
+001206	Disculpe	001206	Dispinsaykuway
+001207	Por favor, jefe	001207	Ama hina kaychu, jefellay
+001208	Muchas gracias, jefe	001208	Yusulpayki, jefellay
+001209	Me llamo Miguel Quispe	001209	Miguel Quispem sutiy
+001210	Me llamo Miguel Quispe	001210	Sutiymi Miguel Quispe
+001211	Soy el técnico Miguel Quispe	001211	Miguel Quispe técnicom kani
+001212	Soy el técnico Miguel Quispe	001212	Técnico Miguel Quispem kani
+001213	Soy el oficial Miguel Quispe	001213	Miguel Quispe oficialmi kani
+001214	Soy el oficial Miguel Quispe	001214	Oficial Miguel Quispem kani
+001215	Soy el Fiscal Provincial. Me llamo Freddy Manrique.	001215	Fiscal Provincialmi kani. Sutiymi Freddy Manrique.
+001216	Soy la doctora Susana Huamán	001216	Doctora Susana Huamánmi kani
+001217	¿Quién es usted?	001217	¿Pim kachkanki?
+001218	¿Cómo se llama usted?	001218	¿Imataq sutiyki?
+001219	¿Apellido paterno?	001219	¿Taytaykimantari?
+001220	¿Apellido materno?	001220	¿Mamaykimantari?
+001221	Yo soy Andrés Huamaní Torres	001221	Andrés Huamaní Torresmi kani
+001222	Mi nombre es Felícita Palomino, doctor	001222	Sutiymi Felícita Palomino, doctor
+001223	¿De donde viene usted?	001223	¿Maymantam hamuchkanki?
+001224	Soy de Vilcashuamán	001224	Vilcashuamanmantam hamuchkani
+001225	¿De dónde es usted?	001225	¿Maymantataq kanki?
+001226	Yo soy de Huanta	001226	Huantamantam kani
+001227	Yo soy de la comunidad de Rancha	001227	Rancha comunidadmantam kani
+001228	Yo soy de la comunidad de Munaypata	001228	Munaypata comunidadmantam kani
+001229	¿Viene de la comunidad?	001229	¿Comunidadmantachu hamuchkanki?
+001230	Sí, vengo de allí	001230	Arí, chaymantam hamuchkani
+001231	No, vivo aquí	001231	Manam. Kaypim tiyani
+001232	¿Dónde vive usted?	001232	¿Maypitaq tiyanki?
+001233	Yo vivo en Quinua	001233	Quinuapim tiyani
+001234	¿En qué calle vive?	001234	¿May k’ikllupin tiyanki?
+001235	Vivo en la calle Bellido	001235	Bellido k’ikllupin tiyani
+001236	¿Qué número?	001236	¿Ima yupaychasqa?
+001237	Vivo en el número 312	001237	312pin tiyani
+001238	¿Cuál es el número de su DNI?	001238	¿Mayqantaq DNIniykipa yupaynin?
+001239	No tengo DNI, señor	001239	Manam DNIniy kanchu, taytáy
+001240	Se me ha perdido mi DNI, señorita	001240	DNIniymi chinkarun, siñuracha
+001241	¿Qué edad tiene?	001241	¿Hayka wataykipitaq kachkanki?
+001242	¿Qué edad tiene?	001242	¿Hayka watayuq kanki?
+001243	Tengo 45 años	001243	Tawa chunka pichqanmi kachkani
+001244	Tengo 45 años	001244	Tawa chunka pichqanpim kachkani
+001245	Tengo 45 años	001245	Tawa chunka pichqayoqmi
+001246	Tengo 45 años	001246	Watayqa tawa chunka pichqanmi
+001247	¿Cuál es su estado civil?	001247	¿Mayqantaq estado civilniyki?
+001248	¿Cuál es su estado civil?	001248	¿Kasaruchu? ¿Solteruchu?
+001249	¿Es usted casado?	001249	¿Kasaruchu kanki?
+001250	¿Es usted casado?	001250	¿Sawanasqachu kanki?
+001251	¿Es usted casado?	001251	¿Warmiyuqchu kanki?
+001252	Soy casado	001252	Kasarum
+001253	Soy casado	001253	Kasadum kani
+001254	Soy casado	001254	Warmiyuqmi kani
+001255	¿Es usted casada?	001255	¿Kasarachu kanki?
+001256	¿Es usted casada?	001256	¿Qusayuqchu kanki?
+001257	Soy casada	001257	Kasaram
+001258	Soy casada	001258	Kasadam kani
+001259	Soy casada	001259	Qusayuqmi kani
+001260	Soy soltera	001260	Sapaymi kani
+001261	Soy soltera	001261	Sapallaymi kani
+001262	Vivimos juntos, pero todavía no estamos casados	001262	Kuskaykun tiyayku, ichaqa manaraqmi kasarakusqachu
+001263	Vivimos juntos, pero todavía no estamos casados	001263	Kuskan tiyayku, ichaqa manaraqmi casarakuykuraqchu
+001264	Vivimos juntos, pero no estamos casados	001264	Kuskaykun tiyayku, ichaqa manam kasarakusqachu
+001265	Vivimos juntos, pero no estamos casados	001265	Kuskaykun tiyayku, ichaqa mana kasarasqalla
+001266	¿Usted se ha casado por civil?	001266	¿Civilpichu kasarakurqanki?
+001267	Sí, me he casado por civil	001267	Ari, civilpi kasarakurqani
+001268	No, solo por religioso	001268	Manam, religiosopillam kasarakurqani
+001269	No, solo convivimos	001269	Manam, servinakuypillam kachkaniku
+001270	No tengo esposo/ pareja/marido	001270	Mana qusayuqmi kani
+001271	No tengo esposo/ pareja/marido	001271	Mana qariyuqmi kani
+001272	No tengo esposo/ pareja/marido	001272	Mana yanayuqmi kani
+001273	No tengo esposa/pare- ja/mujer (soy separado/	001273	Mana warmiyuq kani
+001274	abandonado/divorciado)	001274	Mana yanayuqmi kani
+001275	No estoy casado	001275	Mana kasaruchu kani
+001276	¿Su esposo vive?	001276	¿Qusayki kawsachkanchu?
+001277	¿Su esposa vive?	001277	¿Warmiyki kawsachkanchu?
+001278	Mi esposo ha fallecido	001278	Qusayqa wañunmi
+001279	Mi esposo ya ha fallecido	001279	Qusayqa wañusqaña
+001280	Soy viuda	001280	Warmi sapan kani
+001281	Mi esposa ha fallecido	001281	Warmiyqa wañunmi
+001282	Mi esposa ya ha fallecido	001282	Warmiyqa wañusqaña
+001283	¿Es usted separado?	001283	¿Rakinasqachu kanki?
+001284	¿Es usted separado?	001284	¿Taqanasqachu kanki?
+001285	Estoy separado/divorciado Estoy separada/divorciada	001285	Raqisqam kani
+001286	Me han abandonado	001286	Saqiruwankum
+001287	Dos	001287	Iskaymi churiykuna
+001288	¿Cuántos hombres?	001288	¿Haykataq qarikuna?
+001289	¿Cuántas mujeres?	001289	¿Haykataq warmikuna?
+001290	Tres	001290	Kimsam
+001291	¿Puede describir al hombre?	001291	¿Chiqanchawaqchu qaritaqa?
+001292	¿Puede describir a la mujer?	001292	¿Chiqanchawaqchu warmitaqa?
+001293	¿Puede describir a los ladrones?	001293	¿Chiqanchawaqchu suwakunataqa?
+001294	¿Puede describir al niño perdido?	001294	¿Chinkaq wawari imaynataq karqa?
+001295	De buen porte, fornido, corpulento	001295	Hatun karay runam
+001296	Es alto	001296	Allin sayayniyuq
+001297	Dos jóvenes y uno mayor, más gordo	001297	Iskay waynakuna chaymanta huk machu runa, wirasapa niq
+001298	Flaco	001298	Haqla
+001299	Flaco	001299	Tullu
+001300	Delgado	001300	Llañu
+001301	Gordo	001301	Wirasapa
+001302	Tenía anteojos	001302	Anteojosniyuq
+001303	Tenía anteojos	001303	Lentesniyoq
+001304	Blanco	001304	Yuraq runa
+001305	Una mujer blanca	001305	Yuraq warmi
+001306	Parecía extranjero	001306	Huk suyumanta hina
+001307	Cabello negro	001307	Yana chukchayuq
+001308	Cabello rubio	001308	Paqu chuckchayuq
+001309	Calvo	001309	Paqla
+001310	De ojos negros	001310	Yana ñawiyuq
+001311	De ojos azules	001311	Anqas ñawiyuq/ Azul ñawiyuq
+001312	Con una cicatriz	001312	Sirayuq
+001313	Con la cara arrugada	001313	Chawi uyayoq
+001314	Camina temblando	001314	Chiru chiru puriqmi
+001315	¿Cómo estaba vestido su papá?	001315	¿Imayna pachasqataq taytayki karqa?
+001316	¿Cómo estaba vestida su hija?	001316	¿Imayna pachasqataq warmi wawayki karqa?
+001317	¿Cómo estaban vestidos ?	001317	¿Imayna pachasqataq kasqaku?
+001318	¿Cómo estaba vestido el ladrón?	001318	¿Imayna pachasqataq suwa karqa?
+001319	Con sombrero marrón	001319	Chumpi ruquyuq
+001320	Con casaca negra	001320	Yana casacayuq
+001321	Con ropas de ciudad	001321	Llaqta pachayuq
+001322	Con polo rojo	001322	Puka poloyuq
+001323	Con camisa blanca	001323	Yuraq camisayuq
+001324	Con lliclla/manta	001324	Llikllalluq
+001325	Con ojotas	001325	Usutayuq
+001326	Con zapatos negros	001326	Yana zapatoyuq
+001327	Con gorra roja	001327	Puka chukuyuq
+001328	Con gorra roja	001328	Puka gurruyuq
+001329	Bien vestido	001329	Allin pachasqa
+001330	Andrajoso	001330	Latapa runa
+001331	Con pantalón azul	001331	Anqas warayuq / Azul pantaloyuq
+001332	Con chompa verde	001332	Qumir unkuyuq /Verde chompayuq
+001333	Con camisa celeste	001333	Qayma anqas camisayuq
+001334	¿Dónde se perdió el niño?	001334	¿Maypitaq warmari chinkarurqa?
+001335	¿Dónde pasó?	001335	¿Maypitaqri chay pasarqa?
+001336	¿Dónde le han robado?	001336	¿Maypitaq suwarqusunki?
+001337	¿Dónde estaban los animales?	001337	¿Maypitaq uywakunaqa karqa?
+001338	¿Dónde estaba usted ayer?	001338	¿Maypim qayna punchaw karqanki?
+001339	En el mercado	001339	Qatu wasipim
+001340	En la fiesta	001340	Raymipim
+001341	En la ciudad	001341	Llaqtapim
+001342	En el colegio	001342	Yachaywasipim
+001343	En el alojamiento	001343	Samanawasipim.
+001344	En el banco	001344	Qullqiwasipim
+001345	En el puente	001345	Chakapim
+001346	En mi casa	001346	Wasiypim
+001347	En su casa	001347	Wasinpim
+001348	En nuestra casa	001348	Wasiykupim
+001349	En el corral	001349	Kanchapim
+001350	En la chacra	001350	Chacrapim
+001351	En un galpón	001351	Raqay ukupim
+001352	En una casa abandonada	001352	Wischusqa wasipim
+001353	En la plaza	001353	Plazapim
+001354	En la feria	001354	Feriapim
+001355	En el mercado	001355	Mercadopim
+001356	En el banco	001356	Bancopim
+001357	En la fiesta	001357	Fiestapim
+001358	En el terminal	001358	Terminalpim
+001359	¿Por dónde se fueron los ladrones?	001359	¿Maynintataq suwakuna pasarqaku?
+001360	Se fueron hacia el río	001360	Mayuman pasakapunku
+001361	Se fueron hacia el pueblo	001361	Llaqtaman pasakapunku
+001362	Se fueron por esa calle	001362	Chay kiklluman pasakapunku
+001363	Se fueron por esa calle	001363	Chay callenta pasakapunku
+001364	Se fue hacia el pueblo	001364	Llaqtaman pasakapun
+001365	¿A qué hora sucedió eso?	001365	¿Ima horaspim chay pasarqu?
+001366	¿A qué hora sucedió eso?	001366	¿Ima horaspim chay karqa?
+001367	¿A qué hora le robaron?	001367	¿Ima horaspim suwarusurqanki?
+001368	¿A qué hora le asaltaron?	001368	¿Ima horastataq waykarusurqanki?
+001369	Recién	001369	Chayraqmi
+001370	Ahora	001370	Kunanmi
+001371	Hace un ratito nomás	001371	Ñaqachalla
+001372	Hace media hora	001372	Yaqa kunallanmi
+001373	Hace ya unas horas	001373	Yaqa iskay kimsa horasñam
+001374	Hoy día	001374	Kunan punchawmi
+001375	Esta mañana	001375	Kunan tutapay
+001376	Esta mañana	001376	Kunan tutamanta
+001377	A eso de las 10 de la mañana	001377	Tutapaynin chunka horas nisqata
+001378	A mediodía.	001378	Chawpipunchawta
+001379	Al atardecer	001379	Kay tutayaqta
+001380	Esta noche	001380	Kay tutata
+001381	A medianoche	001381	Chawpi tutata
+001382	En la madrugada	001382	Achikyarimuchkaptinmi
+001383	Al amanecer	001383	Achikyachkaqta
+001384	Anoche	001384	Chisi
+001385	Ayer	001385	Qayna punchaw
+001386	La semana pasada	001386	Qayna semanata
+001387	¿Hace cuánto tiempo sucedió?	001387	¿Haykapiraqtaq chay karqa?
+001388	¿Hace cuánto se conocen?	001388	¿Haykamantapacha riqsinakurqankichik?
+001389	Ya hace una semana	001389	Semanañam
+001390	Ya hace cinco meses	001390	Pichqa killañam
+001391	Persona	001391	Runa
+001392	Hombre	001392	Qari
+001393	Mujer	001393	Warmi
+001394	Gente	001394	Runakuna
+001395	Bebé	001395	Wawa/Wawacha
+001396	Recién nacido	001396	Llulluwawa/Qulla wawa
+001397	Lactante	001397	Ñuñuq wawa/Ñuñuq
+001398	Niño pequeño	001398	Wawa
+001399	Niño, muchacho	001399	Warma
+001400	Muchacho	001400	Maqtacha
+001401	Muchacha	001401	Pasñacha
+001402	Adolescente mujer	001402	Pasña / Pasñika
+001403	Adolescente varón	001403	Maqta / Maqtiku
+001404	Quiero separarme, doctor	001404	Rakikuytam munani, doctor
+001405	Ya no puedo vivir con mi esposo	001405	Manam qusaywan tiyayta atiniñachu
+001406	Ya no puedo vivir con mi esposo	001406	Manam qusaywan kuska kayta atiniñachu
+001407	Ya no puedo vivir con mi esposa	001407	Manam warmiywan tiyayta atiniñachu
+001408	Ya no puedo vivir con mi esposa	001408	Manam warmiywan kuska kayta atiniñachu
+001409	No tengo nada que hacer con él/ella	001409	Manam imatapas paywan ruwanayñachu
+001410	¿Se casaron ustedes legalmente?	001410	¿Legalpichu kuskanchakurankichik?
+001411	¿Se casaron ustedes legalmente?	001411	¿Consejupichu kasarakurqankichik?
+001412	Sí, doctor	001412	Legalpim karam, doctor
+001413	No, doctor. Solo religioso	001413	Manam, doctor. Iglesiallapi
+001414	¿Hace cuánto tiempo vivían juntos?	001414	¿Hayka watataq kuska tiyarankichik?tiyarankichik?
+001415	¿Por qué quiere separarse?	001415	¿Imarayku rakikuyta munanki?
+001416	¿A raíz de qué desea separarse?	001416	¿Imanaptinmi rakikuyta munanki?
+001417	Mi esposo me ha pegado	001417	Qusaymi maqaruwan
+001418	Mi esposo me pega	001418	Qusaymi maqawan
+001419	No es un buen padre	001419	Manam allin taytachu
+001420	No es un buen esposo	001420	Manam allin qusachu
+001421	No me trata bien	001421	Manam allintachu tratawan
+001422	Me trata muy mal	001422	Millaytam tratawan
+001423	Ella no es una buena madre	001423	Manam allin mamachu.
+001424	Ella no es una buena esposa	001424	Manam allin warmichu
+001425	No me da  plata	001425	Manam qullqinta quwanchu
+001426	Me quita mi dinero	001426	Qullqiytam qichuwan
+001427	Malgasta el dinero	001427	Qullqitam yanqanchan
+001428	No se acuerda de sus hijos	001428	Wawankuna mana yuyaqmi
+001429	No se acuerda de sus hijos	001429	Wawankunamanta mana yuyakunchu
+001430	No se acuerda de sus hijos	001430	Churinkuna mana yuyaqmi
+001431	Ella no cría bien a mis hijos	001431	Churiykunata manam allintachu uywan
+001432	Él no cría bien a mis hijos	001432	Wawaykunata manam allintachu uywan
+001433	Ya tiene otra mujer	001433	Huk warmiyuqñan kachkan
+001434	Tenía otra mujer	001434	Huk warmiyuqmi kasqa
+001435	Me está engañanado con otro hombre	001435	Huk runawanmi pantachiwan
+001436	Me está engañando con otra mujer	001436	Huk warmiwanmi pantachiwan
+001437	Tiene un amante	001437	Huk kuyayuqmi kachkan
+001438	Él es un borracho	001438	Llumpay tomakuqmi
+001439	¿Quiere usted separarse definitivamente?	001439	¿Wiñaypaqchu rakinakuyta munachkanki?
+001440	¿Lo ha pensado bien?	001440	¿Allintachu tantiyakuchkanki?
+001441	¿No se va a arrepentir después?	001441	¿Manachu qipaman pisakunki?
+001442	¿Tienen alguna propiedad en común?	001442	¿Iskaynikichikmanta kaqnikikuna kanchu?
+001443	¿Tienen alguna propiedad en común?	001443	¿Iskaynikichikmanta imaykichikpas kanchu?
+001444	¿Cuántos hijos tienen ustedes?	001444	¿Haykataq wawaykichikkuna?
+001445	¿Quién se va a quedar con los hijos?	001445	¿Pitaq warmakunawan qipanqa?
+001446	¿Cómo va a conseguir dinero para mantener a sus hijos?	001446	¿Imaynatataq warmakuna uywanapaq qulqita maskanki?
+001447	¿Cuántos años han vivido juntos?	001447	¿Haywa watataq kuska tiyarankichik?
+001448	He venido a presentar una demanda por alimentos	001448	Alimentosmanta demanda churanaypaqmi hamuchkani
+001449	¿En qué trabaja su esposo?	001449	¿Imapim qusayki llamkachkan?
+001450	¿En qué trabaja el padre de sus hijos?	001450	¿Imapitaq wawaykikunapa taytanri llamkachkan?
+001451	¿Dónde vive él?	001451	¿Maypitaq paymi tiyan?
+001452	¿Cuántos hijos tiene usted?	001452	¿Haykataq wawaykikunari?
+001453	¿Cuántos hijos tiene usted?	001453	¿Haykam wawayuqtaq kankiri?
+001454	¿Los niños han sido reconocidos por su padre?	001454	¿Wawaykikuna firmasqachu kachkan taytanwan?
+001455	¿Los niños han sido reconocidos por su padre?	001455	¿Wawaykikunatari taytam reconocirqanchu?
+001456	¿Los niños han sido reconocidos por su padre?	001456	¿Wawaykikunatari taytam firmarqachu?
+001457	No me da dinero	001457	Manam qullqitaqa quwanchu
+001458	Quiere dar poquísimo dinero	001458	Chikallanta qullqita quwayta munan
+001459	Quiere dar poquísimo dinero	001459	Chikan qullqillatam quwayta munan
+001460	No se preocupa por	001460	Churinkunamanta mana
+001461	sus hijos	001461	yuyakunchu
+001462	No se preocupa por	001462	Wawaykunamanta mana
+001463	mis hijos	001463	yuyakunchu
+001464	Parece que tiene otra	001464	Hukchus hina warmin
+001465	mujer	001465	kachkan
+001466	Siempre debe darle	001466	Warmankuna uywanaykipaq qusunaykipuni
+001467	La demanda de alimentos no se refiere solo a la comida	001467	Alimentos demandaqa manam mikunallamantachu
+001468	Sino también son gastos de ropa, colegio y otros gastos	001468	Ichaqa pachanmanta, colegionmanta, hukkunamantapas
+001469	No necesita abogado para este juicio	001469	Kay juiciopaqa manam abogadotaqa necesitankichu
+001470	Solamente llene este formulario	001470	Kay formulariollata huntarachiy
+001471	Mi vecino me debe 1 500 soles	001471	1 500 solestan wasimasiyman manurqani
+001472	¿Tiene algún documen- to o texto escrito que indique la deuda?	001472	¿Manusqaykimanta qillqanakuskayki kanchu?
+001473	¿Hicieron algún recibo?	001473	¿Recibuta ruwanakurankichikchu?
+001474	No me paga el alquiler desde hace tres meses	001474	Kimsa killañan tiyasqanmanta mana chaninchamunchu
+001475	Todo el tiempo dice que me va a pagar	001475	Sapa kuti chaninchasaqmi niylla niwan
+001476	Dice que me va a pagar	001476	Simillanmi pagasayki nin
+001477	Le adelanté 2 000 soles a los albañiles y todavía no han hecho nada	001477	2 000 solestaña perqaqkunaman quraniñan, manataq imatapas ruwankuraqchu
+001478	Parece que se han ido con mi dinero	001478	Qullqiywanchus hina ripukunku
+001479	Quizá pueda llegar pri- mero a una conciliación	001479	Ichapas ñawpaqninpiqa allin rimanakuyman chayawaqchi
+001480	Antes que el conflicto siga, quizá puedan arreglar	001480	Manaraq imapas kachkaptin, icha simita tupachiwaqchik
+001481	Atropellaron a un hijo mío	001481	Churiyta sarurparin
+001482	Atropellaron a un hijo mío	001482	Wawayta sarurparin
+001483	¿Pudo identificar el vehículo?	001483	¿Carruta riqsirurqankichu?
+001484	¿Pudo identificar al chofer?	001484	¿Chufirta riqsirurqankichu?
+001485	¿Asumió algún gasto el chofer?	001485	Chofer, ¿haykallawanpas chanincharachu?
+001486	¿Tiene las recetas de la curación?	001486	¿Kanchu recetayki?
+001487	¿Cobró el seguro del SOAT?	001487	¿SOATpa segurumanta chaskirankichu?
+001488	¿Sabe cobrar el seguro del SOAT?	001488	¿SOATpa segurumanta yachankichu chaskikuyta?
+001489	¿Cómo dañaron su propiedad?	001489	¿Imaykitataq dañarun?
+001490	Mis sembríos fueron arrasados	001490	Tarpukusqaytam chaqurunku
+001491	Mi maíz fue arrasado	001491	Sarayta chaqurunku
+001492	¿Qué produjo el daño?	001492	¿Imataq dañarun?
+001493	Lo hicieron los animales de mi vecino	001493	Wasimasiypa uywakunam ruwarun
+001494	Fueron las vacas de mi vecina	001494	Wasimasiypa wakakunam
+001495	Fue la maquinaria de una empresa	001495	Empresapa maquinankuna
+001496	¿Conversó usted con el dueño de los animales?	001496	¿Uywakunayuqwan rimarqankiñachu?
+001497	¿Qué dice el dueño de las vacas?	001497	¿Imatam wakayuq nichkan?
+001498	¿Qué dice el chofer?	001498	¿Imatam chufir nichkan?
+001499	¿Qué dice el dueño del automóvil?	001499	¿Imatam carruyuq nichkan?
+001500	No quiere hablar	001500	Manam rimayta munanchu
+001501	La empresa no quiere arreglar	001501	Manam empresaqa allichayta munanchu
+001502	El chofer dice que yo tuve la culpa	001502	Ñuqam huchayuq kani ninmi chufirqa
+001503	El chofer dice que mi hijo tuvo la culpa	001503	Wawaysi huchayuq ninmi chufirqa
+001504	El chofer quiere dar muy poco	001504	Chikallanta chufirqa quyta munan
+001505	Quiere dar poquísimo dinero	001505	Qullqinta chikallanta quwayta munan
+001506	Avisaré al fiscal para que proceda al levanta- miento del cadáver	001506	Fiscalmanchá willamusaq wañusqata huqarinankupaq
+001507	No muevan el cadáver	001507	Ama wañusqata tupaychikchu
+001508	Tiene que venir el fiscal	001508	Fiscalmi hamunan
+001509	¿El cadáver presenta signos de agresión?	001509	¿Wañusqari awqanakuymantaschu kasqa?
+001510	Hay sangre cerca	001510	Yawarmi chaypi kashan
+001511	Hay señales de golpes en el cuerpo	001511	Wañusqaqa maqasqa kasqa
+001512	¿Ha sido homicidio o un accidente?	001512	¿Wañuchisqachu icha kikinmanta wañuqchu kasqa?
+001513	No toquen nada	001513	Ama imatapas hapiychikchu
+001514	Puede haber huellas	001514	Yupim qipanman
+001515	¿Cuál es el nombre del fallecido?	001515	¿Iman wañusqapa sutin?
+001516	¿Cuál era el nombre del fallecido?	001516	¿Wañusqapa iman sutin karqa?
+001517	¿Han reconocido al difunto?	001517	¿Riqsirankichikchu wañuqta?
+001518	¿Ya se sabe quién es el fallecido?	001518	¿Yachakunñachu pin kasqa chay wañuq?
+001519		001519	Morguemanmi wañuqta apasaqku
+001520	No es posible enterrarlo todavía	001520	Manaraqmi pampanaraqchu
+001521	Esperamos al médico legista	001521	Medico legistata suyananchik
+001522	¿Cuánto tendremos que esperar?	001522	¿Hayka unaytataq suyasun?
+001523	Soy pariente del muerto	001523	Wañuqpa ayllunmi kani
+001524	Soy la esposa del muerto	001524	Wañuqpa warminmi kani
+001525	Soy el esposo de la fallecida	001525	Wañuqpa qusanmi kani
+001526	Somos parientes del muerto	001526	Wañuqpa ayllunmi kachkaniku
+001527	Quiero denunciar a Marcial Huilca por agresión	001527	Maqawasqanmantan Marcial Huilcata denunciayta munani
+001528	¿Por qué razón le pegó?	001528	¿Imanasqataq maqarqusurqanki?
+001529	¿En qué circunstancias le pegó?	001529	¿Imanaypitaq maqarqusurqanki?
+001530	Sin motivo	001530	Mana imallamanta
+001531	Me pegó porque creía que yo había estado con su mujer	001531	Maqawan warminwan pantaymanpas hina
+001532	Para robarme	001532	Suwawananpaq
+001533	Al final de la fiesta	001533	Fiesta tukuytam
+001534	¿Cómo le golpeó?	001534	¿Imaynatataq maqasurqanki?
+001535	¿Con qué le golpeó?	001535	¿Imanawanmi maqarusuranki?
+001536	Con un palo me pegó	001536	Kaspiwan maqaruwan
+001537	Tiene que ir al médico legista	001537	Médico legistaman rinayki
+001538	Me está amenazando	001538	Kunanmi rikuruwanki, niwachkanmi
+001539	¿Estaba él borracho cuando le pegó?	001539	¿Machasqachu maqasuspayki karqa?
+001540	¿Por qué le ha pegado a su vecino?	001540	¿Imanasqataq wasimasiykita maqarqanki?
+001541	Él me insultó	001541	Paymi kamiruwan
+001542	Yo solamente me defendía	001542	Ñuqaqa harkakuyllan harkakurqani
+001543	¡Señora, está golpeada!	001543	¡Mamáy, maqarachikusqankim!
+001544	Mi marido me ha pegado	001544	Qusaymi maqaruwan
+001545	Ayer me pegó mi esposo	001545	Qayna punchawmi qusaymi maqaruwaran
+001546	¡Tienen que curar sus heridas!	001546	¡Kiriykikunatan hampinanku!
+001547	La acompaño a la posta	001547	Postaman riysisayki
+001548	La llevo a la posta	001548	Postaman apasayki
+001549	La acompaño al hospital	001549	Hospitalman riysisayki
+001550	La llevo al hospital	001550	Hospitalman apasayki
+001551	¿Ha ido al médico legista?	001551	¿Médico legistaman rirqankiñachu?
+001552	Sí, ya fui. Acá está el resultado	001552	Arí, ñam riruniña. Kayqaya qawamuwasqan
+001553	No, ¿dónde está el médico?	001553	Manam, taytáy. ¿Maypitaq medicu kachkan?
+001554	¡Por favor, lléveme al doctor!	001554	¡Ama hina kaychu, midikuman apaway!
+001555	¿En qué circunstancias le pegó su esposo?	001555	¿Imaynanpitaq qusayki maqasurqanki?
+001556	De la nada	001556	Yanqapunim
+001557	Porque le he contestado	001557	Kutipakuptiy
+001558	Cuando no he querido acostarme con él	001558	Paywan puñuyta mana munaptiy
+001559	Cuando no hice lo que quería	001559	Munasqanta mana ruwaptiy
+001560	Cuando comenzamos a discutir	001560	Piñachinakuyta qallariptiykum
+001561	Cuando le pedí plata	001561	Qullqita mañaptiymi
+001562	Cuando yo iba a salir de la casa	001562	Wasimanta lloqsichkaptiymi
+001563	¿Cómo le ha pegado?	001563	¿Imaynatataq maqasurqanki?
+001564	Me ha dado una bofetada	001564	Laqichuruwan
+001565	Me ha dado de bofetadas	001565	Laqichuparuwan
+001566	Me ha jalado los cabellos	001566	Chukchaykunamanta chutaykuwan
+001567	Me ha jaloneado	001567	Aysaykachaykuwan
+001568	Me ha dado de patadas	001568	Haytaykuwan
+001569	Me ha golpeado en el suelo	001569	Pampapi maqaykuwan
+001570	Casi me ha matado	001570	Yaqallan wañurqachiwan
+001571	¿Con qué le golpeó?	001571	¿Imawanmi maqarusuranki?
+001572	Con un palo me pegó	001572	Kaspiwan maqaruwan
+001573	¿Cómo le golpea su pareja?	001573	¿Imaynatataq maqasuchkanki?
+001574	Todos los días me pega	001574	Sapa punchawmi maqakuwan
+001575	Todos los días me grita	001575	Sapa punchawmi qapariwan
+001576	Todos los días me insulta	001576	Sapa punchawmi kamiwan
+001577	Me obliga a hacer cosas que no quiero	001577	Mana munasqayta ruwachiwan
+001578	¿Desde cuándo le golpea?	001578	¿Haykapmantapacham maqasunki?
+001579	¿Es la primera vez que pasa?	001579	¿Kunanllaraqchu?
+001580	¿Le ha pegado antes?	001580	¿Ñawpaq maqasurqanki?
+001581	Es la primera vez	001581	Chayllaraqmi
+001582	No, nunca me había pegado	001582	Manam, haykaqpas manam maqawarqachu.
+001583	¿Cuántas veces ha pasado?	001583	¿Hayka kutitañataq?
+001584	Muchas veces ya	001584	Ñam achka kutitañam
+001585	Me ha pegado demasiado	001585	Mana chanintapuni maqaykuwarqan
+001586	Me ha pegado muchísimo	001586	Sinchitapuni maqayukuwaq
+001587	Me ha botado de la casa	001587	Qusaymi qarqumuwan
+001588	¿Ha denunciado antes?	001588	¿Denunciata churarqankichu?
+001589	Sí, el mes pasado	001589	Arí, qayna killatam
+001590	No, primera vez que vengo	001590	Manam, chayllaraqmi hamuchkani
+001591	Sí, me obliga	001591	Arí. Obligawanmi
+001592	¿Su esposo la insulta?	001592	¿Qusayki kamisunkichu?
+001593	Sí, me insulta todo el tiempo	001593	Arí. Sapa kuti kamiwan
+001594	Me hace sentir muy mal	001594	Kumuykachachiwanmi
+001595	¿Por qué no vino antes?	001595	¿Imanasqataq mana kayman hamurankichu?
+001596	Pensé que no volvería a pasar	001596	Manañachá yapamantaqa nirqanim
+001597	Me prometió no volver a pegarme	001597	Manañam maqasqaykichu niwarqam
+001598	Me prometió que cambiaría	001598	Manañam chaynañachu kasaq niwarqam
+001599	¿Depende usted de él para vivir?	001599	¿Payllamantachu dependisqa kanki?
+001600	¿Él es el único que trabaja?	001600	¿Payllachu llamkan?
+001601	Sí. Yo no trabajo	001601	Arí. Manam llamkanichu
+001602	¿Desea separarse?	001602	¿Rakikuytachu munanki?
+001603	No, quién me va a ayudar con mis hijos	001603	Manam, pitaq wawaykunawan yanapawanman
+001604	No, quién va a alimentar a mis hijos	001604	Manam, pitaq wawaykunaman mikuchinman
+001605	¿Tiene familiares que le puedan ayudar?	001605	¿Kanchu aylluykikuna yanapasuynaykipaq?
+001606	No tengo a nadie. Tengo miedo, doctora	001606	Manam piniypas kanchu. Manchakunim, doctora
+001607	No quiero volver con él	001607	Paywan kutiykanakuytaqa manañan munanichu
+001608	¿Estaba borracho cuando le pegó?	001608	¿Machasqachu maqasurqanki?
+001609	Sí, llegó borracho	001609	Arí, machasqa chayaramurqa
+001610	Él es un borracho	001610	Llumpay machaqmi
+001611	No, estaba sano	001611	Manam, mallaqllam
+001612	Había tomado un poco.	001612	Tumpan machasqam
+001613	¿Su esposo bebe?	001613	¿Qusayki upyanchu?
+001614	Bebe demasiado/es un borracho	001614	Llumpaytam machan/ Tomakuqmi
+001615	¿Qué quiere que suceda?	001615	¿Imatataq munankiman?
+001616	Quiero que no lo vuelva	001616	Wanananta munayman
+001617	Quiero que le llamen la atención para que reflexione	001617	Qaqchaykapuwaychik hamutananpaq
+001618	¿Quiere usted que se vaya de la casa?	001618	¿Wasimanta lluqsinanta munankichu?
+001619	Sí, porque ya no puedo más con él	001619	Arí, manam paywan tiyayta atiniñachu
+001620	Sí, porque ya no quiero arreglarme con él	001620	Arí, manam allinpaytaqa munaniñachu
+001621	Sí, no me queda otra	001621	Arí, imanaspapas
+001622	salida	001622	imanasaqtaq
+001623	Que se quede, pero repréndanlo	001623	Hinapi kachun, ichaqa qaqchaychik
+001624	Vamos a ordenar que el agresor salga de la casa de usted	001624	Chay kiriqniyki wasiykimanta lluqsinanpaq kamachisaqku
+001625	¿Quiere que ordenemos que el agresor salga de la casa de usted?	001625	¿Kamarichisaqchu chay kiriqniyki wasiykimanta lluqsinanpaq?
+001626	Sí, doctor, sería bueno	001626	Arí doctor, allinmi kanman
+001627	Usted está en una situación grave	001627	Sasachakuypi kachkanki.
+001628	Su esposo la puede matar	001628	Qusaykiqa wañurachisunkimanmi
+001629	Todos le tenemos miedo	001629	Llapaykum manchakuniku
+001630	Guarde  los objetos peligrosos	001630	Cuchillutapas imatapas pakanayki
+001631	Tenga a la mano ropa, zapatos.	001631	Pachaykipas, sapatupas, makillaykipi kachun
+001632	Si usted nos llama, vendremos de inmediato	001632	Qayamuwaptikikuqa hamusaqku pachan
+001633	¿Tiene usted otro lugar adonde ir?	001633	¿Maypas kanchu ripukunaykipaq?
+001634	Sí, donde mis padres	001634	Arí taytamamaypaman
+001635	Vaya a la casa de sus padres	001635	Taytamamaykipa wasinman ripuy
+001636	Vaya a la casa de su hermana	001636	Ñañaykipa wasinman ripuy
+001637	Vaya a la casa de sus vecinos	001637	Wasimasiykipa wasinman ripuy
+001638	No, soy de otro pueblo	001638	Manam, huk llaqtamantam kani
+001639	No, vengo del campo	001639	Manam, hawa llaqtamantam kani
+001640	No puedo salir de mi casa	001640	Manam wasiymantaqa lluqsiymanchu
+001641	¿Tiene vecinos que le puedan ayudar?	001641	¿Kanchu wasimasiykikuna yanapasuynaykipaq?
+001642	¡Mi hija ha sido agredida por su esposo!	001642	¡Warmi wawayta qusan maqarun!
+001643	¡Mi hermana ha sido agredida por su esposo!	001643	¡Ñañayta qusan maqarun!
+001644	¡Mi vecina está siendo agredida por su esposo!	001644	¡Wasimasiytan qusan maqachkan!
+001645	¡Mi padrastro le pegó a mi mamá!	001645	¡Qipa taytaymi mamayta maqaran!
+001646	¿Ha ido ella al médico legista?	001646	¿Médico legistaman rirqanñachu?
+001647	Iremos a verla. ¿Nos puede acompañar?	001647	Qawaykuq risaqku.
+001648	Ayer usted le pegó a su esposa	001648	Qayna punchaw warmiykita maqaykunki
+001649	¿Por qué le ha pegado a su mujer?	001649	¿Imanasqataq warmiykita maqarqanki?
+001650	No me acuerdo de nada	001650	Manapunin yuyanichu
+001651	Ella no me obedece	001651	Paymi mana kasuwanchu
+001652	Usted no tiene ningún derecho a pegarle	001652	Manam derechuykichu maqanaykipaq
+001653	Pase lo que pase, usted no puede pegarle	001653	Imaynaña kaqtinpas manam maqanaykipaq atikunchu
+001654	Le ordenamos que salga de la casa	001654	Wasimanta lluqsinayki
+001655	Mi hijo me ha pegado	001655	Warmaymi maqaruwan
+001656	Mi esposa me ha pegado	001656	Warmiymi maqaruwan
+001657	Mi padrastro me ha pegado	001657	Padrastroymi maqaruwan
+001658	Mi hijo está siendo maltratado en el colegio	001658	Colegiopin warmayqa maltratasqa kachkan
+001659	¿Quién lo maltrata?	001659	¿Pitaq chay maltrataqrí?
+001660	Sus compañeros	001660	Yachaymasinkuna
+001661	El profesor	001661	Yachachiqmi
+001662	¿Por qué lo maltratan?	001662	¿Imarayku sarunchanku?
+001663	Porque no somos de acá	001663	Manam kaymanta kasqayku rayku
+001664	Porque somos del campo	001664	Hawa llaqtamanta
+001665	Por nuestro apellido	001665	Apelliduykumanta
+001666	Porque yo uso polleras	001666	Pullirawan churakuskaymanta
+001667	Dicen que habla mal el castellano	001667	Mana allintachu riman castellanuta. Nispa.
+001668	¿Es maltrato físico o psicológico?	001668	¿Kamisunkichu icha maqasunkichu?
+001669	Le insultan	001669	Kaminkutaq
+001670	Le empujan	001670	Tanqaykachankutaq
+001671	Le patean	001671	Haytankutaq
+001672	Le dan bofetadas	001672	Laqichunkutaq
+001673	¡Qué terrible! ¡Qué bueno que vino!	001673	¡Sasa mamáy! ¡Allinpuni hamusqayki!
+001674	¿Ha hablado con los profesores?	001674	¿Yachachiqkunawan rimarqankiñachu?
+001675	¿Ha hablado con el director?	001675	¿Directorwan rimarqankiñachu?
+001676	No me quiere escuchar	001676	Manam uyariyta munawanchu
+001677	Sí, pero no quieren arreglar el problema	001677	Arí, ichaqa manam problema allichayta
+001678	Sí, pero no quieren ayudar	001678	Arí, ichaqa manam yanapakuyta munankuchu
+001679	Convocaremos al director	001679	Directortaq qayachisunchik
+001680	Podemos sancionar al colegio	001680	Colegiotapas sancionachwanmi
+001681	Además, el colegio tendrá que pagar una	001681	Chaymantapas, colegio indemnizacionta
+001682	indemnización	001682	sayachipusunki
+001683	Me han asaltado	001683	Waykarquwanmi
+001684	¿Cuántos eran los ladrones?	001684	¿Haykataq suwakunari karan?
+001685	Eran dos	001685	Iskaymi
+001686	Me asaltaron entre tres	001686	Kimsamantam waykarquwan
+001687	¿Puede describir a los ladrones?	001687	¿Chiqanchawaqchu suwakunataqa?
+001688	¿Estaban armados?	001688	¿Armasqachu kasqaku?
+001689	Sí, el ladrón tenía cuchillo	001689	Arí, kuchunayuqmi
+001690	Sí, el ladrón tenía una pistola	001690	Arí, pistolayuqmi
+001691	¿Las personas que le robaron eran de la zona o de otro lugar?	001691	¿Suwaqniykikunari llaqtamantachu icha hukllaqtamantachu kanman karqa?
+001692	Eran desconocidos	001692	Mana riqsisqakunam karqanku
+001693	Sí, son del lugar	001693	Arí, kaymantam
+001694	Son las personas detenidas	001694	Hapisqa runakuna
+001695	Es el detenido	001695	Hapisqa runa
+001696	¿Cómo estaban vestidos?	001696	¿Imayna pachasqataq kasqaku?
+001697	¿Qué le robaron?	001697	¿Imatataq suwarqusunki?
+001698	Me ha quitado mi billetera	001698	Billeteraytam qichurquwan
+001699	Se han llevado mi celular	001699	Celularniytam aparikunku
+001700	Se han escapado con mi	001700	Mochilaytam siqaykachinku
+001701	Se han escapado con mi	001701	Qullqiytam siqaykachinku
+001702	¿Le robaron a más personas?	001702	¿Huk runakunatapas suwarqunchu?
+001703	Sí, a otros también	001703	Arí, hukkunatapas
+001704	No, a mí nomás	001704	Manam, ñuqallatam
+001705	Me han sustraído mi dinero	001705	Qullqiytam hurqupariwan
+001706	Me han sustraído mi celular	001706	Celularniytam hurqupariwan
+001707	¿Dónde tenía el dinero usted?	001707	¿Maypitaq qullqiyki karqa?
+001708	¿Dónde estaba el celular?	001708	¿Maypitaq celularniyki karqa?
+001709	En mi cartera	001709	Carteraypim
+001710	En mi bolso	001710	Wayaqaypim
+001711	¿Cuánto dinero le fue sustraído?	001711	¿Hayka qullqitaq karqa?
+001712	Eran trescientos soles	001712	Trescientos solismi
+001713	¿Cuándo se dio cuenta del robo?	001713	¿Imay pachapitaq suwasusqaykita yachakurqanki?
+001714	¿Y cómo se perdieron sus animales?	001714	¿Imaynanpimá chay uywakunaykiqa chinkarurqa?
+001715	¿Cuántos animales le robaron?	001715	¿Hayka uywatataq suwarusunkikuri?
+001716	Cinco toros, dos vacas, diez ovejas me robaron	001716	Pichqa torota, isway wakata, chunka uvijata suwaruwanku
+001717	¿Cómo eran los animales robados?	001717	¿Imaynataq karqa uywaykikuna?
+001718	Describa cómo eran sus animales	001718	Willarikuy imayna uywaykikuna kasqanta
+001719	Una está preñada. La otra es flaca	001719	Huknin chichu. Huknintaq tullu
+001720	¿Tenían alguna señal o marca?	001720	¿Markasqachu utaq señalniyuqchu karqa?
+001721	Sí, tiene señal	001721	Arí, señalniyuqmi
+001722	¿Dónde estaban los animales?	001722	¿Maypitaq uywakunaqa karqa?
+001723	¿Dónde estaban los cerdos?	001723	¿Maypitaq kuchikunaqa karqa?
+001724	Estaban en mi corral	001724	Corralniypim karqa
+001725	¿Le ha pasado esto a otras personas?	001725	¿Hukkunapatapas aparqanqunchu?
+001726	¿Esto pasa muchas veces en su comunidad?	001726	¿Sapa kutillachu kaypi suwachikunkichik?
+001727	Sí, a cada momento	001727	Riki, chaylla chayllam
+001728	¿De quién sospecha?	001728	¿Pimantamá musyapakunki?
+001729	No lo sé	001729	Manam yachanichu
+001730	¿Quién sabía que tenía usted ese dinero?	001730	¿Pitaq yacharqa chay qullqiykipa kasqanta?
+001731	Mi vecino	001731	Wasimasiymi
+001732	Pudo ser mi vecino	001732	Wasimasiychus hina kanman
+001733	Estoy seguro de que fue mi vecino	001733	Wasimasiypunim
+001734	He sufrido una violación	001734	Mana munachkaptiy kallparquwan
+001735	¿Conoce al agresor?	001735	¿Kallpaqniykita riqsinkichu?
+001736	Fue un hombre desconocido	001736	Mana riqsisqa qarim
+001737	Sí, lo conozco. Es mi vecino	001737	Arí riqsini. Wasimasiymi
+001738	Vive en el pueblo	001738	Llaqtamasiymi
+001739	Es un familiar mío	001739	Ayllumasiymi
+001740	¿En qué lugar se produjo la violación?	001740	¿Maypitaq kallparusurqanki?
+001741	¿Usted tuvo relaciones por la fuerza o fue con su voluntad?	001741	¿Mana munakuchkaptiykichu icha munachkaptiykichu sutkumurqa? .
+001742	¿Lo hizo contra su voluntad?	001742	¿Mana munakuchkaptiykichu ruwasurqanki?
+001743	Fue contra mi voluntad	001743	Mana munakuchkaptiymi
+001744	Tiene que ir al médico legista	001744	Médico legistaman rinayki
+001745	Han violado a un niño	001745	Warmatam kallparqusqaku
+001746	¿Quién es la víctima?	001746	¿Pitam sarunchakusqaku?
+001747	Es mi hija	001747	Warmaymi
+001748	Es mi sobrina	001748	Sobrinaymi
+001749	Es el hijo de mi vecina	001749	Wasimasipa warmanmi
+001750	¿Quién es el agresor?	001750	¿Pitaq kallparunri?
+001751	El violador es el profesor	001751	Yachachiqmi violadorqa
+001752	El violador es su padre	001752	Taytallanmi violadorqa
+001753	El violador es su tío	001753	Tionmi violadorqa
+001754	El violador es su vecino	001754	Wasimasinmi violadorqa
+001755	¿Otras veces ha pasado?	001755	¿Huk kutikunapas chaynarqachu?
+001756	Sí, es un violador reincidente	001756	Arí, sapa kuti kallpaqmi
+001757	Ya ha abusado de varias alumnas	001757	Yachaywasipi achka wawakunatañam kallpasqa
+001758	Las alumnas tienen miedo de hablar	001758	Yachaqkunaqa rimariyta manchakunku
+001759	Las chicas tienen miedo de hablar	001759	Warmakunaqa rimariyta manchakunku
+001760	También los padres de familia tienen miedo de denunciar	001760	Taytamamakunapas denuncia churaytaqa manchakunku
+001761	A mi hija/hijo le han hecho tocamientos indebidos	001761	Wawaytan manam munachkaptin hapirurqaku
+001762	No se preocupe, solo una vez le harán las preguntas	001762	Ama llakikuychu. Huk kutillatam tapusunki
+001763	Un psicólogo va a hacerle preguntas a su hija para ayudarla	001763	Psicologom warmaykitaqa tapunqa yanapananpaq
+001764	No se avergüence	001764	Ama pinqakuychu
+001765	No ha sido culpa de usted	001765	Mana qampa huchaykichu
+001766	¿Con quién se escapó su hija?/¿Quién se llevó a su hija?	001766	¿Pitaq wawaykiwan suwanakun?
+001767	Seguro con su enamorado	001767	Kuyaqninwanchá riki
+001768	¿Cuántos años tiene su hija?	001768	¿Hayka watayuqtaq wawayki?
+001769	Tiene dieciocho años	001769	Chunka pusaqniyuqmi
+001770	Catorce años tiene	001770	Chunka tawayuqmi
+001771	¿Cuántos años tiene el enamorado?	001771	¿Hayka watayuqmi kuyaqnin?
+001772	Ya es adulto	001772	Machu runañam
+001773	¡Vamos a buscarlos!	001773	¡Haku maskamusun!
+001774	Los vamos a buscar	001774	Maskamusunchik
+001775	¿Ha ido a buscarla a casa de él?	001775	¿Paypa wasinta maskaq rirqankichu?
+001776	Todavía no he ido	001776	Manam riniraqchu
+001777	Quiero ir con un policía	001777	Wardiawan riyta munani
+001778	¿Cómo es el enamorado?	001778	¿Imaynataq chay kuyaqninri?
+001779	¿Usted lo conoce a él?	001779	¿Qam payta riqsinkichu?
+001780	No lo conozco	001780	Manam paytaqa riqsinichu
+001781	¿Hace cuánto tiempo su hija tenía esa relación?	001781	¿Hayka tiempoñataq kuyanakusqanku?
+001782	Tres meses nomás	001782	Kimsa killallaraqmi
+001783	Ya es un año	001783	Huk watañam
+001784	¿Usted se oponía a esa relación?	001784	¿Michakurqankichu kuyanakunanta?
+001785	Sí, no estaba de acuerdo	001785	Arí, michakurqanim
+001786	¿Por qué se oponía usted?	001786	¿Imanasqataq michakurqanki?
+001787	Porque él es mucho mayor	001787	Machuyasqa runa kaptinmi
+001788	¿Su hija estaba embarazada?	001788	¿Wawayki wiksayuqchu karqa?
+001789	¿Alguien más vio lo que pasó?	001789	¿Pikunapiwantaq chayta rikurqaku?
+001790	Mis vecinos vieron todo	001790	Wasimasiykunam lliwta rikurqaku
+001791	Mis padres vieron	001791	Taytamamaymi rikurqaku
+001792	Dos mujeres vieron todo	001792	Iskay warmim lliwta rikurqaku
+001793	Mi hermano lo vio	001793	Turiymi rikurqa
+001794	¿Quiénes estaban allí?	001794	¿Pikunataq chaypi karqa?
+001795	Mi hermana	001795	Paniymi
+001796	Nadie más	001796	Manam pipas
+001797	Nadie vio nada	001797	Manam pipas imatapas rikurqachu
+001798	Solamente nosotros dos	001798	Iskayllaykum
+001799	Solamente yo	001799	Ñuqallam
+001800	Me llamo Freddy Manrique, soy el fiscal que está investigando su denuncia	001800	Sutiymi Freddy Manrique, denunciaykipi llamkaq fiscalmi kani
+001801	Soy el fiscal que está investigando el homicidio	001801	Chay wañuchimanta qawaq fiscalmi kani
+001802	Venimos a hacer algunas preguntas	001802	Tapurikuqmi hamuchkaniku
+001803	Acá estoy, señor	001803	Qampullayki, taytáy
+001804	Le hemos citado para hacerle unas preguntas	001804	Tapurinaykikupaqmi hamuchirqaykiku
+001805	Lo estaba buscando a	001805	Maskamusarachkayki
+001806	¿Para qué me estaba buscando, jefe?	001806	¿Imapaqmi maskamuwarqanki, jefe?
+001807	¿No es usted Walter Huamán?	001807	¿Manachu Walter Huamán kachkanki?
+001808	Debo hablar con usted sobre Paul Quispe	001808	Paul Quispemanta qanwan rimaykunay kachkan
+001809	¿Conoce a Paul Quispe?	001809	¿Paul Quispeta riqsinkichu?
+001810	¿Conocía a Paul Quispe?	001810	¿Paul Quispeta riqsirqankichu?
+001811	Sí, lo conozco	001811	Arí, payta riqsini
+001812	Sí, lo conocía	001812	Arí, riqsirqani
+001813	Nos conocemos	001813	Paywanqa riqsinakuykun
+001814	¿Hace cuánto se conocen?	001814	¿Haykamantataq riqsinakurqankichik?
+001815	¿Qué relación tenía con él/ella?	001815	¿Imataq qanpaq payri?
+001816	Es un amigo	001816	Amigollaymi
+001817	Es mi prima	001817	Primaymi
+001818	Solo lo conozco de vista	001818	Qarumanta riqsisqallaymi
+001819	¿Conoce al asesino?	001819	¿Wañuchiqta riqsinkichu?
+001820	¿Conocía al ladrón?	001820	¿Suwata riqsirqankichu?
+001821	¿Quién mató a Victoriano Morales?	001821	¿Pitaq Victoriano Moralestari wañuchirqa?
+001822	Si lo sabe, dígamelo	001822	Yachaspaykiqa, willaykuway
+001823	Si lo sabe, díganoslo	001823	Yachaspaykiqa, willaykuwayku
+001824	¿Nos contará todo?	001824	¿Llapantachu willariwankiku?
+001825	¿Dónde estaba usted el 14 de mayo a las 4 de la tarde?	001825	¿Mayo killa chunka tawayuq punchawninpi, tawa horas tardeta maypitaq karqanki?
+001826	¿Qué estaba haciendo usted el 14 de mayo a las 4 de la tarde?	001826	¿Imatan ruwarqanki Mayo killa chunka tawayuq punchawninpi, tawa horas tardeta?
+001827	¿Qué está ocultando?	001827	¿Imatam pakachkanki?
+001828	¿Por qué no quiere hablar?	001828	¿Imaraykum rimayta mana munankichu?
+001829	¿Por qué calla usted, señora?	001829	¿Imaraykum upallanki, mamáy?
+001830	¿La está amenazando su esposo?	001830	manchachisunki?
+001831	¿Recuerda?	001831	¿Yuyankichu?
+001832	¿No sabe nada?	001832	¿Manachu imatapas yachanki?
+001833	¿No recuerda nada?	001833	¿Manachu imatapas yuyachanki?
+001834	Le voy a contar algo	001834	Kayta willasqayki
+001835	Les digo de verdad	001835	Chiqaptam niykichik
+001836	No le estoy mintiendo	001836	Manam llullakuykichu
+001837	Cuéntenos	001837	Willaykuwayku
+001838	Cuénteme	001838	Willaykuway
+001839	Cuénteme lo que	001839	Uyarimusqaykita willaway
+001840	¿Qué me tiene que	001840	¿Imatam niwanayki kachkan?
+001841	¿Qué más me tiene que contar?	001841	¿Imakunamantata willawanayki?
+001842	Él va a hablar	001842	Paymi rimarinqa
+001843	Ella le va a decir la verdad	001843	Paymi chiqapta rimarinqa
+001844	Seguiré averiguando	001844	Tapukacharikamusaqraq
+001845	¿Por qué tengo que ir al juzgado?	001845	¿Imapaqtaq juzgadomanri rinay?
+001846	Tiene que acudir a la citación del juzgado en calidad de testigo	001846	rinayki rikuq hina
+001847	Tiene que acudir a la citación del juzgado en calidad de acusado	001847	Juzgadupa qayachimususqaykimanmi rinayki tumpasqa kasqayki hina
+001848	Le harán preguntas	001848	Tapusunkikun rikusqaykiman hina willakunaykipaq
+001849	Yo estaré a su lado	001849	Ñuqaqa waqtaykipim kasaq
+001850	No puedo salir de mi trabajo	001850	Manam llamkanaymanta lluqsimuyta atinichu
+001851	Tiene que ir con	001851	Abogadowanmi rinayki sayapakusunaykipaq
+001852	No tengo dinero para pagar un abogado	001852	Abogadoman chanin chanaypaq mana qullqi kanchu
+001853	Puede pedir un abogado de oficio, no le costará	001853	Mañakuwaqcha abogado de oficiota, mana qullqillapaq
+001854	El juez dispuso orden de prisión preventiva para el imputado	001854	Juezmi kamachikun hucha tumpasqa prisión preventivaman rinanpaq
+001855	Mientras dure el juicio él/ella estará preso	001855	Juicio tukunankamachá wichqasqa kanqa
+001856	El juez dispuso orden de comparecencia para el imputado	001856	Juezmi kamachikun hucha tumpasqa wasillampi kananpaq
+001857	¿Lo han dejado libre?	001857	¿Kacharirqakuchu?
+001858	Sí, pero tiene que acercarse al juzgado cada mes para firmar	001858	Ari, ichaqa sapa killam juzgadoman asuykunan firmananpaq
+001859	Sí, pero podemos apelar esa orden	001859	Arí, ichaqa chay kamachikuyta allichachiyta atichwan
+001860	Muéstreme su DNI	001860	DNIniykita qawachiway
+001861	Tiene que mostrar su DNI	001861	DNIniykita qawachinayki
+001862	¿Necesita un traductor o sabe castellano?	001862	¿Castillasimita yachankichu icha simi tikraqtachu munanki?
+001863	Prefiero hablar solamente en quechua	001863	Runasimillapi rimayta munani
+001864	¿Quién va a traducir?	001864	¿Pitaq tikranqari?
+001865	Quiero explicar nuestro trabajo	001865	Llamkayniykutam qawachinaykita munani
+001866	Queremos explicar nuestro trabajo	001866	Llamkayniykutam qawachinaykita munaniku
+001867	Señale cómo eran las dos personas que le robaron	001867	¿Imaynam chay iskay suwaq runakuna karqa?
+001868	¿Reconoce usted a	001868	¿Riqsinkichu chay suwaq runakunata?
+001869	¿Pudo ver quiénes eran los agresores?	001869	¿Maqaqkunata rikururqankichu?
+001870	Explique en qué circunstancias sufrió la agresión	001870	Willaway imaynanpitaq maqarusurqanki
+001871	Tiene que repetir lo que ya dijo para que se ratifique su versión	001871	Niskayqita kaqmanta willakuy chayman hinapunin kananpaq
+001872	¿En qué circunstancias vio los hechos?	001872	¿Imaynanpitaq chayta rikurqanki?
+001873	¿De quién sospecha?	001873	¿Pimanta musyapakunki?
+001874	Tiene que firmar si está de acuerdo	001874	Firmanaykin rimasqaykiman hina kaptinqa
+001875	Todo consta en acta	001875	Lliwmi actapi churasqa
+001876	¿Usted estuvo allí o le han contado?	001876	¿Qamchu chaypi karqanki icha willasurqankikuchu?
+001877	¿Usted estuvo en el lugar de los hechos?	001877	¿Qanri chaypichu karqanki?
+001878	¿Por quién se enteró de lo sucedido?	001878	¿Pipa nisqantaq yacharanki?
+001879	¿Quién le contó lo	001879	¿Pitaq willasuranki?
+001880	Me avisó otra persona	001880	Hukmi willamuwan
+001881	Mi hija me avisó	001881	¿Imaynanpitaq chayta rikurqanki?
+001882	Mi vecino me avisó	001882	Wasimasiymi willamuwan
+001883	Yo he visto	001883	Kikiymi rikumuni
+001884	El hijo de Mario es un ladrón de gallinas	001884	Mariopa churinmi wallpasuwa
+001885	Se comenta que el hijo de Mario es un ladrón de gallinas	001885	Rimanku, Mariopa churinqa wallpasuwas.
+001886	que le abandonó	001886	Saqirparisqam
+001887	que le abandonó	001887	Saqirparisqas
+001888	Yo sé que ha sido mi yerno	001888	Arí, masaypunim karqa
+001889	Yo sé que ha sido mi vecino	001889	Ari, wasimasiypunim karqa
+001890	Yo sé que ha sido ese hombre/mujer	001890	Chay runapunim karqa
+001891	Yo sé que ha sido esa mujer	001891	Chay warmipunim karqa
+001892	Yo sé que ha sido ese varón	001892	Chay qaripunim karqa
+001893	Sé que el hijo de Mario es un ladrón de gallinas	001893	Mariopa churinqa wallpasuwapunim
+001894	Quizá usted vio al ladrón	001894	Icha qam suwata rikurqanki
+001895	Quizá usted vio al asesino	001895	Icha qam wañuchiqta rikurqanki
+001896	Quizá él era el ladrón	001896	Paypaschá suwa karqa
+001897	Quizá era él/ella	001897	Paypaschá karqa
+001898	Probablemente, ese  robó el dinero	001898	Chay runapaschá qullqitaqa suwakurqa
+001899	Probablemente, aquel  robó el dinero	001899	Wak runachusmi qullqitaqa suwakurqa
+001900	Antes que usted, el juez escuchará a los testigos	001900	Testigokunataraqmi juezqa uyarinqa chaymantaña qamtaqa
+001901	¿Conocía usted a la víctima?	001901	¿Sasachakuqwan riqsinakuqchu karqanki?
+001902	¿Cómo se llevaba con su pareja?	001902	¿Imaynataq tiyamasinwan apanakura?
+001903	Muchas personas dicen que usted y su esposa peleaban mucho	001903	Achka runakunan ninku qamsi warmiykiwan llumpayta maqanakunkickik
+001904	Muchas personas dicen que usted peleaba mucho con su esposa	001904	Achka runakunan ninku qamsi warmiykiwan yumpayta qaparinakunkichik.
+001905	¿Tenía una pésima relación con su vecino?	001905	¿Wasimasiykiwansi millaypi tiyanki?
+001906	¿Se llevaba mal con su vecino?	001906	¿Wasimasiykiwansi chiqninakunkichik?
+001907	¿Tenía una pésima relación con su esposo?	001907	¿Qusaykiwansi millaypi tiyankichik?
+001908	¿Por qué ingresó a la casa de su vecino?	001908	¿Imaraykum wasimasiykipa wasinman yaykurqanki?
+001909	¿Desde cuándo conocía a la víctima?	001909	¿Haykamantataq sasachakuqta riqsirqanki?
+001910	¿Desde cuándo conocía al difunto?	001910	¿Haykamantataq wañuqta riqsirqanki?
+001911	El señor Huamán dice que solo usted sabía dónde estaba el dinero	001911	Tayta Huamanmi ninmi qamllas maypi qullqi kasqantaqa yacharqanki
+001912	¡No hice nada!	001912	¡Manam imatapas ruwanichu!
+001913	Pero si yo no he hecho nada	001913	Manamá ñuqaqa imatapas ruwanichu
+001914	De ninguna manera ha sido mi culpa	001914	Manamá ñuqapa huchaychu
+001915	No recuerdo	001915	Manam yuyanichu
+001916	¡No sé de qué me está hablando!	001916	¡Imamantachá rimapayawachkankipas!
+001917	Yo no sabía.	001917	Manam yacharqanichu
+001918	No conozco a ese hombre/ No conozco a esa mujer.	001918	Manam chay runataqa riqsinichu
+001919	Ustedes me acusan por gusto	001919	Yanqamanta tumpawankichik
+001920	Ellos saben quiénes son los responsables	001920	Paykuna yachanku pi huchayuq kasqantaqa
+001921	Ese día yo no estaba en el pueblo	001921	Chay punchawqa manam llaqtapichu karqani
+001922	Yo soy culpable	001922	Ñuqam huchayuq kani
+001923	Quiero confesar mi delito	001923	Huchaymanta munani willakuyta
+001924	Quiero contarle sobre un delito que cometí	001924	Huchaytam willakuyta munani
+001925	Nadie me ayudó	001925	Manam pipas yanapawarqachu
+001926	Lo hice yo solo	001926	Sapallaymi ruwarani
+001927	Hemos programado la reconstrucción del crimen	001927	Imaynatam sasachakuyta ruwarqaku, chayta yachanapaqmi patanmanta yuyarichisaqku
+001928	El juez quiere saber cómo se produjo el homicidio	001928	Juezmi yachayta munan imaynanpi wañuchirqaku
+001929	No hay que exaltarse mucho	001929	Ama llumpayta qapariychu
+001930	Necesitamos tranquilidad	001930	Hawkallan kananchik ruwakuy qatarichinapaq
+001931	La audiencia comenzará en diez minutos	001931	Audienciaqa chunka minutosmantam qallarinqa
+001932	Estamos esperando que llegue el juez	001932	Juez chayamunanta suyachkanchik
+001933	Estamos esperando que llegue el fiscal	001933	Fiscal chayamunanta suyachkanchik
+001934	Debemos esperar a que llegue el acusado con su abogado	001934	Suyananchikmi huchachasqa abogadontin chayamunanta
+001935	Espere a que el juez le pregunte	001935	Juez tapusunaykita suyaykuy
+001936	No debe interrumpir la audiencia	001936	Manam audienciataqa chaqwankimanchu
+001937	Espere su turno	001937	Tupamusunaykita suyaykuy
+001938	Vamos a hacer un receso	001938	Samarisunchik
+001939	Se ha fijado el día de lectura de la sentencia	001939	Sentenciapaq ña punchaw kachkanña
+001940	Ganamos el juicio	001940	¡Juiciupi llallinchik!
+001941	Perdimos el juicio	001941	¡Juiciupi llallichikunchik!
+001942	No hay pruebas de la acusación	001942	Manam kanchu imapas huchachanapaq
+001943	Han quedado compro- bados los hechos, pero no la responsabilidad del acusado.	001943	Ruwaykunaqa chuyanchasqa kasqa, ichaqa manam huchachasqapachu.
+001944	Ha quedado comprobada la responsabilidad del acusado	001944	Ruwaykunaqa chuyanchasqa kasqa hinallataq tunpasqapa huchanpas
+001945	Está en prisión domiciliaria	001945	Wasillampi huchanmanta wichqasqa kachkan
+001946	Él ha sido sentenciado a prisión suspendida. Tiene que seguir unas reglas de conducta	001946	Payqa prisión suspendidapin kanqa. Ruwayninkunaqa kamachikuykunatan qatinan kanqa
+001947	El sentenciado deberá firmar todos los meses	001947	Sentenciadoqa kasqa sapa killam firmanam
+001948	Cada mes usted deberá venir a firmar	001948	Sapa killa firmanaykiq hamunayki
+001949	se le ha impuesto prisión efectiva de veinticinco años	001949	Iskay chunka pichqayoq watapaq carcelman churasqa kachka
+001950	Tenemos cinco días para apelar la sentencia	001950	apelananchikpaq
+001951	La sentencia ha sido confirmada	001951	Sentenciaqa kaqpunis
+001952	Tiene derecho a beneficios penitenciarios	001952	Allinllapi kaptinqa kanmansi derechunpi sayarinanpaq
+001953	Puede reducir la condena	001953	Condenasqataqa chikayachinmansi
+001954	Puede reducir su condena	001954	Condenasqaykitaqa chikayachinmansi
+001955	¿A quién ha venido a visitar?	001955	¿Pitam watukaq kamuchkanki?
+001956	Vengo a visitar a mi esposo	001956	Qusaytam watukaq hamuchkani
+001957	Vengo a visitar a mi papá	001957	Taytaytam watukaq hamuchkani
+001958	Estoy visitando a mi hijo/hija.	001958	Wawaytam watukaq hamuchkani
+001959	¿Cómo se llama su esposo?	001959	¿Imataq qusaykipa sutinri?
+001960	Miguel Quispe Calle	001960	Miguel Quispe Callem
+001961	El día de visita es el martes	001961	Martesninpim watukay punchawqa
+001962	¡Por favor, jefe! Otro día no puedo venir	001962	¡Ama hina kaychu, jefe! Manam huk punchawqa atimusaqchu
+001963	La hora de visita termina a las 3.00 p. m.	001963	Kimsa horaskamallam watukanakuyqa.
+001964	¿No puede ser ahora?	001964	¿Manachu kunanlla kanman?
+001965	¿Es urgente?	001965	¿Imapas urgentechu?
+001966	¿Qué le está llevando?	001966	¿Imatataq apachkanki?
+001967	Comida nomás	001967	Mikunallatam
+001968	Su ropa	001968	Pachantam
+001969	Enséñeme lo que trae	001969	Qipiykita qawachiway
+001970	No puede ingresar esos productos al penal	001970	Penalmanqa kaykunata manam yaykuchiwaqchu
+001971	Espere aquí, lo voy a llamar	001971	Kaypi suyay, qayamusaq
+001972	Se me ha perdido mi abuelita	001972	Paya mamaymi chinkarparin
+001973	Se me ha perdido mi abuelito	001973	Machu taytaymi chinkarparin
+001974	Se me ha perdido mi nieto	001974	Willkaymi chinkarparin
+001975	Se me ha perdido mi hijo	001975	Churiymi chinkarparin
+001976	Se me ha perdido mi hija	001976	Warmi wawaymi chinkarparin
+001977	¿Cuántos años tiene ?	001977	¿Hayka watayuqtaq pay?
+001978	4 años	001978	Tawa watayuqmi.
+001979	75 años	001979	Qanchis chunka pichqa watayuqmi
+001980	¿Cómo se llama ?	001980	¿Imataq sutinqa?
+001981	Wilson Huamán Lazo	001981	Wilson Huamán Lazom
+001982	¿Cómo así tu hijo se perdió?	001982	¿Imaynanpim chay wawayki chinkarurqa?
+001983	¿En qué circunstancias el anciano se extravió?	001983	¿Imaynanpitaq machula chinkarurqa?
+001984	Estábamos andando juntos en la feria	001984	Feriapi kuska purichkaptiykun
+001985	Lo dejé solo	001985	Sapallantam saqiykurqani
+001986	Le mandé a comprar	001986	Rantiqmi kacharqani
+001987	En la fiesta	001987	Raymipim
+001988	Fue a la ciudad y no regresó	001988	Llaqatam rira mana kutimunchu
+001989	Fue a la chacra y no regresó	001989	Chakratam rira mana kutimuchu
+001990	Fue al colegio y no regresó	001990	Yachaywasitam rira mana kutimunchu
+001991	¿El anciano sabe cómo regresar a su casa?	001991	¿Machulari yachanchu wasinman imayna kutimuyta?
+001992	¿El niño sabe cómo regresar a su casa?	001992	¿Warmaykiri yachanchu wasinman imayna kutimuyta?
+001993	De cerca, sí sabe volver	001993	Hichpallamantaqa yachanmi
+001994	De lejos, no sabe volver	001994	Karumantaqa manam yachanchu
+001995	No sabe	001995	Manam yachanchu
+001996	¿El anciano tiene conocidos acá?	001996	¿Kaypi kanchu machula riqsiqninkuna?
+001997	No tiene. Ayúdeme a buscarlo	001997	Manam kanchu. Maskaysillawaychik
+001998	Estoy buscando a mis papás	001998	Taytamamayta maskachkani
+001999	¿Cómo se llaman ellos?	001999	¿Imataq sutinkuri?
+002000	No sé dónde me encuentro	002000	Maypi kasqayta yachanichu
+002001	Estoy buscando el terminal	002001	Terminaltam maskachkani
+002002	Estoy buscando mi casa	002002	Wasiytam maskachkani
+002003	Estoy buscando esta dirección	002003	Kay direccionta maskachkani
+002004	No se preocupe	002004	Ama llakikuychu
+002005	Te vamos a ayudar / le vamos a ayudar	002005	Yanapasqaykikum
+002006	¡Se quema una casa!	002006	¡Wasim kañakuchkan!
+002007	¡Se quema mi casa!	002007	¡Wasinmi kañakuchkan!
+002008	¡Ha caído un huayco!	002008	¡Lluqllam hamurqun!
+002009	¡El huayco se llevó nuestras casas!	002009	¡Wasinchikta lluqlla aparqun!
+002010	¡Una combi ha atropellado a una anciana!	002010	¡Combim payachata sarurparin!
+002011	¡Un mototaxi ha atropellado a un niño!	002011	¡Mototaxim wawata sarurparin!
+002012	¡Se ha caído el ómnibus!	002012	¡Omnibusmi qaqapaykun!
+002013	¡Ha chocado el colectivo!	002013	¡Colectivom chaqurparin!
+002014	¡Llama a la policía!	002014	¡Wardiyata qayay!
+002015	¡Trae a la policía!	002015	¡Policiata apamuy!
+002016	¿Hay muertos?	002016	¿Wañusqakuna kachkanchu?
+002017	No, solamente heridos	002017	Manam, kirisqakunallam
+002018	¿Hay gente atrapada?	002018	¿Harkasqa runakuna kanchu?
+002019	Mi esposo está atrapado allí	002019	Qusaymi chaypi tuqllasqa kachkan
+002020	Mi hermana está atrapada allí	002020	Paniymi chaypi tuqllasqa kachkan
+002021	Ayúdeme a sacar a mi hijo	002021	Wawayta hurquysiwaychik
+002022	Díganle a mi familia que estoy bien	002022	Allinlla kasqayta aylluyman niykapuwaychik
