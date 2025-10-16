@@ -162,7 +162,7 @@ Se presentan dos versiones del modelo: una entrenada con **2 épocas** (para val
 | Tamaño de batch | 8 | 8 |
 | Learning rate | 5e-5 | 5e-5 |
 | Épocas | 2 | 50 |
-| Tiempo estimado de entrenamiento | ~20 min | ~7 h |
+| Tiempo estimado de entrenamiento | ~3.5 min | ~1.5 h |
 | Métricas registradas | No registradas | No registradas |
 
 ---
