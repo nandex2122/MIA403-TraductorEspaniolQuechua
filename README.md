@@ -188,7 +188,7 @@ El modelo actual **no implementa un módulo de recuperación** (Retriever o RAG)
 - **Posición del pasaje:** No aplica.  
 - **Señales del retriever:** (score, overlap, top-k) No implementadas.
 
-> 💡 En futuras versiones se planea integrar un **módulo RAG** que utilice búsqueda semántica (TF-IDF o embeddings) para seleccionar pasajes relevantes antes de traducir.
+> 💡 En la próxima verison se planea integrar un **módulo RAG** que utilice búsqueda semántica (TF-IDF o embeddings) para seleccionar pasajes relevantes antes de traducir. (Por moptivos de computo se nos dificultó integrarlo con RAG)
 
 ---
 
