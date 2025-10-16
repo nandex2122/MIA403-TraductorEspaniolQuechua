@@ -145,6 +145,99 @@ pip install -r requirements.txt
    - Generan resultados en `logs/log_baseline.txt`  
 
 ---
+# 🔍 Feature Engineering y Configuración del Modelo de Traducción Español–Quechua
 
+Este documento describe el proceso de **fine-tuning del modelo BART** para la tarea de **traducción automático Español–Quechua**, desarrollado en Jupyter Notebook.  
+Se presentan dos versiones del modelo: una entrenada con **2 épocas** (para validación inicial) y otra con **50 épocas** (para convergencia completa y evaluación final).
+
+---
+
+## 📄 1. Configuración General
+
+| Parámetro | Modelo 2 Épocas | Modelo 50 Épocas |
+|------------|----------------|------------------|
+| Modelo base | `facebook/bart-base` | `facebook/bart-base` |
+| Tokenizer | `BartTokenizer` | `BartTokenizer` |
+| Longitud máxima (`max_length`) | 128 | 128 |
+| Tamaño de batch | 8 | 8 |
+| Learning rate | 5e-5 | 5e-5 |
+| Épocas | 2 | 50 |
+| Tiempo estimado de entrenamiento | ~20 min | ~7 h |
+| Métricas registradas | No registradas | No registradas |
+
+---
+
+## ⚙️ 2. Feature Engineering (FE) para Texto
+
+El **preprocesamiento textual** aplicado antes del entrenamiento incluye:
+
+1. **Tokenización** con `BartTokenizer`, aplicando segmentación sub-palabra (Byte-Pair Encoding).  
+2. **Conversión** de los pares Español–Quechua a tensores (`input_ids`, `attention_mask`, `labels`).  
+3. **Padding y truncado** hasta una longitud fija de 128 tokens.  
+4. No se aplica limpieza adicional (stopwords, lematización, etc.), ya que BART maneja ruido textual de forma eficiente.
+
+> 🧩 Este pipeline representa un **FE estándar para modelos seq2seq**, optimizado para tareas de traducción.
+
+---
+
+## 🔍 3. Recuperación de Información (RAG)
+
+El modelo actual **no implementa un módulo de recuperación** (Retriever o RAG).
+
+- **TF-IDF / BM25:** No aplican.  
+- **Posición del pasaje:** No aplica.  
+- **Señales del retriever:** (score, overlap, top-k) No implementadas.
+
+> 💡 En futuras versiones se planea integrar un **módulo RAG** que utilice búsqueda semántica (TF-IDF o embeddings) para seleccionar pasajes relevantes antes de traducir.
+
+---
+
+## 🧩 4. Longitud de Contexto
+
+- Longitud máxima: **128 tokens** por entrada.  
+- Este valor equilibra costo computacional y capacidad de generalización.  
+- En escenarios de chatbot o RAG, se puede ampliar a **256–512 tokens** para mejorar cobertura contextual (a costa de mayor latencia).
+
+---
+
+## 🧠 5. Embeddings
+
+- Los **embeddings son generados internamente** por el modelo BART durante el entrenamiento.  
+- No se utilizan embeddings externos como Word2Vec o Sentence-BERT.  
+- Esta decisión reduce **latencia** y simplifica el **despliegue en producción**.
+
+---
+
+## ⏱️ 6. Estimación de Costo y Latencia
+
+| Configuración | Tiempo estimado de entrenamiento | Uso esperado |
+|----------------|----------------------------------|---------------|
+| 2 épocas | ~3.5 minutos | Validación funcional / test rápido |
+| 50 épocas | ~1.5 horas | Modelo final / despliegue |
+
+*(Tiempos estimados en GPU NVIDIA T4 o RTX 3060, dataset de tamaño medio).*
+
+---
+
+## 📊 7. Conclusiones
+
+- El modelo de **2 épocas** permite validar el pipeline y estructura de datos.  
+- El modelo de **50 épocas** logra una mejor convergencia y coherencia en la traducción.  
+- No se aplican técnicas RAG ni embeddings externos.  
+- La longitud de contexto de 128 tokens garantiza **eficiencia y bajo costo**.
+
+---
+
+## 🚀 8. Próximos Pasos
+
+- Incorporar métricas de evaluación (BLEU, ROUGE, chrF).  
+- Registrar tiempos reales de entrenamiento e inferencia.  
+- Implementar módulo RAG con recuperación semántica.  
+
+---
+ 
+📅 **Versión:** Octubre 2025  
+
+---
 ## 📜 Licencia
 Uso académico – Universidad Nacional de Ingeniería (UNI).
