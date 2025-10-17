@@ -49,7 +49,14 @@ Este repositorio forma parte del curso **Proyecto de Investigación II (MIA 403)
 - **Año**: 2024
 - **Tipo**: Literatura contemporánea
 
-#### 5. Corpus Médico RAG - Español
+#### 5. Documento - Manual Ministerio de Cultura
+- **Fuente**: [Manual para el empleo del quechua chanka en la administración de justicia](https://repositorio.cultura.gob.pe/handle/CULTURA/51)
+- **Registros**: 950 pares de oraciones
+- **Tamaño**: 1.83 MB
+- **Año**: 2014
+- **Tipo**: Manual
+
+#### 6. Corpus Médico RAG - Español
 - **Fuente**: Oraciones médicas en idioma Español generadas por GPT-4 para entrenamiento RAG
 - **Registros**: 20,000 oraciones segmentadas
 - **Tamaño**: 1,977 KB
