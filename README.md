@@ -179,7 +179,7 @@ El **preprocesamiento textual** aplicado antes del entrenamiento incluye:
 > 🧩 Este pipeline representa un **FE estándar para modelos seq2seq**, optimizado para tareas de traducción.
 
 ---
-
+<!--
 ## 🔍 3. Recuperación de Información (RAG)
 
 El modelo actual **no implementa un módulo de recuperación** (Retriever o RAG).
@@ -189,10 +189,10 @@ El modelo actual **no implementa un módulo de recuperación** (Retriever o RAG)
 - **Señales del retriever:** (score, overlap, top-k) No implementadas.
 
 > 💡 En la próxima verison se planea integrar un **módulo RAG** que utilice búsqueda semántica (TF-IDF o embeddings) para seleccionar pasajes relevantes antes de traducir. (Por moptivos de computo se nos dificultó integrarlo con RAG)
-
+-->
 ---
 
-## 🧩 4. Longitud de Contexto
+## 🧩 3. Longitud de Contexto
 
 - Longitud máxima: **128 tokens** por entrada.  
 - Este valor equilibra costo computacional y capacidad de generalización.  
@@ -200,7 +200,7 @@ El modelo actual **no implementa un módulo de recuperación** (Retriever o RAG)
 
 ---
 
-## 🧠 5. Embeddings
+## 🧠 4. Embeddings
 
 - Los **embeddings son generados internamente** por el modelo BART durante el entrenamiento.  
 - No se utilizan embeddings externos como Word2Vec o Sentence-BERT.  
@@ -208,7 +208,7 @@ El modelo actual **no implementa un módulo de recuperación** (Retriever o RAG)
 
 ---
 
-## ⏱️ 6. Estimación de Costo y Latencia
+## ⏱️ 5. Estimación de Costo y Latencia
 
 | Configuración | Tiempo estimado de entrenamiento | Uso esperado |
 |----------------|----------------------------------|---------------|
@@ -219,21 +219,21 @@ El modelo actual **no implementa un módulo de recuperación** (Retriever o RAG)
 
 ---
 
-## 📊 7. Conclusiones
+## 📊 6. Conclusiones
 
 - El modelo de **2 épocas** permite validar el pipeline y estructura de datos.  
 - El modelo de **50 épocas** logra una mejor convergencia y coherencia en la traducción.  
 - No se aplican técnicas RAG ni embeddings externos.  
 - La longitud de contexto de 128 tokens garantiza **eficiencia y bajo costo**.
-
+<!--
 ---
 
-## 🚀 8. Próximos Pasos
+## 🚀 7. Próximos Pasos
 
 - Incorporar métricas de evaluación (BLEU, ROUGE, chrF).  
 - Registrar tiempos reales de entrenamiento e inferencia.  
 - Implementar módulo RAG con recuperación semántica.  
-
+-->
 ---
  
 📅 **Versión:** Octubre 2025  
